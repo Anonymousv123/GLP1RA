@@ -1,0 +1,5738 @@
+Relation type to GLP-1 RA,Entity type,,,,Nodes (Entity type)
+3 Times Per Week,EXERCISE_FREQUENCY_WHEN_OFF,,,,EXERCISE_FREQUENCY_WHEN_OFF
+60 Minutes,RELATED_TO,,,,RELATED_TO
+60 Minutes,RELATED_TO,,,,INCLUDES
+7 Workouts A Week,INCLUDES,,,, 73 Lbs
+7 Workouts A Week,INCLUDES,,,,0.5
+7 Workouts A Week,INCLUDES,,,,1
+7 Workouts A Week,INCLUDES,,,,0.25
+7 Workouts A Week,INCLUDES,,,, 144.4 Kg
+7 Workouts A Week,INCLUDES,,,, A1C
+ACHIEVED, 73 Lbs,,,, Normal Bmi
+INCREASED_TO,0.5,,,, Weight Loss
+INCREASED_TO,1,,,, Weight_Loss
+STARTS_AT,0.25,,,, 39Lbs
+STARTS_AT, 144.4 Kg,,,, Weaning Down
+STABLE, A1C,,,, 10% Body Weight Loss
+ACHIEVED, Normal Bmi,,,, 10 Pounds Gone
+ACHIEVED, Weight Loss,,,, 15Kg Weight Loss
+ACHIEVED, Weight Loss,,,,20
+ACHIEVED, Weight_Loss,,,, Male
+ACHIEVED, 39Lbs,,,,2020
+ACHIEVED, Weaning Down,,,, Ozempic
+ACHIEVED, 10% Body Weight Loss,,,, 52Lbs
+ACHIEVED, Weight Loss,,,, Anxiety
+ACHIEVED, 10 Pounds Gone,,,, Medication
+ACHIEVED, Weight_Loss,,,, 0.5_Mg
+ACHIEVED, 15Kg Weight Loss,,,, 1_Mg
+ACHIEVED, Weight Loss,,,, 1 Mg
+ACHIEVED,20,,,, 1St Dose 0.25Mg
+ACHIEVED, 73 Lbs,,,, 2Nd Dose 0.25Mg
+ACHIEVED, Normal Bmi,,,, 3Rd Dose 0.25Mg
+ACHIEVED, Weight Loss,,,, 4Th Dose 0.25Mg
+ACHIEVED, Weight Loss,,,, 5Th Dose 0.50Mg
+ACHIEVED, Weight_Loss,,,, 6Th Dose 0.50Mg
+ACHIEVED, 39Lbs,,,, 7Th Dose 0.50Mg
+ACHIEVED, Weaning Down,,,, 8Th Dose 0.50Mg
+ACHIEVED, 10% Body Weight Loss,,,, 9Th Dose 0.50Mg
+ACHIEVED, Weight Loss,,,, 10Th Dose 0.50Mg
+ACHIEVED, 10 Pounds Gone,,,, 11Th Dose 0.75Mg
+ACHIEVED, Weight_Loss,,,, 12Th Dose 1.00Mg
+ACHIEVED, 15Kg Weight Loss,,,, 13Th Dose 1.00Mg
+ACHIEVED, Weight Loss,,,, 14Th Dose 1.00Mg
+ACHIEVED,20,,,, 15Th Dose 1.00Mg
+ACHIEVED_BY, Male,,,, 16Th Dose 1.00Mg
+USED_IN,2020,,,, 17Th Dose 1.00Mg
+ACHIEVED_BY, Male,,,, 18Th Dose 1.00Mg
+ACHIEVES, Weight Loss,,,, 19Th Dose 1.00Mg
+ACHIEVES, Weight Loss,,,, 20Th Dose 1.00Mg
+ACHIEVING, Weight Loss,,,, 21St Dose 1.00Mg
+ACHIEVING, Weight Loss,,,, 22Nd Dose 1.00Mg
+ACQUIRED, Ozempic,,,, 23Rd Dose 1.00Mg
+ACQUIRED, Ozempic,,,, 24Th Dose 1.00Mg
+ADDED_FOR_TREATMENT, Ozempic,,,, 25Th Dose 1.00Mg
+ADDED_FOR_TREATMENT, Ozempic,,,, 26Th Dose 1.00Mg
+ADDITIONAL_WEIGHT_LOST, 52Lbs,,,, 27Th Dose 1.00Mg
+ADDITIONAL_WEIGHT_LOST, 52Lbs,,,, 28Th Dose 1.00Mg
+ADJUSTMENT, Anxiety,,,, 29Th Dose 1.00Mg
+ADJUSTMENT, Anxiety,,,, 30Th Dose 1.00Mg
+ADJUSTMENT_PERIOD, Medication,,,, Full 1Mg Dose
+ADJUSTMENT_PERIOD, Medication,,,, 1 Mg Per Week
+ADMINISTERED, 0.5_Mg,,,, 2 Mg
+ADMINISTERED, 1_Mg,,,, Thigh
+ADMINISTERED, Ozempic,,,, Hospital
+UPPED_TO, 1 Mg,,,, Intermittent Fasting
+UPPED_TO,0.5,,,, Paxlovid
+ADMINISTERED, 1St Dose 0.25Mg,,,, Pen
+ADMINISTERED, 2Nd Dose 0.25Mg,,,, Metformin
+ADMINISTERED, 3Rd Dose 0.25Mg,,,, Heart Palpitations
+ADMINISTERED, 4Th Dose 0.25Mg,,,, Pre
+ADMINISTERED, 5Th Dose 0.50Mg,,,, Plateau
+ADMINISTERED, 6Th Dose 0.50Mg,,,, Gastrointestinal Issues
+ADMINISTERED, 7Th Dose 0.50Mg,,,, Weight
+ADMINISTERED, 8Th Dose 0.50Mg,,,, Thyroid Cancer
+ADMINISTERED, 9Th Dose 0.50Mg,,,, Pcos
+ADMINISTERED, 10Th Dose 0.50Mg,,,, Blood_Sugars
+ADMINISTERED, 11Th Dose 0.75Mg,,,, Creatinine
+ADMINISTERED, 12Th Dose 1.00Mg,,,, Gang
+ADMINISTERED, 13Th Dose 1.00Mg,,,, House
+ADMINISTERED, 14Th Dose 1.00Mg,,,, Appetite
+ADMINISTERED, 15Th Dose 1.00Mg,,,, Cravings_For_Sweets
+ADMINISTERED, 16Th Dose 1.00Mg,,,, Blood_Sugar_Regulation
+ADMINISTERED, 17Th Dose 1.00Mg,,,, Testosterone Production
+ADMINISTERED, 18Th Dose 1.00Mg,,,, Blood Sugar
+ADMINISTERED, 19Th Dose 1.00Mg,,,, Sleep
+ADMINISTERED, 20Th Dose 1.00Mg,,,, Weight_Loss_Shot
+ADMINISTERED, 21St Dose 1.00Mg,,,, Shortage
+ADMINISTERED, 22Nd Dose 1.00Mg,,,, Fatigue
+ADMINISTERED, 23Rd Dose 1.00Mg,,,, Day To Day Life
+ADMINISTERED, 24Th Dose 1.00Mg,,,, Eating_Habits
+ADMINISTERED, 25Th Dose 1.00Mg,,,, Weightloss
+ADMINISTERED, 26Th Dose 1.00Mg,,,, Blood Sugar Control
+ADMINISTERED, 27Th Dose 1.00Mg,,,, Blood Sugar Levels
+ADMINISTERED, 28Th Dose 1.00Mg,,,, Insulin Sensitivity
+ADMINISTERED, 29Th Dose 1.00Mg,,,, Hunger
+ADMINISTERED, 30Th Dose 1.00Mg,,,, Gastrointestinal_System
+ADMINISTERED, 0.5_Mg,,,, Cravings
+ADMINISTERED, 1_Mg,,,, Food
+ADMINISTERED, Ozempic,,,, Fluids
+ADMINISTERED, 1St Dose 0.25Mg,,,, Work
+ADMINISTERED, 2Nd Dose 0.25Mg,,,, A1C Level
+ADMINISTERED, 3Rd Dose 0.25Mg,,,, Weight Maintenance
+ADMINISTERED, 4Th Dose 0.25Mg,,,, Thoughts And Habits
+ADMINISTERED, 5Th Dose 0.50Mg,,,, Mental Health
+ADMINISTERED, 6Th Dose 0.50Mg,,,, Crying
+ADMINISTERED, 7Th Dose 0.50Mg,,,, Irrationality
+ADMINISTERED, 8Th Dose 0.50Mg,,,, Bitch
+ADMINISTERED, 9Th Dose 0.50Mg,,,, Hormones
+ADMINISTERED, 10Th Dose 0.50Mg,,,, Pancreas
+ADMINISTERED, 11Th Dose 0.75Mg,,,, Cycle
+ADMINISTERED, 12Th Dose 1.00Mg,,,, Adult Life
+ADMINISTERED, 13Th Dose 1.00Mg,,,, Health
+ADMINISTERED, 14Th Dose 1.00Mg,,,, Medications
+ADMINISTERED, 15Th Dose 1.00Mg,,,, Surgery
+ADMINISTERED, 16Th Dose 1.00Mg,,,, Hormone Regulation
+ADMINISTERED, 17Th Dose 1.00Mg,,,, Constipation
+ADMINISTERED, 18Th Dose 1.00Mg,,,, Normal
+ADMINISTERED, 19Th Dose 1.00Mg,,,, Side Effects
+ADMINISTERED, 20Th Dose 1.00Mg,,,, Fertility
+ADMINISTERED, 21St Dose 1.00Mg,,,, Weight_Gain
+ADMINISTERED, 22Nd Dose 1.00Mg,,,, Side_Effects
+ADMINISTERED, 23Rd Dose 1.00Mg,,,, Appetite_Control
+ADMINISTERED, 24Th Dose 1.00Mg,,,, Confidence Issues
+ADMINISTERED, 25Th Dose 1.00Mg,,,, Self Esteem Issues
+ADMINISTERED, 26Th Dose 1.00Mg,,,, Husband
+ADMINISTERED, 27Th Dose 1.00Mg,,,, Heart_Rate
+ADMINISTERED, 28Th Dose 1.00Mg,,,, Kids
+ADMINISTERED, 29Th Dose 1.00Mg,,,, Liquids
+ADMINISTERED, 30Th Dose 1.00Mg,,,, Effectiveness
+ADMINISTERED_AS, Ozempic,,,, Insulin
+ADMINISTERED_AS, Full 1Mg Dose,,,, Dumping Syndrome
+ADMINISTERED_AS, Ozempic,,,, Emotions
+ADMINISTERED_AS, Ozempic,,,, Liver
+ADMINISTERED_AS, Ozempic,,,, Kidneys
+ADMINISTERED_AS, Full 1Mg Dose,,,, Vagus Nerve
+ADMINISTERED_AS, Ozempic,,,, Injection
+ADMINISTERED_AS, Ozempic,,,, Egfr
+ADMINISTERED_AT, 1 Mg Per Week,,,, Muscles
+ADMINISTERED_AT, 2 Mg,,,, Fat
+ADMINISTERED_AT, 1 Mg Per Week,,,, Dizziness
+ADMINISTERED_AT, 2 Mg,,,, Body_Weight_Loss
+ADMINISTERED_IN, Thigh,,,, Weight Loss Goal
+ADMINISTERED_IN, Thigh,,,, Adhd Meds
+ADMINISTERED_WITH,0.5,,,, Clothes
+ADMINISTERED_WITH,0.5,,,, Glucose
+ADMITTED_TO, Hospital,,,, Metabolism
+ADMITTED_TO, Hospital,,,, Dinner
+ADOPTED, Intermittent Fasting,,,, Hunger Control
+ADOPTED, Intermittent Fasting,,,, Food Choices
+ADVICE, Paxlovid,,,, Habits
+ADVICE, Paxlovid,,,, Money
+ADVICE_NOT_TO_USE, Ozempic,,,, Body’S Signals
+ADVICE_NOT_TO_USE, Ozempic,,,, Heart Rhythm
+ADVISED, Ozempic,,,, Blood Pressure
+ADVISED, Ozempic,,,, Bsl
+ADVISED_RESTART, Pen,,,, Insulin Requirement
+ADVISED_RESTART, Pen,,,, Progress
+ADVISED_STOP, Ozempic,,,, Exercise
+ADVISED_STOP, Metformin,,,, Weight Gain
+ADVISED_STOP, Ozempic,,,, 7Th Day After Surgery
+ADVISED_STOP, Metformin,,,, 4 Weeks
+ADVISES, Medication,,,, 47Yr Old
+ADVISES, Heart Palpitations,,,, 46 Yrs Old
+ADVISES, Pre,,,, 56 Years Old
+ADVISES, Plateau,,,, Nausea
+ADVISES, Medication,,,, Vomiting
+ADVISES, Heart Palpitations,,,, Slow Transit Constipation
+ADVISES, Pre,,,, 38 Pounds
+ADVISES, Plateau,,,, Blood_Sugar_Control
+ADVISES_ON, Gastrointestinal Issues,,,, Cycle_Syncing
+ADVISES_ON, Weight,,,, Supplements
+ADVISES_ON, Gastrointestinal Issues,,,, Working_Out
+ADVISES_ON, Weight,,,, Family Planning
+ADVISES_STOP_DUE_TO, Thyroid Cancer,,,, Conceiving
+ADVISES_STOP_DUE_TO, Thyroid Cancer,,,, Weightlossgoal
+ADVISES_TO_SKIP, Ozempic,,,, Weight Of 140
+ADVISES_TO_SKIP, Ozempic,,,, Fatty Liver
+ADVISES_TO_STOP, Ozempic,,,, Goal_Weight
+ADVISES_TO_STOP, Ozempic,,,, Pregnancy
+AFFECT, Weight Loss,,,, Healthy Weight
+AFFECT, Weight Loss,,,, 10 Pounds
+AFFECTED, Weight Loss,,,, Nutritionist
+AFFECTED, Pcos,,,, 405Lbs
+AFFECTED, Blood_Sugars,,,, Overweight Category
+AFFECTED, Creatinine,,,, Wegovy
+AFFECTED, Gang,,,, Snacks
+AFFECTED, House,,,, Victoza
+AFFECTED, Ozempic,,,, Oz
+AFFECTED, Appetite,,,, 34Kg/75Pounds
+AFFECTED, Cravings_For_Sweets,,,, Gi
+AFFECTED, Blood_Sugar_Regulation,,,, 30Kg Weight Loss
+AFFECTED, Testosterone Production,,,, Uk
+AFFECTED, Blood Sugar,,,, Trulicity
+AFFECTED, Sleep,,,, Pharmacist
+AFFECTED, Weight Loss,,,, Migraines
+AFFECTED, Pcos,,,, 15 Pounds
+AFFECTED, Blood_Sugars,,,, Adhd
+AFFECTED, Creatinine,,,, 26Lbs
+AFFECTED, Gang,,,, Hair Loss
+AFFECTED, House,,,, Sweets Cravings
+AFFECTED, Ozempic,,,, Pharmacy
+AFFECTED, Appetite,,,, Dehydration
+AFFECTED, Cravings_For_Sweets,,,, Bmi
+AFFECTED, Blood_Sugar_Regulation,,,, Food Poisoning
+AFFECTED, Testosterone Production,,,, 0.5Mg
+AFFECTED, Blood Sugar,,,, Ulcers
+AFFECTED, Sleep,,,, Bloating
+AFFECTED_BY, Weight_Loss_Shot,,,, High Activity Level
+AFFECTED_BY, Shortage,,,, Burping
+AFFECTED_BY, Fatigue,,,, Lower Back Pain
+AFFECTED_BY, Weight_Loss_Shot,,,, Diarrhea
+AFFECTED_BY, Shortage,,,, Sweating
+AFFECTED_BY, Fatigue,,,, 15 Lbs
+AFFECTING, Day To Day Life,,,, Gardia Infection
+AFFECTING, Day To Day Life,,,, Gall_Bladder_Pain
+AFFECTS, Weight Loss,,,, Gerd
+AFFECTS, Eating_Habits,,,, Hospital Visit
+AFFECTS, Appetite,,,, Guy
+AFFECTS, Weightloss,,,, Cvs
+AFFECTS, Blood Sugar Control,,,, Australia
+AFFECTS, Blood Sugar Levels,,,, Marketplace Insurance
+AFFECTS, Blood Sugar,,,, Orange Juice
+AFFECTS, Insulin Sensitivity,,,, Crutch
+AFFECTS, Hunger,,,, Birthday
+AFFECTS, Gastrointestinal_System,,,, 54 Year Old Male
+AFFECTS, Cravings,,,, 18K Calories
+AFFECTS, Food,,,, 3 Days
+AFFECTS, Fluids,,,, 16:8
+AFFECTS, Work,,,, Panic_Attack
+AFFECTS, A1C Level,,,, Hospitalization
+AFFECTS, Weight Maintenance,,,, Thanksgiving Dinner
+AFFECTS, Thoughts And Habits,,,, Financial_Hit
+AFFECTS, Mental Health,,,, Joint_Pain
+AFFECTS, Crying,,,, Water_Retention
+AFFECTS, Irrationality,,,, Swollen_Legs
+AFFECTS, Bitch,,,, Pain
+AFFECTS, Hormones,,,, Nauseous
+AFFECTS, Pancreas,,,, Migraine
+AFFECTS, Cycle,,,, Brain Fog
+AFFECTS, Ozempic,,,, Acid Reflux
+AFFECTS, Adult Life,,,, Heartburn
+AFFECTS, Health,,,, Depression
+AFFECTS, Medications,,,, Stomach_Issues
+AFFECTS, Weight_Loss,,,, Exhaustion
+AFFECTS, Surgery,,,, Acid_Reflux
+AFFECTS, Hormone Regulation,,,, Sulfur_Burps
+AFFECTS, Weight Loss,,,, Paranoia
+AFFECTS, Constipation,,,, Rapid_Heartbeat
+AFFECTS, Normal,,,, Tiredness
+AFFECTS, Side Effects,,,, Discomfort
+AFFECTS, Weight Loss,,,, Feverish
+AFFECTS, Fertility,,,, Mental Clarity
+AFFECTS, Weight_Loss,,,, Irritability
+AFFECTS, Weight_Gain,,,, Malaise
+AFFECTS, Side_Effects,,,, Weakness
+AFFECTS, Blood Sugar,,,, Appetite Suppression
+AFFECTS, Appetite_Control,,,, Gas_Pains
+AFFECTS, Confidence Issues,,,, Mild Symptoms From Ozempic
+AFFECTS, Self Esteem Issues,,,, Gi Bugs
+AFFECTS, Husband,,,, Stomach Hurting
+AFFECTS, Heart_Rate,,,, Starving
+AFFECTS, Kids,,,, Sickness
+AFFECTS, Food,,,, Seasonal_Depression
+AFFECTS, Liquids,,,, Miserable Feelings
+AFFECTS, Cravings,,,, Suicidal Thoughts
+AFFECTS, Weight Loss,,,, Bad Egg Burps
+AFFECTS, Effectiveness,,,, Digestive System Rebellion
+AFFECTS, Weight_Loss,,,, Appetite_Suppression
+AFFECTS, Insulin,,,, Reaction
+AFFECTS, Blood Sugar Levels,,,, Bad Side Effects
+AFFECTS, Blood Sugar Levels,,,, Vertigo
+AFFECTS, Dumping Syndrome,,,, Tachycardia
+AFFECTS, Pancreas,,,, Symptoms
+AFFECTS, Side Effects,,,, 45 Pounds Weight Gain
+AFFECTS, Appetite,,,, Sick
+AFFECTS, Cravings,,,, Symptomatic E.Coli
+AFFECTS, Emotions,,,, Sulphur Burps
+AFFECTS, Weight Loss,,,, Diarrhoea
+AFFECTS, Liver,,,, Stomach Cramps
+AFFECTS, Kidneys,,,, Gas
+AFFECTS, Weight Loss,,,, Body_Rejection
+AFFECTS, Health,,,, Crying Spells
+AFFECTS, Vagus Nerve,,,, Extreme Pain
+AFFECTS, Injection,,,, Explosive Diarrhea
+AFFECTS, Normal,,,, Bed
+AFFECTS, Weight_Loss,,,, Stomach Pain
+AFFECTS, Mental Health,,,, Extreme Bloating
+AFFECTS, Egfr,,,, Whole Body Aches
+AFFECTS, Liver,,,, Panic Attack
+AFFECTS, Muscles,,,, Discouragement
+AFFECTS, Fat,,,, Stomach_Pains
+AFFECTS, Normal,,,, Abdominal Pain
+AFFECTS, Dizziness,,,, Throw Up
+AFFECTS, Body_Weight_Loss,,,, Severe Side Effects
+AFFECTS, Weight Loss Goal,,,, Weight Of 199
+AFFECTS, Adhd Meds,,,, Bloated
+AFFECTS, Normal,,,, Sulfur Burps
+AFFECTS, Normal,,,, Bathroom Trips
+AFFECTS, Clothes,,,, Projectile Vomiting
+AFFECTS, Insulin,,,, Loss Of Appetite
+AFFECTS, Glucose,,,, Stomach Pains
+AFFECTS, Metabolism,,,, Headaches
+AFFECTS, Cravings,,,, Burning Sternum
+AFFECTS, Dinner,,,, Low Appetite
+AFFECTS, Hunger Control,,,, Upper Left Stomach Pain
+AFFECTS, Food Choices,,,, Hair Shedding
+AFFECTS, Habits,,,, Extreme Shedding
+AFFECTS, Hunger,,,, Grouchy
+AFFECTS, Money,,,, Grumpy
+AFFECTS, Food,,,, Bleeding
+AFFECTS, Body’S Signals,,,, Severe Stomach Pain
+AFFECTS, Heart Rhythm,,,, Gassiness
+AFFECTS, Blood Pressure,,,, Reflux
+AFFECTS, Bsl,,,, Bone Ache
+AFFECTS, Insulin Requirement,,,, Energy_Loss
+AFFECTS, Ozempic,,,, Starvation Mode
+AFFECTS, Progress,,,, Vomit
+AFFECTS, Egfr,,,, Bedridden
+AFFECTS, Constipation,,,, Heavy Period
+AFFECTS, Hormone Regulation,,,, Miserable_Feeling
+AFFECTS, Appetite,,,, Weight Gain 53Lbs
+AFFECTS, Cravings,,,, Cold Hands And Feet
+AFFECTS, Exercise,,,, Numbness
+AFFECTS, Weight Gain,,,, Trembling
+AFFECTS, Fatigue,,,, Suffering
+AFFECTS, Weight Loss,,,, Walking Difficulty
+AFFECTS, Eating_Habits,,,, Headache
+AFFECTS, Appetite,,,, Memory Loss
+AFFECTS, Weightloss,,,, Appetite Loss
+AFFECTS, Blood Sugar Control,,,, Blood Loss
+AFFECTS, Blood Sugar Levels,,,, Irritated Skin
+AFFECTS, Blood Sugar,,,,0.36
+AFFECTS, Insulin Sensitivity,,,, Mum
+AFFECTS, Hunger,,,, High School Graduation
+AFFECTS, Gastrointestinal_System,,,, Pant_Size
+AFFECTS, Cravings,,,, 140 Lbs
+AFFECTS, Food,,,, August
+AFFECTS, Fluids,,,, Fine
+AFFECTS, Work,,,, Diverticulosis
+AFFECTS, A1C Level,,,,168
+AFFECTS, Weight Maintenance,,,, High Normal Reading
+AFFECTS, Thoughts And Habits,,,, Goal Weight
+AFFECTS, Mental Health,,,,OCCURS
+AFFECTS, Crying,,,, Nurse
+AFFECTS, Irrationality,,,, 35 Pounds
+AFFECTS, Bitch,,,, Provider
+AFFECTS, Hormones,,,, Best Friend'S Wedding
+AFFECTS, Pancreas,,,, Hunger_Levels
+AFFECTS, Cycle,,,, Tolerance
+AFFECTS, Ozempic,,,, Relapse
+AFFECTS, Adult Life,,,, Pancreatitis
+AFFECTS, Health,,,, Existence
+AFFECTS, Medications,,,,1.75
+AFFECTS, Weight_Loss,,,, Urgent Care
+AFFECTS, Surgery,,,, Abdominal Ct Scan
+AFFECTS, Hormone Regulation,,,, Hypoglycemia
+AFFECTS, Weight Loss,,,, Eating Disorder Program
+AFFECTS, Constipation,,,, Inositol
+AFFECTS, Normal,,,, Dosage_0.25
+AFFECTS, Side Effects,,,, Water Intake
+AFFECTS, Weight Loss,,,, Food Intake
+AFFECTS, Fertility,,,, Gallstones
+AFFECTS, Weight_Loss,,,, Weight Management
+AFFECTS, Weight_Gain,,,, Er
+AFFECTS, Side_Effects,,,, Berberine
+AFFECTS, Blood Sugar,,,, Maintenance_Dose
+AFFECTS, Appetite_Control,,,, Liraglutide
+AFFECTS, Confidence Issues,,,, 0.14Mg
+AFFECTS, Self Esteem Issues,,,, Music Festival
+AFFECTS, Husband,,,, Saxenda
+AFFECTS, Heart_Rate,,,, Rybelsus
+AFFECTS, Kids,,,, .25Mg
+AFFECTS, Food,,,, Walk
+AFFECTS, Liquids,,,, Single
+AFFECTS, Cravings,,,, Partner
+AFFECTS, Weight Loss,,,, Doctor
+AFFECTS, Effectiveness,,,, Hypoglycemic Incident
+AFFECTS, Weight_Loss,,,, Gp
+AFFECTS, Insulin,,,, Psychologist
+AFFECTS, Blood Sugar Levels,,,, Endocrinologist
+AFFECTS, Blood Sugar Levels,,,, Physician
+AFFECTS, Dumping Syndrome,,,, Doctors
+AFFECTS, Pancreas,,,, Water
+AFFECTS, Side Effects,,,, Protein_Shake
+AFFECTS, Appetite,,,, Quit
+AFFECTS, Cravings,,,, Covid
+AFFECTS, Emotions,,,, Global Shortage
+AFFECTS, Weight Loss,,,, Swollenfeet
+AFFECTS, Liver,,,, Maintenance Stories
+AFFECTS, Kidneys,,,, Obesity
+AFFECTS, Weight Loss,,,, Illness
+AFFECTS, Health,,,, Sugar Level
+AFFECTS, Vagus Nerve,,,, Abdomen Pain
+AFFECTS, Injection,,,, Insurance
+AFFECTS, Normal,,,, Marks Marine
+AFFECTS, Weight_Loss,,,, Sons Costume
+AFFECTS, Mental Health,,,, Prescription
+AFFECTS, Egfr,,,, 0.25 Dosage
+AFFECTS, Liver,,,, 0.50 Dosage
+AFFECTS, Muscles,,,, Ontario_Drug_Benefits_Program
+AFFECTS, Fat,,,,3
+AFFECTS, Normal,,,, Weight Loss Drugs
+AFFECTS, Dizziness,,,,February 2
+AFFECTS, Body_Weight_Loss,,,, Pms
+AFFECTS, Weight Loss Goal,,,, Sunday
+AFFECTS, Adhd Meds,,,,0.27
+AFFECTS, Normal,,,, 1Mg
+AFFECTS, Normal,,,,250
+AFFECTS, Clothes,,,, 152 Pounds
+AFFECTS, Insulin,,,, Today: 165
+AFFECTS, Glucose,,,,194
+AFFECTS, Metabolism,,,, 360 Pounds
+AFFECTS, Cravings,,,,161
+AFFECTS, Dinner,,,, Current Weight
+AFFECTS, Hunger Control,,,,198.4
+AFFECTS, Food Choices,,,, 124.1Kg
+AFFECTS, Habits,,,, 136.2 Lbs
+AFFECTS, Hunger,,,,180
+AFFECTS, Money,,,, 160Lbs
+AFFECTS, Food,,,, 81Kg Current Weight
+AFFECTS, Body’S Signals,,,,308
+AFFECTS, Heart Rhythm,,,, 94Kg
+AFFECTS, Blood Pressure,,,,AFFECTED_BY
+AFFECTS, Bsl,,,,800
+AFFECTS, Insulin Requirement,,,, 38% Body Fat
+AFFECTS, Ozempic,,,, Weight Of 149
+AFFECTS, Progress,,,,14
+AFFECTS, Egfr,,,, Physical Activity
+AFFECTS, Constipation,,,,2.5
+AFFECTS, Hormone Regulation,,,, Gastric Emptying
+AFFECTS, Appetite,,,, O
+AFFECTS, Cravings,,,, Psychiatrist
+AFFECTS, Exercise,,,, Cash_Payment
+AFFECTS, Weight Gain,,,,300
+AFFECTS, Fatigue,,,,50
+AFFECTS_AVAILABILITY, Ozempic,,,, Ultrasound
+AFFECTS_AVAILABILITY, Ozempic,,,, Self_Love
+AFTER, Plateau,,,, Infections
+AFTER, 7Th Day After Surgery,,,,HAS_METRIC
+AFTER, Weight_Gain,,,,REASON_FOR_TAKING
+AFTER, 4 Weeks,,,, Diabetes
+AFTER, Plateau,,,, Prediabetes
+AFTER, 7Th Day After Surgery,,,, Stomach_Virus
+AFTER, Weight_Gain,,,, Colitis
+AFTER, 4 Weeks,,,,15
+AGE, 47Yr Old,,,, Kidney Stones
+AGE, 46 Yrs Old,,,, Insulin Resistance
+AGE, 56 Years Old,,,, Binge Eating Disorder
+AGE, 47Yr Old,,,, Anorexia
+AGE, 46 Yrs Old,,,, Pots
+AGE, 56 Years Old,,,, T2
+AGGRAVATES, Nausea,,,, Ir Pcos
+AGGRAVATES, Vomiting,,,, Hashimoto’S
+AGGRAVATES, Slow Transit Constipation,,,, Fibromyalgia
+AGGRAVATES, Nausea,,,, Celiac
+AGGRAVATES, Vomiting,,,, Fissure
+AGGRAVATES, Slow Transit Constipation,,,, Pandemic
+AID_FOR, Weight Loss,,,, Oatmeal
+AID_FOR, Hunger Control,,,, Apple
+AID_FOR, Weight Loss,,,, Almonds
+AID_FOR, Hunger Control,,,, Turkey
+AIDED, Weight Loss,,,, Protein Drink
+AIDED, Weight_Loss,,,, Fasting
+AIDED, 38 Pounds,,,, Paleo
+AIDED, Weight_Loss,,,, Protein Bars
+AIDED, Weight_Loss,,,, Drug
+AIDED, Weight Loss,,,, Ireland
+AIDED, Weight_Loss,,,, Mounjaro
+AIDED, 38 Pounds,,,, Oxy
+AIDED, Weight_Loss,,,, Bug
+AIDED, Weight_Loss,,,, February
+AIDS, Weight Loss,,,, Zofran
+AIDS, Weight_Loss,,,, Kidney Labs
+AIDS, Blood_Sugar_Control,,,, Friend
+AIDS, Cycle_Syncing,,,, Water Consumption
+AIDS, Supplements,,,, 0.25Mg
+AIDS, Working_Out,,,, 0.375Mg
+AIDS, Weight Loss,,,,1.5
+AIDS, Weight_Loss,,,, Week 6
+AIDS, Blood_Sugar_Control,,,, Week 5
+AIDS, Cycle_Syncing,,,, Week 4
+AIDS, Supplements,,,, Walking
+AIDS, Working_Out,,,, People
+AIDS_IN, Weightloss,,,, 1 Gallon
+AIDS_IN, Weightloss,,,, 4 Weeks Ago
+AIM, Family Planning,,,, 3 Months
+AIM, Family Planning,,,, 5 Weeks
+AIMING_FOR, Conceiving,,,, 10 Weeks
+AIMING_FOR, Weightlossgoal,,,, 2 Weeks
+AIMING_FOR, Weight Of 140,,,, Week
+AIMING_FOR, Conceiving,,,, 3 Weeks
+AIMING_FOR, Weightlossgoal,,,, 6 Weeks
+AIMING_FOR, Weight Of 140,,,, Weight_Loss_Amount
+AIMING_TO_IMPROVE, Weight Loss,,,, Wholegrain Toast
+AIMING_TO_IMPROVE, Fatty Liver,,,, Egg
+AIMING_TO_IMPROVE, Weight Loss,,,, Rice Pudding
+AIMING_TO_IMPROVE, Weight Loss,,,, Yogurt
+AIMING_TO_IMPROVE, Fatty Liver,,,, Pastrami
+AIMING_TO_IMPROVE, Weight Loss,,,, White Bread Roll
+AIMS_FOR, Goal_Weight,,,, Bananas
+AIMS_FOR, Weight_Loss,,,, Multi Grain Bread
+AIMS_FOR, Pregnancy,,,, Apple Juice
+AIMS_FOR, Goal_Weight,,,, Omelette
+AIMS_FOR, Healthy Weight,,,, Fat Free Cottage Cheese
+AIMS_FOR, 10 Pounds,,,, Dave'S Killer Bread Power Seed
+AIMS_FOR, Weight Loss,,,, Chicken
+AIMS_FOR, Weight Loss,,,, Vegetables
+AIMS_FOR, Weight Loss,,,, Cauliflower Rice
+AIMS_FOR, Weight_Loss,,,, Fish
+AIMS_FOR, Goal_Weight,,,, Rice
+AIMS_FOR, Weight_Loss,,,, Crackers
+AIMS_FOR, Pregnancy,,,, Eating Window
+AIMS_FOR, Goal_Weight,,,, Normal Meals
+AIMS_FOR, Healthy Weight,,,, User
+AIMS_FOR, 10 Pounds,,,, 2 Hours
+AIMS_FOR, Weight Loss,,,, Ir
+AIMS_FOR, Weight Loss,,,, Yucky Effects
+AIMS_FOR, Weight Loss,,,, Weightlossstrategies
+AIMS_FOR, Weight_Loss,,,, Success Story
+AIMS_TO_BECOME, Nutritionist,,,,May 22
+AIMS_TO_BECOME, Nutritionist,,,, Travel
+AIMS_TO_LOSE, Weight Loss,,,, Work Out 5X A Week
+AIMS_TO_LOSE, Weight Loss,,,, Eat Clean
+ALL_TIME_HIGH_WEIGHT, 405Lbs,,,, No Carbs
+ALL_TIME_HIGH_WEIGHT, 405Lbs,,,, Powerlifting
+ALMOST_LEFT, Overweight Category,,,, Journey
+ALMOST_LEFT, Overweight Category,,,, Hair
+ALTERNATIVE, Wegovy,,,, Polyps
+ALTERNATIVE, Snacks,,,, Graves
+ALTERNATIVE, Ozempic,,,, Carbs
+ALTERNATIVE, Wegovy,,,, Sugar
+ALTERNATIVE, Snacks,,,, Isolation
+ALTERNATIVE, Ozempic,,,, Emotional Eating
+ALTERNATIVE_TO, Victoza,,,,1/17/23
+ALTERNATIVE_TO, Ozempic,,,, Joint Pain
+ALTERNATIVE_TO, Ozempic,,,, Appetite Reduction
+ALTERNATIVE_TO, Ozempic,,,, Period
+ALTERNATIVE_TO, Oz,,,, Overweight
+ALTERNATIVE_TO, Victoza,,,, Taste Change
+ALTERNATIVE_TO, Ozempic,,,, Sleep Issues
+ALTERNATIVE_TO, Ozempic,,,, Stomach/Intestinal Pains
+ALTERNATIVE_TO, Ozempic,,,, Menopause
+ALTERNATIVE_TO, Oz,,,, Palpitations
+AMOUNT_LOST, 34Kg/75Pounds,,,, Parents Death
+AMOUNT_LOST, 34Kg/75Pounds,,,, Child Issues
+APPOINTMENT, Gi,,,, Long Haul
+APPOINTMENT, Gi,,,, Abdominal Cramps
+APPROVED, 30Kg Weight Loss,,,, Passive Suicidal Ideation
+APPROVED, Ozempic,,,, Upper Abdomen Pain
+APPROVED, 30Kg Weight Loss,,,, Lightheaded
+APPROVED, Ozempic,,,, Foggy
+APPROVED_FOR, Weightloss,,,, Cold
+APPROVED_FOR, Weightloss,,,,USED_FOR
+APPROVED_FOR, Weightloss,,,, 16 Weeks
+APPROVED_FOR, Weightloss,,,, Thursday
+APPROVED_IN, Uk,,,, Sideeffects
+APPROVED_IN, Uk,,,, Satiation_Issue
+APPROVED_IN, Uk,,,, Distendedstomach
+APPROVED_IN, Uk,,,, Fear Of Injecting
+APPROVES, Trulicity,,,, Anxiety Episodes
+APPROVES, Medications,,,, Stress
+APPROVES, Ozempic,,,, Tachycardic_Episode
+APPROVES, Trulicity,,,, Nightmares
+APPROVES, Medications,,,, Extreme Fatigue
+APPROVES, Ozempic,,,, Itchiness
+ASKED, Pharmacist,,,, Tingling
+ASKED, Pharmacist,,,, Insecurity
+ASSISTED, Dizziness,,,, Ozempic 0.5Mg
+ASSISTED, Dizziness,,,, Lethargy
+ASSISTED_WITH, Ozempic,,,, Lack Of Energy
+ASSISTED_WITH, Ozempic,,,, Insurance Issue
+ASSISTING_WITH, Weight Loss,,,, Back Pain
+ASSISTING_WITH, Weight Loss,,,, Diet Change
+ASSISTS_WITH, Weight Loss,,,, Divorce
+ASSISTS_WITH, Weight Loss,,,, Pep
+ASSOCIATED_WITH, Migraines,,,, 2 Lbs
+ASSOCIATED_WITH, Weight_Loss,,,, Me
+ASSOCIATED_WITH, 15 Pounds,,,, Insanity
+ASSOCIATED_WITH, Adhd,,,, Canada
+ASSOCIATED_WITH, 26Lbs,,,, Nutrition & Health
+ASSOCIATED_WITH, Hair Loss,,,, Recovery
+ASSOCIATED_WITH, Nausea,,,, 0.5 Mg Dose
+ASSOCIATED_WITH, Sweets Cravings,,,, Macros
+ASSOCIATED_WITH, Ozempic,,,, Keto Diet
+ASSOCIATED_WITH, Ozempic,,,, Calibrate
+ASSOCIATED_WITH, Pharmacy,,,, High Protein
+ASSOCIATED_WITH, Migraines,,,, Gallbladder
+ASSOCIATED_WITH, Dehydration,,,,227
+ASSOCIATED_WITH, Bmi,,,, 1_Mg_Dose
+STABLE_WITH, Ozempic,,,, First Child
+ASSOCIATED_WITH, Ozempic,,,, Portion Sizes
+ASSOCIATED_WITH, Ozempic,,,,10
+ASSOCIATED_WITH, Food Poisoning,,,, 125 Lbs
+ASSOCIATED_WITH, 0.5Mg,,,, 295Lbs
+ASSOCIATED_WITH, Nausea,,,, 1.5 Months
+ASSOCIATED_WITH, Ulcers,,,, Labs
+ASSOCIATED_WITH, Ozempic,,,, Ct Scan
+ASSOCIATED_WITH, Bloating,,,, Fridge
+ASSOCIATED_WITH, High Activity Level,,,, Boxes
+ASSOCIATED_WITH, Bloating,,,, Age
+ASSOCIATED_WITH, Burping,,,, Phobia Of Throwing Up
+ASSOCIATED_WITH, Lower Back Pain,,,, Energy
+ASSOCIATED_WITH, Diarrhea,,,, Sedentary Job
+ASSOCIATED_WITH, Sweating,,,, Bmi 33
+ASSOCIATED_WITH, Migraines,,,, 5'10
+ASSOCIATED_WITH, Weight_Loss,,,, Weight 230Lbs
+ASSOCIATED_WITH, 15 Pounds,,,, Low Testosterone
+ASSOCIATED_WITH, Adhd,,,, Bitchy Mood
+ASSOCIATED_WITH, 26Lbs,,,, 3 Or 4 Pounds Lost
+ASSOCIATED_WITH, Hair Loss,,,, Testosterone 164
+ASSOCIATED_WITH, Nausea,,,, Disordered_Eating
+ASSOCIATED_WITH, Sweets Cravings,,,, 2 Kids
+ASSOCIATED_WITH, Ozempic,,,, Mechanism Of Action
+ASSOCIATED_WITH, Ozempic,,,, 5’7
+ASSOCIATED_WITH, Pharmacy,,,, Bmi 29
+ASSOCIATED_WITH, Migraines,,,, Occupation
+ASSOCIATED_WITH, Dehydration,,,, 180 Lbs
+ASSOCIATED_WITH, Bmi,,,, 150 Lbs
+ASSOCIATED_WITH, Ozempic,,,, Insulin_Resistance
+ASSOCIATED_WITH, Ozempic,,,, 28 Years Old
+ASSOCIATED_WITH, Food Poisoning,,,, 29 Years Old
+ASSOCIATED_WITH, 0.5Mg,,,, 41.3 Kg
+ASSOCIATED_WITH, Nausea,,,, 91 Pounds
+ASSOCIATED_WITH, Ulcers,,,, 5 Week Break
+ASSOCIATED_WITH, Ozempic,,,, Comorbidity
+ASSOCIATED_WITH, Bloating,,,, 5'6
+ASSOCIATED_WITH, High Activity Level,,,, Body Weight
+ASSOCIATED_WITH, Bloating,,,, Muscle Base
+ASSOCIATED_WITH, Burping,,,, Size 16
+ASSOCIATED_WITH, Lower Back Pain,,,, 240 Lbs
+ASSOCIATED_WITH, Diarrhea,,,, Non Diabetic
+ASSOCIATED_WITH, Sweating,,,, High Male Hormones
+ASSOCIATED_WITH_SYMPTOM, Dizziness,,,, Insulin Resistant
+ASSOCIATED_WITH_SYMPTOM, Dizziness,,,, Perimenopause
+ASSOCIATED_WITH_SYMPTOM, Fatigue,,,, T2 Diabetes
+ASSOCIATED_WITH_SYMPTOM, Dizziness,,,, Autism
+ASSOCIATED_WITH_SYMPTOM, Dizziness,,,, Arfid
+ASSOCIATED_WITH_SYMPTOM, Fatigue,,,, T1D
+ASSOCIATED_WITH_WEIGHT_LOSS, 15 Lbs,,,, Type 2 Diabetes
+ASSOCIATED_WITH_WEIGHT_LOSS, 15 Lbs,,,, Insurance Issues
+ASSUMED_TO_BE, Gardia Infection,,,, Clinical Depression
+ASSUMED_TO_BE, Gardia Infection,,,, General Anxiety Disorder
+ASSUMES_LOCATION, Gall_Bladder_Pain,,,, Gestational Diabetes
+ASSUMES_LOCATION, Gall_Bladder_Pain,,,, Post
+ATTEMPT_TO_MANAGE, Constipation,,,, Tachy_Arrhythmia
+ATTEMPT_TO_MANAGE, Constipation,,,, Vt
+ATTEMPT_TO_MANAGE, Constipation,,,, Pcos W/ Insulin Resistance
+ATTEMPT_TO_MANAGE, Constipation,,,, Weight_Issues
+ATTEMPT_TO_MANAGE, Constipation,,,, Arthritis
+ATTEMPT_TO_MANAGE, Constipation,,,, Ankle_Issue
+ATTEMPTED, Weight Loss,,,, Slow_Metabolism
+ATTEMPTED, Weight Loss,,,, Hypo_Thyroid
+ATTEMPTED, Weight Loss,,,, Asthma
+ATTEMPTED, Weight Loss,,,, Hashimoto'S
+ATTEMPTED_CONTROL, Gerd,,,, Depressive Episodes
+ATTEMPTED_CONTROL, Gerd,,,, Peri_Menopausal
+ATTEMPTED_TO_RELIEVE, Constipation,,,, Knee Injury
+ATTEMPTED_TO_RELIEVE, Constipation,,,, Chronic Pain
+ATTEMPTED_TO_RELIEVE, Constipation,,,, Currentweight
+ATTEMPTED_TO_RELIEVE, Constipation,,,, Caloric Intake
+ATTENDED, Hospital Visit,,,, Pcp
+ATTENDED, Hospital Visit,,,, 1Mg Dosage
+ATTENDING_WITH, Guy,,,, 1Mg Ozempic
+ATTENDING_WITH, Guy,,,, 0.25Mg Ozempic
+AUTOSHIP, Oz,,,, 0.5Mg Ozempic
+AUTOSHIP, Oz,,,, .50 Dosage
+AVAILABLE_AT, Cvs,,,, .25 Dosage
+AVAILABLE_AT, Cvs,,,, Dose
+AVAILABLE_IN, Australia,,,, .50 Mg
+AVAILABLE_IN, Ozempic,,,, 0.25 Mg
+AVAILABLE_IN, Ozempic,,,, 1.0 Mg
+AVAILABLE_IN, Marketplace Insurance,,,, .50Mg
+AVAILABLE_IN, Australia,,,, 1.5Mg
+AVAILABLE_IN, Ozempic,,,,2
+AVAILABLE_IN, Ozempic,,,, 2Mg
+AVAILABLE_IN, Marketplace Insurance,,,, 0.5 Mg
+AVOIDED, Orange Juice,,,, 2 Mg Dose
+AVOIDED, Orange Juice,,,, 1 Mg/Week
+BECAME, Crutch,,,, 0.75 Mg
+BECAME, Crutch,,,, 0.5_Dose
+BENEFITED_FROM, Ozempic,,,, 1Mg Dose
+BENEFITED_FROM, Ozempic,,,, Larger Pen
+BIRTHDAY_CELEBRATION, Birthday,,,, Smaller Dose
+BIRTHDAY_CELEBRATION, Birthday,,,, 0.07Mg
+BLOCKS, Ozempic,,,, 2Mg Dose
+BLOCKS, Ozempic,,,, 0.50Mg
+BLOOD_PRESSURE_MEDICATION_DOSAGE, 54 Year Old Male,,,, 0.75Mg
+BLOOD_PRESSURE_MEDICATION_DOSAGE, 54 Year Old Male,,,, 1.00Mg
+BOOSTS, Ozempic,,,, Two Months
+BOOSTS, Ozempic,,,, Weeks
+CALORIES_BURNED, 18K Calories,,,, 7 Weeks
+CALORIES_BURNED, 18K Calories,,,, 2Mg_Per_Week
+CAN_FAST_FOR, 3 Days,,,, Rebounding Hunger
+CAN_FAST_FOR, 3 Days,,,, Inflammation
+CAN_INTERMITTENT_FAST, 16:8,,,, 10 Inches Of Empty Shirt
+CAN_INTERMITTENT_FAST, 16:8,,,, Farewell
+CAN_TRIGGER, Panic_Attack,,,, Twice A Day
+CAN_TRIGGER, Panic_Attack,,,, Female
+CANCEL, Hospitalization,,,,123
+CANCEL, Hospitalization,,,, 2_Stone
+CANCELLED, Thanksgiving Dinner,,,, Need To Lose More Weight
+CANCELLED, Thanksgiving Dinner,,,, Go Back To The Gym
+CAUSE, Financial_Hit,,,, Goalweight
+CAUSE, Financial_Hit,,,, High Cholesterol
+CAUSED, Weight Loss,,,, Hypertensive
+CAUSED, Side Effects,,,, Height
+CAUSED, Nausea,,,, 177Cm
+CAUSED, Migraines,,,," 5""4"
+CAUSED, Weight_Loss,,,," 6'3"""
+CAUSED, Diarrhea,,,,5.90%
+CAUSED, Vomiting,,,,56.1
+CAUSED, Constipation,,,, Insurancecompany
+CAUSED, Joint_Pain,,,, Shortages
+CAUSED, Water_Retention,,,, Weightlossjourney
+CAUSED, Swollen_Legs,,,, Https://Flic.Kr/P/2Oicfvm
+CAUSED, Pain,,,, Slow While In A Deficit
+CAUSED, Weight_Gain,,,, Dosage Options
+CAUSED, Nauseous,,,, Slow
+CAUSED, Migraine,,,, Increasing
+CAUSED, Dehydration,,,, High Fat Content
+CAUSED, Side_Effects,,,, Np
+CAUSED, Heart Palpitations,,,,130
+CAUSED, Brain Fog,,,, Burping_Problem
+CAUSED, Fatigue,,,, Burps
+CAUSED, Acid Reflux,,,, Wonky Feeling In Head
+CAUSED, Heartburn,,,, Gym
+CAUSED, Anxiety,,,, Horrific Side Effects
+CAUSED, Depression,,,, Stomach
+CAUSED, Stomach_Issues,,,, Startingweight
+CAUSED, Exhaustion,,,, Starting Weight
+CAUSED, Acid_Reflux,,,, Stomach Problems
+CAUSED, Sulfur_Burps,,,, Itchy Skin
+CAUSED, Paranoia,,,, Flaky Skin
+CAUSED, Rapid_Heartbeat,,,, Dry Skin
+CAUSED, Burping,,,, Severe Headache
+CAUSED, Tiredness,,,, Stomach_Pain
+CAUSED, Discomfort,,,, Thanksgiving
+CAUSED, Feverish,,,, Broken Blood Vessels
+CAUSED, Mental Clarity,,,,11.7
+CAUSED, Irritability,,,,5.3
+CAUSED, Malaise,,,,29
+CAUSED, Weakness,,,, 52.9 Kg
+CAUSED, Appetite Suppression,,,, 116.5 Pounds
+CAUSED, Gas_Pains,,,,1900
+CAUSED, Mild Symptoms From Ozempic,,,, 108.5 Kg
+CAUSED, Gi Bugs,,,, 108.4 Kg
+CAUSED, Stomach Hurting,,,, 106.6 Kg
+CAUSED, Starving,,,, 105.2 Kg
+CAUSED, Sickness,,,, 104.5 Kg
+CAUSED, Weight_Gain,,,, 103.1 Kg
+CAUSED, Seasonal_Depression,,,, 102.2 Kg
+CAUSED, Depression,,,, 102.0 Kg
+CAUSED, Nausea,,,, 101.1 Kg
+CAUSED, Fatigue,,,, 99.2 Kg
+CAUSED, Miserable Feelings,,,, 98.2 Kg
+CAUSED, Suicidal Thoughts,,,, 98.1 Kg
+CAUSED, Bad Egg Burps,,,, 97.5 Kg
+CAUSED, Digestive System Rebellion,,,, 96.3 Kg
+CAUSED, Weight_Loss,,,, 95.6 Kg
+CAUSED, Appetite_Suppression,,,, 95.3 Kg
+CAUSED, Reaction,,,, 94.7 Kg
+CAUSED, Diarrhea,,,, 93.9 Kg
+CAUSED, Exhaustion,,,, 93.1 Kg
+CAUSED, Bad Side Effects,,,, 92.7 Kg
+CAUSED, Vertigo,,,, 92.2 Kg
+CAUSED, Tachycardia,,,, 92.0 Kg
+CAUSED, Tachycardia,,,, 91.5 Kg
+CAUSED, Symptoms,,,, Hr
+CAUSED, Nausea,,,, Bp
+CAUSED, Anxiety,,,, Novocare.Com
+CAUSED, Weight_Gain,,,, Weight_Initial
+CAUSED, 45 Pounds Weight Gain,,,, Weight_Second
+CAUSED, Nausea,,,, 144.0 Kg
+CAUSED, Vomiting,,,, 142.2 Kg
+CAUSED, Sick,,,, 140.2 Kg
+CAUSED, Nausea,,,, 139.8 Kg
+CAUSED, Symptomatic E.Coli,,,, 138.4 Kg
+CAUSED, Gi Bugs,,,, 137.4 Kg
+CAUSED, Weight Loss,,,, 135.4 Kg
+CAUSED, Side Effects,,,, 133.1 Kg
+CAUSED, Nausea,,,, 131.9 Kg
+CAUSED, Migraines,,,, 131.8 Kg
+CAUSED, Weight_Loss,,,, 130.7 Kg
+CAUSED, Diarrhea,,,, 129.3 Kg
+CAUSED, Vomiting,,,, 127.8 Kg
+CAUSED, Constipation,,,, 125.1 Kg
+CAUSED, Joint_Pain,,,, 124.3 Kg
+CAUSED, Water_Retention,,,, 123.9 Kg
+CAUSED, Swollen_Legs,,,, 121.5 Kg
+CAUSED, Pain,,,, 121.3 Kg
+CAUSED, Weight_Gain,,,, 120.4 Kg
+CAUSED, Nauseous,,,, 118.7 Kg
+CAUSED, Migraine,,,, 117.8 Kg
+CAUSED, Dehydration,,,, 117.0 Kg
+CAUSED, Side_Effects,,,, 115.6 Kg
+CAUSED, Heart Palpitations,,,, 115.2 Kg
+CAUSED, Brain Fog,,,, 113.7 Kg
+CAUSED, Fatigue,,,, 112.7 Kg
+CAUSED, Acid Reflux,,,, 112.4 Kg
+CAUSED, Heartburn,,,, 110.8 Kg
+CAUSED, Anxiety,,,, 110.1 Kg
+CAUSED, Depression,,,, Weight After Stopping Ozempic
+CAUSED, Stomach_Issues,,,, Weight After Ozempic
+CAUSED, Exhaustion,,,, 198.9Lbs
+CAUSED, Acid_Reflux,,,, 20 Pounds
+CAUSED, Sulfur_Burps,,,, 31.7 Kg
+CAUSED, Paranoia,,,, 70 Pounds
+CAUSED, Rapid_Heartbeat,,,, 60 Lb Weight Loss
+CAUSED, Burping,,,, Pre Diabetic
+CAUSED, Tiredness,,,, Triglycerides
+CAUSED, Discomfort,,,, Hypertension
+CAUSED, Feverish,,,, Health Condition
+CAUSED, Mental Clarity,,,, 180Cm
+CAUSED, Irritability,,,, Anxiety Attacks
+CAUSED, Malaise,,,, Pcos Symptoms
+CAUSED, Weakness,,,, Blood Sugars
+CAUSED, Appetite Suppression,,,, Overeating Ed
+CAUSED, Gas_Pains,,,, Hunger Pangs
+CAUSED, Mild Symptoms From Ozempic,,,, Laxatives
+CAUSED, Gi Bugs,,,, Optimal Weight
+CAUSED, Stomach Hurting,,,, Binge_Eating
+CAUSED, Starving,,,, Holidays
+CAUSED, Sickness,,,, 5% More Exercise
+CAUSED, Weight_Gain,,,, A1C Results
+CAUSED, Seasonal_Depression,,,, Family
+CAUSED, Depression,,,, Healthy_Stool
+CAUSED, Nausea,,,, Health_Results
+CAUSED, Fatigue,,,, Physical_Results
+CAUSED, Miserable Feelings,,,, Normal Bp And Heart Rate
+CAUSED, Suicidal Thoughts,,,, Improved Anxiety And Shortness Of Breath
+CAUSED, Bad Egg Burps,,,, Normal Bowel Function
+CAUSED, Digestive System Rebellion,,,,PRESCRIBED
+CAUSED, Weight_Loss,,,, Significant_Other
+CAUSED, Appetite_Suppression,,,, Passing Out
+CAUSED, Reaction,,,, Tummy Gurgle
+CAUSED, Diarrhea,,,, Diet And Exercise
+CAUSED, Exhaustion,,,, Blood_Work
+CAUSED, Bad Side Effects,,,, Camera Scope
+CAUSED, Vertigo,,,, Bile Drainage
+CAUSED, Tachycardia,,,, Bloat
+CAUSED, Tachycardia,,,, Truvada
+CAUSED, Symptoms,,,, Raltegravir
+CAUSED, Nausea,,,, Dystonia
+CAUSED, Anxiety,,,, Shortness Of Breath
+CAUSED, Weight_Gain,,,, Face And Neck Tingling/Numbness
+CAUSED, 45 Pounds Weight Gain,,,, High Blood Pressure
+CAUSED, Nausea,,,, Glucose Ser/Plasma Interface External
+CAUSED, Vomiting,,,, Program
+CAUSED, Sick,,,, Ham&Cheese Sandwich
+CAUSED, Nausea,,,, Stew
+CAUSED, Symptomatic E.Coli,,,, Ct_Scan
+CAUSED, Gi Bugs,,,, Tests
+CAUSED_AWARENESS, Joint_Pain,,,, Proper_Nutrition
+CAUSED_AWARENESS, Joint_Pain,,,, Relationship_With_Food
+CAUSED_BY, Side Effects,,,, Green Bean Casserole
+CAUSED_BY, Sickness,,,, Sweet Potatoes
+CAUSED_BY, Sulphur Burps,,,, Stuffing
+CAUSED_BY, Diarrhoea,,,, Gravy
+CAUSED_BY, Stomach Cramps,,,, Pumpkin Pie
+CAUSED_BY, Nausea,,,, Cranberry Sauce
+CAUSED_BY, Weight_Loss,,,, Rolls
+CAUSED_BY, Diarrhea,,,, January
+CAUSED_BY, Dizziness,,,,6
+CAUSED_BY, Gas,,,,November 2022
+CAUSED_BY, Fatigue,,,, Confidence
+CAUSED_BY, Tiredness,,,, Physical Ability
+CAUSED_BY, Body_Rejection,,,, Dosage_0.50
+CAUSED_BY, Crying Spells,,,, Dosage_1Mg
+CAUSED_BY, Weakness,,,, Dosage_1.7Mg
+CAUSED_BY, Extreme Pain,,,, Hypothyroidism
+CAUSED_BY, Explosive Diarrhea,,,, Food_Aversion
+CAUSED_BY, Bed,,,, Snacking
+CAUSED_BY, Side Effects,,,, Better_Habits
+CAUSED_BY, Nausea,,,, July
+CAUSED_BY, Vomiting,,,, Left Thigh
+CAUSED_BY, Side Effects,,,, Amazon Pharmacy
+CAUSED_BY, Sulphur Burps,,,, Optumrx
+CAUSED_BY, Nausea,,,, Md
+CAUSED_BY, Vomiting,,,, Qmhp
+CAUSED_BY, Constipation,,,, 2_Week_Break
+CAUSED_BY, Heartburn,,,, Vegas_Trip
+CAUSED_BY, Stomach Pain,,,, Helpfulness
+CAUSED_BY, Extreme Bloating,,,, Inflatable Balloon
+CAUSED_BY, Anxiety,,,, Marines
+CAUSED_BY, Nausea,,,, 2_Weeks
+CAUSED_BY, Nausea,,,,2014
+CAUSED_BY, Whole Body Aches,,,,December 12
+CAUSED_BY, Side Effects,,,, July 26Th
+CAUSED_BY, Panic Attack,,,, Wednesday
+CAUSED_BY, Panic Attack,,,, Memory Improvement
+CAUSED_BY, Panic Attack,,,, Mood Improvement
+CAUSED_BY, Side Effects,,,, Diet
+CAUSED_BY, Exhaustion,,,, Regrowth
+CAUSED_BY, Discouragement,,,, Qysmia
+CAUSED_BY, Stomach_Pains,,,, Portion_Control
+CAUSED_BY, Anxiety,,,, Er_Visit
+CAUSED_BY, Ozempic,,,, Obese Category
+CAUSED_BY, Side Effects,,,, Life Or Death
+CAUSED_BY, Sickness,,,, 6_Weeks
+CAUSED_BY, Sulphur Burps,,,, Financial_Constraints
+CAUSED_BY, Diarrhoea,,,, Chocolate
+CAUSED_BY, Stomach Cramps,,,, Meal
+CAUSED_BY, Nausea,,,, Toe Cramps
+CAUSED_BY, Weight_Loss,,,, Foot Cramps
+CAUSED_BY, Diarrhea,,,, Calf Cramps
+CAUSED_BY, Dizziness,,,, Appendicitis
+CAUSED_BY, Gas,,,, 27F
+CAUSED_BY, Fatigue,,,, Sunlife Insurance
+CAUSED_BY, Tiredness,,,, Netherlands
+CAUSED_BY, Body_Rejection,,,, Umbilical Region
+CAUSED_BY, Crying Spells,,,, Epigastric Region
+CAUSED_BY, Weakness,,,, Inner Elbow
+CAUSED_BY, Extreme Pain,,,, Fort Myers
+CAUSED_BY, Explosive Diarrhea,,,, Toilet
+CAUSED_BY, Bed,,,, Trip To California
+CAUSED_BY, Side Effects,,,, 60Lbs
+CAUSED_BY, Nausea,,,, 47Lbs
+CAUSED_BY, Vomiting,,,, 100 Pounds
+CAUSED_BY, Side Effects,,,, 10 Months
+CAUSED_BY, Sulphur Burps,,,,192
+CAUSED_BY, Nausea,,,,174
+CAUSED_BY, Vomiting,,,, 8 Years
+CAUSED_BY, Constipation,,,, Binge Eating
+CAUSED_BY, Heartburn,,,, Mucus
+CAUSED_BY, Stomach Pain,,,, Bloody Mucus
+CAUSED_BY, Extreme Bloating,,,, Leptin Resistance
+CAUSED_BY, Anxiety,,,, Fasting Glucose
+CAUSED_BY, Nausea,,,, 7 Lbs
+CAUSED_BY, Nausea,,,,8.7
+CAUSED_BY, Whole Body Aches,,,,5.7
+CAUSED_BY, Side Effects,,,,8
+CAUSED_BY, Panic Attack,,,, Vacation
+CAUSED_BY, Panic Attack,,,, Tlkr Surgery
+CAUSED_BY, Panic Attack,,,, Ecg Results
+CAUSED_BY, Side Effects,,,, 6Kg
+CAUSED_BY, Exhaustion,,,, Weslaco
+CAUSED_BY, Discouragement,,,, Mcallen
+CAUSED_BY, Stomach_Pains,,,, Supermarket
+CAUSED_BY, Anxiety,,,, Advice
+CAUSED_BY, Ozempic,,,, Support_Group
+CAUSED_SICKNESS,0.5,,,, Maintenance
+CAUSED_SICKNESS,0.5,,,, Licensed Dietitian
+CAUSED_SYMPTOM, Abdominal Pain,,,,30
+CAUSED_SYMPTOM, Diarrhea,,,, Sugar Craving
+CAUSED_SYMPTOM, Vomiting,,,, Life Worth Living
+CAUSED_SYMPTOM, Dizziness,,,,270
+CAUSED_SYMPTOM, Fatigue,,,, 275Lbs
+CAUSED_SYMPTOM, Sick,,,, Diabetic
+CAUSED_SYMPTOM, Throw Up,,,, March
+CAUSED_SYMPTOM, Nausea,,,, Month And A Half
+CAUSED_SYMPTOM, Diarrhea,,,, Home
+CAUSED_SYMPTOM, Severe Side Effects,,,, Bloodpressure
+CAUSED_SYMPTOM, Abdominal Pain,,,,6:30 AM
+CAUSED_SYMPTOM, Diarrhea,,,, 9 Months
+CAUSED_SYMPTOM, Vomiting,,,, Country
+CAUSED_SYMPTOM, Dizziness,,,, Nausea_Meds
+CAUSED_SYMPTOM, Fatigue,,,, Clinic
+CAUSED_SYMPTOM, Sick,,,, Blood Work
+CAUSED_SYMPTOM, Throw Up,,,, Stool Tests
+CAUSED_SYMPTOM, Nausea,,,, Scope
+CAUSED_SYMPTOM, Diarrhea,,,, 4 Months
+CAUSED_SYMPTOM, Severe Side Effects,,,, Children
+CAUSED_SYMPTOMS, Symptoms,,,, Day 1
+CAUSED_SYMPTOMS, Symptoms,,,, University
+CAUSED_SYMPTOMS, Symptoms,,,, Holiday
+CAUSED_SYMPTOMS, Symptoms,,,, Amazon
+CAUSED_UNAVAILABILITY, Ozempic,,,, Nile Cruise
+CAUSED_UNAVAILABILITY, Ozempic,,,, Trials
+CAUSED_WEIGHT_GAIN, Weight Of 199,,,, Figure Competitions
+CAUSED_WEIGHT_GAIN, Weight Of 199,,,, Er Visit
+CAUSES, Weight Loss,,,, Son
+CAUSES, Diarrhoea,,,, Cruise
+CAUSES, Nausea,,,, Alcohol Consumption
+CAUSES, Weight_Loss,,,, Kickboard Swimming
+CAUSES, Gastrointestinal Issues,,,, Couch To 5K Program
+CAUSES, Diarrhea,,,, Wedding
+CAUSES, Vomiting,,,, Grocery_Shopping
+CAUSES, Constipation,,,, Meal_Preparation
+CAUSES, Bloated,,,, Weight Loss Program
+CAUSES, Sulfur Burps,,,, Produce
+CAUSES, Bathroom Trips,,,, Glycemie Check
+CAUSES, Nauseous,,,, Lifting Weights
+CAUSES, Hospital,,,, Physical Disability
+CAUSES, Projectile Vomiting,,,, Break
+CAUSES, Loss Of Appetite,,,, 14 From 365 To 265
+CAUSES, Stomach Pains,,,, Breastfeeding
+CAUSES, Dizziness,,,, Europe_Trip
+CAUSES, Headaches,,,, Appealprocess
+CAUSES, Fatigue,,,,0.4
+CAUSES, Acid Reflux,,,,COMPARISON
+CAUSES, Burning Sternum,,,, Portion Control
+CAUSES, Low Appetite,,,, Weightlifting
+CAUSES, Heartburn,,,, Running
+CAUSES, Panic Attack,,,, Diet Mindfulness
+CAUSES, Exhaustion,,,, Daughter
+CAUSES, Upper Left Stomach Pain,,,, Wl
+CAUSES, Hair Shedding,,,, Week 2
+CAUSES, Extreme Shedding,,,, Lexapro
+CAUSES, Tiredness,,,, Ozempic 0.25Mg
+CAUSES, Grouchy,,,, Metamucil
+CAUSES, Grumpy,,,, Stomach Medication
+CAUSES, Bleeding,,,, Bloodpressuremedicine
+CAUSES, Severe Stomach Pain,,,, Zoloft
+CAUSES, Gassiness,,,, Cardiologist
+CAUSES, Reflux,,,, Pnp
+CAUSES, Bone Ache,,,, Munjaro
+CAUSES, Energy_Loss,,,,1/4/23
+CAUSES, Starvation Mode,,,, Tresiba
+CAUSES, Vomit,,,, Humalog
+CAUSES, Side_Effects,,,, Ozempic Pap
+CAUSES, Bedridden,,,, Other Meds
+CAUSES, Weakness,,,,February 2022
+CAUSES, Weight_Gain,,,,203
+CAUSES, Heavy Period,,,, Nutrition
+CAUSES, Dehydration,,,, Self
+CAUSES, Miserable_Feeling,,,, Hunger Reduction
+CAUSES, Nausea,,,,189
+CAUSES, Vomiting,,,, Positivity
+CAUSES, Nausea,,,, Iv
+CAUSES, Diarrhea,,,, Samples
+CAUSES, Vomiting,,,, Support
+CAUSES, Weight Gain 53Lbs,,,, Customer_Support_Agent
+CAUSES, Cold Hands And Feet,,,, Canadian_Pharmacy
+CAUSES, Numbness,,,, Foundation Year Undergraduate Degree
+CAUSES, Trembling,,,, Health Journey
+CAUSES, Weight Gain,,,, Phentermine
+CAUSES, Dizziness,,,, Farxiga
+CAUSES, Bedridden,,,, Topiramate
+CAUSES, Suffering,,,, Caffeine
+CAUSES, Walking Difficulty,,,, Nicotine
+CAUSES, Side_Effects,,,, Recommendations
+CAUSES, Fatigue,,,, Iv Fluids
+CAUSES, Depression,,,, Weight Loss Of 30 Pounds
+CAUSES, Dizziness,,,, D3
+CAUSES, Fatigue,,,, B
+CAUSES, Headache,,,, 0.5Ml Dose
+CAUSES, Bleeding,,,, Miralax
+CAUSES, Constipation,,,, Acid Reducers
+CAUSES, Memory Loss,,,, 2 .5 Doses
+CAUSES, Diarrhea,,,, Stopping Altogether
+CAUSES, Vomiting,,,, Weight Loss Specialist
+CAUSES, Appetite Loss,,,, Physical_Therapy
+CAUSES, Weight Gain,,,, Fda
+CAUSES, Blood Loss,,,, Hair_Loss
+CAUSES, Weight Loss,,,, Numbness In Hands
+CAUSES, Diarrhoea,,,, Fetal Issues
+CAUSES, Nausea,,,, Ibs
+CAUSES, Weight_Loss,,,, Hiatal Hernia
+CAUSES, Gastrointestinal Issues,,,, Eating
+CAUSES, Diarrhea,,,, Lightheadedness
+CAUSES, Vomiting,,,, Type Ii Diabetes
+CAUSES, Constipation,,,, Stomach Flu
+CAUSES, Bloated,,,, Stomach Bug
+CAUSES, Sulfur Burps,,,, Greasy Food
+CAUSES, Bathroom Trips,,,, Pre_Diabetes
+CAUSES, Nauseous,,,, Vomit Burps
+CAUSES, Hospital,,,, Upset Stomach
+CAUSES, Projectile Vomiting,,,, Loose Bowels
+CAUSES, Loss Of Appetite,,,, Sinus Arrhythmia
+CAUSES, Stomach Pains,,,, Experience
+CAUSES, Dizziness,,,, Trying To Conceive
+CAUSES, Headaches,,,, Endo Appointment
+CAUSES, Fatigue,,,, Ivf Transfer
+CAUSES, Acid Reflux,,,, Sw 238
+CAUSES, Burning Sternum,,,, Ce 227
+CAUSES, Low Appetite,,,, Therapy
+CAUSES, Heartburn,,,, Long Flight
+CAUSES, Panic Attack,,,, Urge To Eat More Before Period
+CAUSES, Exhaustion,,,, Weight Plateau
+CAUSES, Upper Left Stomach Pain,,,, Lifestyle Changes
+CAUSES, Hair Shedding,,,, Insurance Coverage
+CAUSES, Extreme Shedding,,,, Success Stories
+CAUSES, Tiredness,,,, .25_Volume
+CAUSES, Grouchy,,,, .5_Volume
+CAUSES, Grumpy,,,, Proprioception Issues
+CAUSES, Bleeding,,,, Indulging
+CAUSES, Severe Stomach Pain,,,, Elevated Liver Enzyme
+CAUSES, Gassiness,,,, Old Habits
+CAUSES, Reflux,,,, Bingeing
+CAUSES, Bone Ache,,,, Antibiotic
+CAUSES, Energy_Loss,,,, Calories Counting
+CAUSES, Starvation Mode,,,, Defeat
+CAUSES, Vomit,,,, American Health Care
+CAUSES, Side_Effects,,,, Death_Thoughts
+CAUSES, Bedridden,,,, Liquid_Bms
+CAUSES, Weakness,,,, Spinal Stenosis
+CAUSES, Weight_Gain,,,, Tylenol
+CAUSES, Heavy Period,,,, Gabapentin
+CAUSES, Dehydration,,,, Tramadol
+CAUSES, Miserable_Feeling,,,, Meds
+CAUSES, Nausea,,,, Experiences
+CAUSES, Vomiting,,,, Antibiotics
+CAUSES, Nausea,,,, Express Scripts
+CAUSES, Diarrhea,,,, Reglan
+CAUSES, Vomiting,,,, Ekg
+CAUSES, Weight Gain 53Lbs,,,, Emergency_Room
+CAUSES, Cold Hands And Feet,,,, Dosage
+CAUSES, Numbness,,,, E.Coli
+CAUSES, Trembling,,,, 30 Lbs
+CAUSES, Weight Gain,,,, 62 Lbs
+CAUSES, Dizziness,,,, Shot_0.25
+CAUSES, Bedridden,,,, 13_Pounds
+CAUSES, Suffering,,,, 40 Lbs
+CAUSES, Walking Difficulty,,,, 0.25 Mg Injection
+CAUSES, Side_Effects,,,, Success
+CAUSES, Fatigue,,,, Cancerous Tumor
+CAUSES, Depression,,,, Perfect Blood Sugar
+CAUSES, Dizziness,,,, 30 Pounds
+CAUSES, Fatigue,,,, 10 Lbs
+CAUSES, Headache,,,, 40Lbs Weight Loss
+CAUSES, Bleeding,,,, 17 Pounds
+CAUSES, Constipation,,,, 20Kg
+CAUSES, Memory Loss,,,, Misery
+CAUSES, Diarrhea,,,, 20Lbs
+CAUSES, Vomiting,,,, 8 Lbs
+CAUSES, Appetite Loss,,,, 40 Pounds
+CAUSES, Weight Gain,,,, 90Kg
+CAUSES, Blood Loss,,,, 15Kg
+CAUSES_IRRITATION, Irritated Skin,,,, 27 Pounds
+CAUSES_IRRITATION, Irritated Skin,,,, 10Kg
+CAUSES_SYMPTOM, Anxiety,,,, 270Lbs
+CAUSES_SYMPTOM, Anxiety,,,, 4 Lbs
+CAUSING, Pain,,,, 30Lbs
+CAUSING, Pain,,,, Icu
+INCREASED_TO,0.36,,,, 48.8 Kg
+CAUTION_WITH, Thyroid Cancer,,,, 107.5 Pounds
+CAUTION_WITH, Thyroid Cancer,,,, Medical Insurance
+CELEBRATED, Mum,,,, Health Insurance Loss
+CELEBRATED, Mum,,,,0.1
+CELEBRATES, High School Graduation,,,, December
+CELEBRATES, High School Graduation,,,, Update
+CHALLENGE, Weight Loss,,,, Endo
+CHALLENGE, Weight Loss,,,, Primary Care Physician
+CHANGE, Appetite,,,, Transatlantic Flight
+CHANGE, Pant_Size,,,, Baby Planning
+CHANGE, Appetite,,,, Gallbladder Attack
+CHANGE, Pant_Size,,,, June
+CHANGE_DOSE, 0.5Mg,,,,November 21
+CHANGE_DOSE, 0.5Mg,,,, 161 Pounds
+CHANGED_TO, 140 Lbs,,,, 400 Pounds
+CHANGED_TO, 140 Lbs,,,,212
+CHECK_IN, August,,,, November
+CHECK_IN, August,,,,September 2021
+CHECK_RESULT, Fine,,,,June 2022
+CHECK_RESULT, Fine,,,,July 2022
+CHECKED_FOR, Pancreas,,,, New_Job
+CHECKED_FOR, Diverticulosis,,,, Wellbutrin
+CHECKED_FOR, Pancreas,,,, Resistance Training Program
+CHECKED_FOR, Diverticulosis,,,,204
+CHOLESTEROL_CHANGE,168,,,,19
+CHOLESTEROL_CHANGE,168,,,, 5'4/221 Lbs
+CLOSE_TO, High Normal Reading,,,, Keto
+CLOSE_TO, Goal Weight,,,, April/May
+CLOSE_TO, High Normal Reading,,,,October 21
+CLOSE_TO, Goal Weight,,,, August_7
+CO,OCCURS,,,, November 29Th 2021
+CO,OCCURS,,,, August 24Th
+CO,OCCURS,,,, 0.25Ml Dose
+CO,OCCURS,,,,2018
+CO,OCCURS,,,, .5 Dose
+CO,OCCURS,,,, 188 Pounds
+COEXISTS_WITH, Pcos,,,, Starting Wt 212
+COEXISTS_WITH, Pcos,,,, 158 Lbs
+COMMUNICATES_WITH, Nurse,,,,230
+COMMUNICATES_WITH, Nurse,,,, 34Lbs
+COMPARABLE_TO, Ozempic,,,, Sold Out
+COMPARABLE_TO, Ozempic,,,, Numbness And Dizziness
+COMPARES, Ozempic,,,, Unknown Period
+COMPARES, Ozempic,,,, Brisbane
+COMPARISON, Victoza,,,, April
+COMPARISON, 35 Pounds,,,, January 26Th
+COMPARISON, Victoza,,,, Walking_Normal
+COMPARISON, 35 Pounds,,,, Sweetened Drinks
+COMPLAINED_TO, Provider,,,, Issues
+COMPLAINED_TO, Provider,,,, Oz 1Mg
+CONCERN, Pregnancy,,,, Health Reason
+CONCERN, Pregnancy,,,, Caloricdeficit
+CONCERN, Weightloss,,,, Rest
+CONCERN, Pregnancy,,,, Hernia
+CONCERN, Pregnancy,,,, Unsupportive Partner
+CONCERN, Weightloss,,,, Cyclizine
+CONCERNED_ABOUT, Best Friend'S Wedding,,,, Labetolol
+CONCERNED_ABOUT, Hunger_Levels,,,, Vyvanse
+CONCERNED_ABOUT, Best Friend'S Wedding,,,, 100 Lbs
+CONCERNED_ABOUT, Hunger_Levels,,,,120
+CONCERNED_WITH, Ozempic,,,, Non
+CONCERNED_WITH, Ozempic,,,, 900 Calories
+CONCERNS, Tolerance,,,, 1200 Calories
+CONCERNS, Relapse,,,, Restart
+CONCERNS, Pancreatitis,,,, 8Th Week
+CONCERNS, Weight Gain,,,, 20 Years
+CONCERNS, Existence,,,, 1.5 Dosage
+CONCERNS, Tolerance,,,,199
+CONCERNS, Relapse,,,, 19Lbs
+CONCERNS, Pancreatitis,,,, 28 Pounds
+INCREASED_TO,0.5,,,, 97Lbs
+CONCERNS, Weight Gain,,,, A & E
+CONCERNS, Existence,,,, Nuevo Progresso
+INCREASED_TO,1.75,,,, Patient
+CONCERNS_ABOUT, Severe Side Effects,,,, Tsh
+CONCERNS_ABOUT, Severe Side Effects,,,, Nausea Meds
+CONDUCTED_AT, Urgent Care,,,, Smaller Meals
+CONDUCTED_AT, Urgent Care,,,, Vitamins
+CONDUCTED_WITH, Abdominal Ct Scan,,,, Laxative
+CONDUCTED_WITH, Abdominal Ct Scan,,,, Stoolsoftener
+CONFUSING, Hypoglycemia,,,, Nausea Medication
+INCREASED_TO,0.25,,,, Insulin Resistant Pcos
+CONFUSING, Hypoglycemia,,,, Metabolic Disorder
+CONSIDERATION_FOR_PROGRAM, Eating Disorder Program,,,, Constipated Flu
+CONSIDERATION_FOR_PROGRAM, Eating Disorder Program,,,, Milk Of Magnesia
+CONSIDERATIONS, Metformin,,,, Tums
+CONSIDERATIONS, Inositol,,,, Pepto
+STARTS_AT, Dosage_0.25,,,, Pepcid
+CONSIDERATIONS, Metformin,,,, B12
+CONSIDERATIONS, Inositol,,,, Electrolytes
+CONSIDERED, Water Intake,,,, Gas X
+CONSIDERED, Food Intake,,,, Rebylsus
+CONSIDERED, Water Intake,,,, Glp
+CONSIDERED, Food Intake,,,, Anaphylactic Reaction
+CONSIDERED_CAUSE, Gallstones,,,, Tortilla
+CONSIDERED_CAUSE, Gallstones,,,, Internet
+CONSIDERING, Weight Management,,,, Health Insurance
+CONSIDERING, Urgent Care,,,, Vsg
+CONSIDERING, Er,,,, Ivf Treatments
+CONSIDERING, Wegovy,,,, Weight_Loss_Surgery
+CONSIDERING, Berberine,,,, Hormone Replacement
+CONSIDERING, Maintenance_Dose,,,, Blood_Work_April_2021
+CONSIDERING, Liraglutide,,,, Blood_Work_February_2022
+CONSIDERING, Weight Management,,,, Gastric Sleeve
+CONSIDERING, Urgent Care,,,, Blood Tests
+CONSIDERING, Er,,,, Stool Sample
+CONSIDERING, Wegovy,,,, Metformine
+CONSIDERING, Berberine,,,, Semaglutide
+CONSIDERING, Maintenance_Dose,,,, Otc Sleep Aid
+CONSIDERING, Liraglutide,,,, 2 Years
+CONSIDERING_DOSE, 0.14Mg,,,, New Knee
+CONSIDERING_DOSE, 0.14Mg,,,, One Month
+CONSIDERING_FOR, Music Festival,,,, 6_Months
+CONSIDERING_FOR, Music Festival,,,, Treatment
+CONSIDERING_FOR, Music Festival,,,, Blood Sugar Regulation
+CONSIDERING_FOR, Music Festival,,,, One Year Mark On Ozempic
+CONSIDERING_SWITCHING_TO, Saxenda,,,, Initial Weight Loss
+CONSIDERING_SWITCHING_TO, Rybelsus,,,, Glucose Control
+CONSIDERING_SWITCHING_TO, Saxenda,,,, Cholesterol Reduction
+CONSIDERING_SWITCHING_TO, Rybelsus,,,, 5 Months
+CONSIDERING_TO_SKIP, .25Mg,,,, 0.5 Dose
+CONSIDERING_TO_SKIP, .25Mg,,,, Full Pens
+CONSIDERING_VISIT, Walk,,,, Apple Watch
+CONSIDERING_VISIT, Walk,,,, Precision Xtra
+CONSIDERS, Single,,,, Weight Loss Drug
+CONSIDERS, Partner,,,, Cgm
+CONSIDERS, Single,,,, Treadmill
+CONSIDERS, Partner,,,, Click Dosing
+CONSULT_WITH, Doctor,,,, Fiber Gummies
+CONSULT_WITH, Doctor,,,, Probiotic/Prebiotic Gummy
+CONSULTED, Doctor,,,, Magnesium Glycinate
+CONSULTED, Doctor,,,, Needle
+CONSULTED, Ozempic,,,, Gravol
+CONSULTED, Hypoglycemic Incident,,,, Myfitnesspal
+CONSULTED, Doctor,,,, Egypt
+CONSULTED, Gp,,,, Doc
+CONSULTED, Psychologist,,,, Walgreens
+CONSULTED, Hypoglycemic Incident,,,, Brother
+CONSULTED, Endocrinologist,,,, 1 Ml
+CONSULTED, Doctor,,,, Bile
+CONSULTED, Doctor,,,, Payday
+CONSULTED, Doctor,,,, Basal Metabolic Rate
+CONSULTED, Doctor,,,, Sugar Control
+CONSULTED, Ozempic,,,, 413 Pounds
+CONSULTED, Hypoglycemic Incident,,,, 88Kg
+CONSULTED, Doctor,,,, 26+ Years Ago
+CONSULTED, Gp,,,, 7 Pounds
+CONSULTED, Psychologist,,,, 108.5Kg
+CONSULTED, Hypoglycemic Incident,,,,282.8
+CONSULTED, Endocrinologist,,,, 324Lbs
+CONSULTED, Doctor,,,, 105Kg
+CONSULTED, Doctor,,,, 180Lbs
+CONSULTS, Doctor,,,, 120+Lbs
+CONSULTS, Physician,,,, 50 Lbs
+CONSULTS, Doctor,,,, 210Lbs
+CONSULTS, Doctors,,,, 80Lbs
+CONSULTS, Doctor,,,, 36.1Kg
+CONSULTS, Physician,,,, Cw:162 Lbs
+CONSULTS, Doctor,,,, 107.4Kg
+CONSULTS, Doctors,,,,225
+CONSUMED, Water,,,, 305Lbs
+CONSUMED, Water,,,,100
+CONSUMED_WITH, Water,,,, 225Lbs
+CONSUMED_WITH, Water,,,,January 22
+CONSUMES, Protein_Shake,,,, 15Lbs
+CONSUMES, Protein_Shake,,,, Weight Lost
+CONTACT, Doctor,,,, 45Lbs
+CONTACT, Doctor,,,, 92Kg
+CONTAINS, 0.5Mg,,,, 388Lbs
+CONTAINS, 0.5Mg,,,,195
+CONTEMPLATES, Quit,,,,198
+CONTEMPLATES, Quit,,,, 3X A Week
+CONTRACTED, Covid,,,, Dr'S Office
+CONTRACTED, Covid,,,, Reactive_Hypoglycemia
+CONTRAINDICATED_WITH, Ozempic,,,, Neuropathy
+CONTRAINDICATED_WITH, Ozempic,,,,
+CONTRAINDICATES, Ozempic,,,,
+CONTRAINDICATES, Ozempic,,,,
+CONTRIBUTE_TO, Global Shortage,,,,
+CONTRIBUTE_TO, Global Shortage,,,,
+CONTRIBUTE_TO, Global Shortage,,,,
+CONTRIBUTE_TO, Global Shortage,,,,
+CONTRIBUTED, 38 Pounds,,,,
+CONTRIBUTED, 38 Pounds,,,,
+CONTRIBUTED_TO, Weight Loss,,,,
+CONTRIBUTED_TO, Weight_Loss,,,,
+CONTRIBUTED_TO, Weight_Loss,,,,
+CONTRIBUTED_TO, Weight Loss,,,,
+CONTRIBUTED_TO, Swollenfeet,,,,
+CONTRIBUTED_TO, Swollenfeet,,,,
+CONTRIBUTED_TO, Swollenfeet,,,,
+CONTRIBUTED_TO, Swollenfeet,,,,
+CONTRIBUTED_TO, Swollenfeet,,,,
+CONTRIBUTED_TO, Weight_Loss,,,,
+CONTRIBUTED_TO, Weightloss,,,,
+CONTRIBUTED_TO, Weight Gain,,,,
+CONTRIBUTED_TO, Weight Loss,,,,
+CONTRIBUTED_TO, Weight_Loss,,,,
+CONTRIBUTED_TO, Weight_Loss,,,,
+CONTRIBUTED_TO, Weight Loss,,,,
+CONTRIBUTED_TO, Swollenfeet,,,,
+CONTRIBUTED_TO, Swollenfeet,,,,
+CONTRIBUTED_TO, Swollenfeet,,,,
+CONTRIBUTED_TO, Swollenfeet,,,,
+CONTRIBUTED_TO, Swollenfeet,,,,
+CONTRIBUTED_TO, Weight_Loss,,,,
+CONTRIBUTED_TO, Weightloss,,,,
+CONTRIBUTED_TO, Weight Gain,,,,
+CONTRIBUTES_TO, Weight_Loss,,,,
+CONTRIBUTES_TO, Maintenance Stories,,,,
+CONTRIBUTES_TO, Weight Maintenance,,,,
+CONTRIBUTES_TO, Weight Maintenance,,,,
+CONTRIBUTES_TO, Obesity,,,,
+CONTRIBUTES_TO, Illness,,,,
+CONTRIBUTES_TO, Weight_Loss,,,,
+CONTRIBUTES_TO, Maintenance Stories,,,,
+CONTRIBUTES_TO, Weight Maintenance,,,,
+CONTRIBUTES_TO, Weight Maintenance,,,,
+CONTRIBUTES_TO, Obesity,,,,
+CONTRIBUTES_TO, Illness,,,,
+CONTROLLED, Sugar Level,,,,
+CONTROLLED, Sugar Level,,,,
+CONTROLLED_BY, Gerd,,,,
+CONTROLLED_BY, Gerd,,,,
+COOCCURRED_WITH, Abdomen Pain,,,,
+COOCCURRED_WITH, Abdomen Pain,,,,
+CORRELATES_WITH, Appetite,,,,
+CORRELATES_WITH, Appetite,,,,
+COST, Money,,,,
+COST, Money,,,,
+COST, Insurance,,,,
+COST, Money,,,,
+COST, Money,,,,
+COST, Insurance,,,,
+COST_TO_REFILL, Marks Marine,,,,
+COST_TO_REFILL, Marks Marine,,,,
+COSTUME_FOR_EVENT, Sons Costume,,,,
+COSTUME_FOR_EVENT, Sons Costume,,,,
+COVERED, Prescription,,,,
+STARTS_AT, 0.25 Dosage,,,,
+STARTS_AT, 0.50 Dosage,,,,
+COVERED, Ozempic,,,,
+COVERED, Prescription,,,,
+COVERED, Ozempic,,,,
+COVERED_BY, Insurance,,,,
+COVERED_BY, Ozempic,,,,
+COVERED_BY, Insurance,,,,
+COVERED_BY, Ozempic,,,,
+COVERS, Ozempic,,,,
+COVERS, Medication,,,,
+COVERS, Ontario_Drug_Benefits_Program,,,,
+COVERS, Ozempic,,,,
+COVERS,3,,,,
+COVERS, Medication,,,,
+COVERS, Weight Loss Drugs,,,,
+COVERS, Ozempic,,,,
+COVERS, Medication,,,,
+COVERS, Ontario_Drug_Benefits_Program,,,,
+COVERS, Ozempic,,,,
+COVERS,3,,,,
+COVERS, Medication,,,,
+COVERS, Weight Loss Drugs,,,,
+COVERS_COST, Medication,,,,
+COVERS_COST, Medication,,,,
+CURRENT_BODY_FAT,February 2,,,,
+CURRENT_BODY_FAT,February 2,,,,
+CURRENT_CONDITION, Pms,,,,
+CURRENT_CONDITION, Pms,,,,
+CURRENT_DAY, Sunday,,,,
+CURRENT_DAY, Sunday,,,,
+CURRENT_DOSAGE,0.5,,,,
+CURRENT_DOSAGE,0.27,,,,
+CURRENT_DOSAGE,0.5,,,,
+CURRENT_DOSAGE,0.27,,,,
+CURRENT_DOSE, 1Mg,,,,
+CURRENT_DOSE, 1Mg,,,,
+CURRENT_LEVEL,250,,,,
+CURRENT_LEVEL,250,,,,
+CURRENT_MEASUREMENT,February 2,,,,
+CURRENT_MEASUREMENT,February 2,,,,
+CURRENT_SYMPTOM, Medication,,,,
+CURRENT_SYMPTOM, Medication,,,,
+CURRENT_WEIGHT, 152 Pounds,,,,
+CURRENT_WEIGHT, Today: 165,,,,
+CURRENT_WEIGHT,194,,,,
+CURRENT_WEIGHT, 360 Pounds,,,,
+CURRENT_WEIGHT,161,,,,
+CURRENT_WEIGHT, Current Weight,,,,
+CURRENT_WEIGHT,198.4,,,,
+CURRENT_WEIGHT, 124.1Kg,,,,
+CURRENT_WEIGHT, 136.2 Lbs,,,,
+CURRENT_WEIGHT,180,,,,
+CURRENT_WEIGHT, 160Lbs,,,,
+CURRENT_WEIGHT, 81Kg Current Weight,,,,
+CURRENT_WEIGHT,308,,,,
+CURRENT_WEIGHT, 94Kg,,,,
+CURRENT_WEIGHT, 152 Pounds,,,,
+CURRENT_WEIGHT, Today: 165,,,,
+CURRENT_WEIGHT,194,,,,
+CURRENT_WEIGHT, 360 Pounds,,,,
+CURRENT_WEIGHT,161,,,,
+CURRENT_WEIGHT, Current Weight,,,,
+CURRENT_WEIGHT,198.4,,,,
+CURRENT_WEIGHT, 124.1Kg,,,,
+CURRENT_WEIGHT, 136.2 Lbs,,,,
+CURRENT_WEIGHT,180,,,,
+CURRENT_WEIGHT, 160Lbs,,,,
+CURRENT_WEIGHT, 81Kg Current Weight,,,,
+CURRENT_WEIGHT,308,,,,
+CURRENT_WEIGHT, 94Kg,,,,
+CURRENTLY_TAKING, Ozempic,,,,
+CURRENTLY_TAKING, Ozempic,,,,
+D,AFFECTED_BY,,,,
+D,AFFECTED_BY,,,,
+DAILY_CALORIE_NORM,800,,,,
+DAILY_CALORIE_NORM,800,,,,
+DECIDED_ON, Ozempic,,,,
+DECIDED_ON, Ozempic,,,,
+DECLINED_COVERAGE, Ozempic,,,,
+DECLINED_COVERAGE, Ozempic,,,,
+DECREASE,0.5,,,,
+DECREASE,0.5,,,,
+DECREASED_FROM, 38% Body Fat,,,,
+DECREASED_FROM, 38% Body Fat,,,,
+DECREASED_TO, Weight Of 149,,,,
+DECREASED_TO,14,,,,
+DECREASED_TO, Weight Of 149,,,,
+DECREASED_TO,14,,,,
+DECREASES, Hunger,,,,
+DECREASES, Physical Activity,,,,
+DECREASES, Hunger,,,,
+DECREASES, Physical Activity,,,,
+DELAYED_FILL,2.5,,,,
+DELAYED_FILL,2.5,,,,
+DELAYS, Gastric Emptying,,,,
+DELAYS, Gastric Emptying,,,,
+DENIED, O,,,,
+DENIED, Psychiatrist,,,,
+DENIED, Cash_Payment,,,,
+DENIED, Ozempic,,,,
+DENIED, O,,,,
+DENIED, Psychiatrist,,,,
+DENIED, Cash_Payment,,,,
+DENIED, Ozempic,,,,
+DENIED_COVERAGE_FOR, Ozempic,,,,
+DENIED_COVERAGE_FOR, Ozempic,,,,
+DESCRIBES,300,,,,
+DESCRIBES,50,,,,
+DESCRIBES,300,,,,
+DESCRIBES,50,,,,
+DESIRED_OUTCOME, Oz,,,,
+DESIRED_OUTCOME, Oz,,,,
+DETECTED_BY, Ultrasound,,,,
+DETECTED_BY, Ultrasound,,,,
+DEVELOPS, Self_Love,,,,
+DEVELOPS, Self_Love,,,,
+DEVELOPS_INTO, Infections,,,,
+DEVELOPS_INTO, Infections,,,,
+Diabetic,HAS_METRIC,,,,
+Diabetic,RELATED_TO,,,,
+Diabetic,RELATED_TO,,,,
+Diabetic,REASON_FOR_TAKING,,,,
+Diabetic,HAS_METRIC,,,,
+Diabetic,RELATED_TO,,,,
+Diabetic,RELATED_TO,,,,
+Diabetic,REASON_FOR_TAKING,,,,
+DIAGNOSED, Diabetes,,,,
+DIAGNOSED, Prediabetes,,,,
+DIAGNOSED, Prediabetes,,,,
+DIAGNOSED, Diabetes,,,,
+DIAGNOSED, Diabetes,,,,
+DIAGNOSED, Prediabetes,,,,
+DIAGNOSED, Prediabetes,,,,
+DIAGNOSED, Diabetes,,,,
+DIAGNOSED_AS, Stomach_Virus,,,,
+DIAGNOSED_AS, Colitis,,,,
+DIAGNOSED_AS, Stomach_Virus,,,,
+DIAGNOSED_AS, Colitis,,,,
+DIAGNOSED_AT,15,,,,
+DIAGNOSED_AT,15,,,,
+DIAGNOSED_WITH, Pcos,,,,
+DIAGNOSED_WITH, Kidney Stones,,,,
+DIAGNOSED_WITH, Insulin Resistance,,,,
+DIAGNOSED_WITH, Binge Eating Disorder,,,,
+DIAGNOSED_WITH, Anorexia,,,,
+DIAGNOSED_WITH, Adhd,,,,
+DIAGNOSED_WITH, A1C,,,,
+DIAGNOSED_WITH, Diverticulosis,,,,
+DIAGNOSED_WITH, Pcos,,,,
+DIAGNOSED_WITH, Prediabetes,,,,
+DIAGNOSED_WITH, Pots,,,,
+DIAGNOSED_WITH, T2,,,,
+DIAGNOSED_WITH, Ir Pcos,,,,
+DIAGNOSED_WITH, Hashimoto’S,,,,
+DIAGNOSED_WITH, Fibromyalgia,,,,
+DIAGNOSED_WITH, Pcos,,,,
+DIAGNOSED_WITH, Kidney Stones,,,,
+DIAGNOSED_WITH, Insulin Resistance,,,,
+DIAGNOSED_WITH, Binge Eating Disorder,,,,
+DIAGNOSED_WITH, Anorexia,,,,
+DIAGNOSED_WITH, Adhd,,,,
+DIAGNOSED_WITH, A1C,,,,
+DIAGNOSED_WITH, Diverticulosis,,,,
+DIAGNOSED_WITH, Pcos,,,,
+DIAGNOSED_WITH, Prediabetes,,,,
+DIAGNOSED_WITH, Pots,,,,
+DIAGNOSED_WITH, T2,,,,
+DIAGNOSED_WITH, Ir Pcos,,,,
+DIAGNOSED_WITH, Hashimoto’S,,,,
+DIAGNOSED_WITH, Fibromyalgia,,,,
+DIAGNOSES, Celiac,,,,
+DIAGNOSES, Fissure,,,,
+DIAGNOSES, Celiac,,,,
+DIAGNOSES, Fissure,,,,
+DIED_DURING, Pandemic,,,,
+DIED_DURING, Pandemic,,,,
+DIET_INCLUDES, Water,,,,
+DIET_INCLUDES, Oatmeal,,,,
+DIET_INCLUDES, Apple,,,,
+DIET_INCLUDES, Almonds,,,,
+DIET_INCLUDES, Turkey,,,,
+DIET_INCLUDES, Protein Drink,,,,
+DIET_INCLUDES, Water,,,,
+DIET_INCLUDES, Oatmeal,,,,
+DIET_INCLUDES, Apple,,,,
+DIET_INCLUDES, Almonds,,,,
+DIET_INCLUDES, Turkey,,,,
+DIET_INCLUDES, Protein Drink,,,,
+DIET_TYPE, Fasting,,,,
+DIET_TYPE, Fasting,,,,
+DIET_USED, Paleo,,,,
+DIET_USED, Protein Bars,,,,
+DIET_USED, Paleo,,,,
+DIET_USED, Protein Bars,,,,
+DISCONTINUE, Pregnancy,,,,
+DISCONTINUE, Ozempic,,,,
+DISCONTINUE, Drug,,,,
+USED_IN, Ireland,,,,
+DISCONTINUE, Pregnancy,,,,
+DISCONTINUE, Ozempic,,,,
+DISCONTINUE, Drug,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Mounjaro,,,,
+DISCONTINUED, Saxenda,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Oxy,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Metformin,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Mounjaro,,,,
+DISCONTINUED, Saxenda,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Oxy,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Ozempic,,,,
+DISCONTINUED, Metformin,,,,
+DISCONTINUED_DUE_TO, Bug,,,,
+DISCONTINUED_DUE_TO, Bug,,,,
+DISCONTINUED_FOR, Surgery,,,,
+DISCONTINUED_FOR, Surgery,,,,
+DISCONTINUED_IN, February,,,,
+DISCONTINUED_IN, February,,,,
+DISCONTINUED_USE, Ozempic,,,,
+DISCONTINUED_USE, Ozempic,,,,
+DISCONTINUES, Plateau,,,,
+DISCONTINUES, O,,,,
+DISCONTINUES, Metformin,,,,
+DISCONTINUES, Plateau,,,,
+DISCONTINUES, O,,,,
+DISCONTINUES, Metformin,,,,
+DISCONTINUING, Ozempic,,,,
+DISCONTINUING, Ozempic,,,,
+DISCOURAGE_USE, Ozempic,,,,
+DISCOURAGE_USE, Ozempic,,,,
+DISCOURAGES_USE_OF, Ozempic,,,,
+DISCOURAGES_USE_OF, Ozempic,,,,
+DISCUSS, Ozempic,,,,
+DISCUSS, Zofran,,,,
+DISCUSS, Kidney Labs,,,,
+DISCUSS, Ozempic,,,,
+DISCUSS, Zofran,,,,
+DISCUSS, Kidney Labs,,,,
+DISCUSSED_WITH, Friend,,,,
+DISCUSSED_WITH, Friend,,,,
+DISCUSSES, Ozempic,,,,
+DISCUSSES, Ozempic,,,,
+DISCUSSIONS_ON, Weight,,,,
+DISCUSSIONS_ON, Weight,,,,
+DISLIKED, Weightloss,,,,
+DISLIKED, Weightloss,,,,
+DISPENSED, Prescription,,,,
+DISPENSED, Prescription,,,,
+DISREGARDS, Water Consumption,,,,
+DISREGARDS, Water Consumption,,,,
+DISRUPTION, Ozempic,,,,
+DISRUPTION, Ozempic,,,,
+DISRUPTS, Ozempic,,,,
+DISRUPTS, Ozempic,,,,
+DOES_NOT_AFFECT, Weight Loss,,,,
+DOES_NOT_AFFECT, Weight Loss,,,,
+DOES_NOT_HELP, Weight Gain,,,,
+DOES_NOT_HELP, Weight Gain,,,,
+DOES_NOT_HELP, Weight Gain,,,,
+DOES_NOT_HELP, Weight Gain,,,,
+DOSAGE, 1Mg,,,,
+DOSAGE, 0.25Mg,,,,
+DOSAGE, 0.375Mg,,,,
+DOSAGE,1.5,,,,
+DOSAGE, 1Mg,,,,
+DOSAGE, Ozempic,,,,
+DOSAGE, Ozempic,,,,
+DOSAGE, Ozempic,,,,
+DOSAGE, Week 6,,,,
+DOSAGE, Week 5,,,,
+DOSAGE, Ozempic,,,,
+DOSAGE, Week 4,,,,
+DOSAGE, O,,,,
+DOSAGE, 1Mg,,,,
+DOSAGE, 0.25Mg,,,,
+DOSAGE, 0.375Mg,,,,
+DOSAGE,1.5,,,,
+DOSAGE, 1Mg,,,,
+DOSAGE, Ozempic,,,,
+DOSAGE, Ozempic,,,,
+DOSAGE, Ozempic,,,,
+DOSAGE, Week 6,,,,
+DOSAGE, Week 5,,,,
+DOSAGE, Ozempic,,,,
+DOSAGE, Week 4,,,,
+DOSAGE, O,,,,
+USED_IN, Walking,,,,
+DOSAGE_ADMINISTERED, People,,,,
+DOSAGE_ADMINISTERED, People,,,,
+DOSAGE_CHANGE, 0.25Mg,,,,
+DOSAGE_CHANGE, 0.25Mg,,,,
+DOSAGE_INCREASE, 1Mg,,,,
+DOSAGE_INCREASE, 1Mg,,,,
+DRINKS, 1 Gallon,,,,
+DRINKS, 1 Gallon,,,,
+DROPPED_BACK_TO, 4 Weeks Ago,,,,
+DROPPED_BACK_TO, 4 Weeks Ago,,,,
+DURATION, 3 Months,,,,
+DURATION, 5 Weeks,,,,
+DURATION, 10 Weeks,,,,
+DURATION, 2 Weeks,,,,
+DURATION, Anxiety,,,,
+DURATION, Week,,,,
+DURATION, 3 Weeks,,,,
+DURATION, 3 Months,,,,
+DURATION, 4 Weeks,,,,
+DURATION, 3 Months,,,,
+DURATION, 5 Weeks,,,,
+DURATION, 10 Weeks,,,,
+DURATION, 2 Weeks,,,,
+DURATION, Anxiety,,,,
+DURATION, Week,,,,
+DURATION, 3 Weeks,,,,
+DURATION, 3 Months,,,,
+DURATION, 4 Weeks,,,,
+DURATION_OF, 0.5Mg,,,,
+DURATION_OF, 15 Pounds,,,,
+DURATION_OF, Conceiving,,,,
+DURATION_OF, 0.5Mg,,,,
+DURATION_OF, 15 Pounds,,,,
+DURATION_OF, Conceiving,,,,
+DURATION_OF_USE, 6 Weeks,,,,
+DURATION_OF_USE, 6 Weeks,,,,
+DURING, Weight_Loss_Amount,,,,
+DURING, Weight_Loss_Amount,,,,
+EATEN, Wholegrain Toast,,,,
+EATEN, Egg,,,,
+EATEN, Rice Pudding,,,,
+EATEN, Yogurt,,,,
+EATEN, Pastrami,,,,
+EATEN, White Bread Roll,,,,
+EATEN, Bananas,,,,
+EATEN, Multi Grain Bread,,,,
+EATEN, Apple Juice,,,,
+EATEN, Omelette,,,,
+EATEN, Fat Free Cottage Cheese,,,,
+EATEN, Dave'S Killer Bread Power Seed,,,,
+EATEN, Chicken,,,,
+EATEN, Vegetables,,,,
+EATEN, Cauliflower Rice,,,,
+EATEN, Fish,,,,
+EATEN, Wholegrain Toast,,,,
+EATEN, Egg,,,,
+EATEN, Rice Pudding,,,,
+EATEN, Yogurt,,,,
+EATEN, Pastrami,,,,
+EATEN, White Bread Roll,,,,
+EATEN, Bananas,,,,
+EATEN, Multi Grain Bread,,,,
+EATEN, Apple Juice,,,,
+EATEN, Omelette,,,,
+EATEN, Fat Free Cottage Cheese,,,,
+EATEN, Dave'S Killer Bread Power Seed,,,,
+EATEN, Chicken,,,,
+EATEN, Vegetables,,,,
+EATEN, Cauliflower Rice,,,,
+EATEN, Fish,,,,
+EATING, Rice,,,,
+EATING, Crackers,,,,
+EATING, Rice,,,,
+EATING, Crackers,,,,
+EATING_WINDOW, Eating Window,,,,
+EATING_WINDOW, Eating Window,,,,
+EATS, Normal Meals,,,,
+EATS, Normal Meals,,,,
+EFFECT_ON, User,,,,
+EFFECT_ON, User,,,,
+EFFECTIVE_FOR, 2 Hours,,,,
+EFFECTIVE_FOR, 2 Hours,,,,
+EFFECTIVENESS, Ir,,,,
+EFFECTIVENESS, Ir,,,,
+EFFECTS_ON, Yucky Effects,,,,
+EFFECTS_ON, Yucky Effects,,,,
+EMPLOYED, Weightlossstrategies,,,,
+EMPLOYED, Weightlossstrategies,,,,
+ENABLED_EATING_LESS, Success Story,,,,
+ENABLED_EATING_LESS, Success Story,,,,
+END_DATE,May 22,,,,
+END_DATE,May 22,,,,
+ENGAGED_IN, Travel,,,,
+ENGAGED_IN, Work Out 5X A Week,,,,
+ENGAGED_IN, Eat Clean,,,,
+ENGAGED_IN, No Carbs,,,,
+ENGAGED_IN, Powerlifting,,,,
+ENGAGED_IN, Travel,,,,
+ENGAGED_IN, Work Out 5X A Week,,,,
+ENGAGED_IN, Eat Clean,,,,
+ENGAGED_IN, No Carbs,,,,
+ENGAGED_IN, Powerlifting,,,,
+ENGAGES_IN, Exercise,,,,
+ENGAGES_IN, Exercise,,,,
+ENGAGES_IN, Journey,,,,
+ENGAGES_IN, Exercise,,,,
+ENGAGES_IN, Exercise,,,,
+ENGAGES_IN, Journey,,,,
+EVALUATED, Diarrhea,,,,
+EVALUATED, Diarrhea,,,,
+EVALUATED_FOR, Abdominal Pain,,,,
+EVALUATED_FOR, Hair,,,,
+EVALUATED_FOR, Abdominal Pain,,,,
+EVALUATED_FOR, Abdominal Pain,,,,
+EVALUATED_FOR, Hair,,,,
+EVALUATED_FOR, Abdominal Pain,,,,
+EXCLUDED_BY, Polyps,,,,
+EXCLUDED_BY, Polyps,,,,
+EXCLUDED_FROM, Graves,,,,
+EXCLUDED_FROM, Graves,,,,
+EXCLUDES, Carbs,,,,
+EXCLUDES, Sugar,,,,
+EXCLUDES, Carbs,,,,
+EXCLUDES, Sugar,,,,
+EXERCISE_FREQUENCY_WHEN_ON, Oz,,,,
+EXERCISE_FREQUENCY_WHEN_ON, Oz,,,,
+EXHIBITED, Isolation,,,,
+EXHIBITED, Isolation,,,,
+EXHIBITING, Emotional Eating,,,,
+EXHIBITING, Emotional Eating,,,,
+EXIT_FROM, Ozempic,,,,
+EXIT_FROM, Ozempic,,,,
+EXPECTED_ARRIVAL,1/17/23,,,,
+EXPECTED_ARRIVAL,1/17/23,,,,
+EXPECTED_BACK, Appetite,,,,
+EXPECTED_BACK, Appetite,,,,
+EXPECTED_RECEIVE_TIME, 3 Weeks,,,,
+EXPECTED_RECEIVE_TIME, 3 Weeks,,,,
+EXPECTED_TO_DECREASE, Joint Pain,,,,
+EXPECTED_TO_DECREASE, Joint Pain,,,,
+EXPERIENCED, Weight Loss,,,,
+EXPERIENCED, Side Effects,,,,
+EXPERIENCED, Nausea,,,,
+EXPERIENCED, Weight_Loss,,,,
+EXPERIENCED, Vomiting,,,,
+EXPERIENCED, Weightloss,,,,
+EXPERIENCED, Side_Effects,,,,
+EXPERIENCED, Appetite Reduction,,,,
+EXPERIENCED, Heartburn,,,,
+EXPERIENCED, Period,,,,
+EXPERIENCED, Depression,,,,
+EXPERIENCED, Overweight,,,,
+EXPERIENCED, Tiredness,,,,
+EXPERIENCED, Plateau,,,,
+EXPERIENCED, Taste Change,,,,
+EXPERIENCED, Sleep Issues,,,,
+EXPERIENCED, Appetite Suppression,,,,
+EXPERIENCED, Stomach/Intestinal Pains,,,,
+EXPERIENCED, Weight Loss,,,,
+EXPERIENCED, Side Effects,,,,
+EXPERIENCED, Diabetes,,,,
+EXPERIENCED, Weight_Loss,,,,
+EXPERIENCED, Diarrhea,,,,
+EXPERIENCED, Vomiting,,,,
+EXPERIENCED, Appetite,,,,
+EXPERIENCED, Stomach Pains,,,,
+EXPERIENCED, Weight Gain,,,,
+EXPERIENCED, Menopause,,,,
+EXPERIENCED, Palpitations,,,,
+EXPERIENCED, Pandemic,,,,
+EXPERIENCED, Parents Death,,,,
+EXPERIENCED, Child Issues,,,,
+EXPERIENCED, Heart Palpitations,,,,
+EXPERIENCED, Menopause,,,,
+EXPERIENCED, Long Haul,,,,
+EXPERIENCED, Symptoms,,,,
+EXPERIENCED, Starving,,,,
+EXPERIENCED, Abdominal Cramps,,,,
+EXPERIENCED, Nausea,,,,
+EXPERIENCED, Diarrhea,,,,
+EXPERIENCED, Vomiting,,,,
+EXPERIENCED, Acid Reflux,,,,
+EXPERIENCED, Stomach Pain,,,,
+EXPERIENCED, Nausea,,,,
+EXPERIENCED, Abdominal Pain,,,,
+EXPERIENCED, Vomiting,,,,
+EXPERIENCED, Weight Gain,,,,
+EXPERIENCED, Symptoms,,,,
+EXPERIENCED, Passive Suicidal Ideation,,,,
+EXPERIENCED, Weight_Loss,,,,
+EXPERIENCED, Stomach Pains,,,,
+EXPERIENCED, Heartburn,,,,
+EXPERIENCED, Upper Abdomen Pain,,,,
+EXPERIENCED, Nausea,,,,
+EXPERIENCED, Diarrhea,,,,
+EXPERIENCED, Vomiting,,,,
+EXPERIENCED, Bug,,,,
+EXPERIENCED, Dizziness,,,,
+EXPERIENCED, Anxiety,,,,
+EXPERIENCED, Lightheaded,,,,
+EXPERIENCED, Foggy,,,,
+EXPERIENCED, Cold,,,,
+EXPERIENCED, Pregnancy,,,,
+EXPERIENCED, Weight Loss,,,,
+EXPERIENCED, Side Effects,,,,
+EXPERIENCED, Nausea,,,,
+EXPERIENCED, Weight_Loss,,,,
+EXPERIENCED, Vomiting,,,,
+EXPERIENCED, Weightloss,,,,
+EXPERIENCED, Side_Effects,,,,
+EXPERIENCED, Appetite Reduction,,,,
+EXPERIENCED, Heartburn,,,,
+EXPERIENCED, Period,,,,
+EXPERIENCED, Depression,,,,
+EXPERIENCED, Overweight,,,,
+EXPERIENCED, Tiredness,,,,
+EXPERIENCED, Plateau,,,,
+EXPERIENCED, Taste Change,,,,
+EXPERIENCED, Sleep Issues,,,,
+EXPERIENCED, Appetite Suppression,,,,
+EXPERIENCED, Stomach/Intestinal Pains,,,,
+EXPERIENCED, Weight Loss,,,,
+EXPERIENCED, Side Effects,,,,
+EXPERIENCED, Diabetes,,,,
+EXPERIENCED, Weight_Loss,,,,
+EXPERIENCED, Diarrhea,,,,
+EXPERIENCED, Vomiting,,,,
+EXPERIENCED, Appetite,,,,
+EXPERIENCED, Stomach Pains,,,,
+EXPERIENCED, Weight Gain,,,,
+EXPERIENCED, Menopause,,,,
+EXPERIENCED, Palpitations,,,,
+EXPERIENCED, Pandemic,,,,
+EXPERIENCED, Parents Death,,,,
+EXPERIENCED, Child Issues,,,,
+EXPERIENCED, Heart Palpitations,,,,
+EXPERIENCED, Menopause,,,,
+EXPERIENCED, Long Haul,,,,
+EXPERIENCED, Symptoms,,,,
+EXPERIENCED, Starving,,,,
+EXPERIENCED, Abdominal Cramps,,,,
+EXPERIENCED, Nausea,,,,
+EXPERIENCED, Diarrhea,,,,
+EXPERIENCED, Vomiting,,,,
+EXPERIENCED, Acid Reflux,,,,
+EXPERIENCED, Stomach Pain,,,,
+EXPERIENCED, Nausea,,,,
+EXPERIENCED, Abdominal Pain,,,,
+EXPERIENCED, Vomiting,,,,
+EXPERIENCED, Weight Gain,,,,
+EXPERIENCED, Symptoms,,,,
+EXPERIENCED, Passive Suicidal Ideation,,,,
+EXPERIENCED, Weight_Loss,,,,
+EXPERIENCED, Stomach Pains,,,,
+EXPERIENCED, Heartburn,,,,
+EXPERIENCED, Upper Abdomen Pain,,,,
+EXPERIENCED, Nausea,,,,
+EXPERIENCED, Diarrhea,,,,
+EXPERIENCED, Vomiting,,,,
+EXPERIENCED, Bug,,,,
+EXPERIENCED, Dizziness,,,,
+EXPERIENCED, Anxiety,,,,
+EXPERIENCED, Lightheaded,,,,
+EXPERIENCED, Foggy,,,,
+EXPERIENCED, Cold,,,,
+EXPERIENCED, Pregnancy,,,,
+EXPERIENCED_AT,1,,,,
+EXPERIENCED_AT,1,,,,
+EXPERIENCED_AT,1,,,,
+EXPERIENCED_AT,1,,,,
+17 Lbs,USED_FOR,,,,
+EXPERIENCED_FOR, 16 Weeks,,,,
+EXPERIENCED_FOR, 16 Weeks,,,,
+EXPERIENCED_ON, Thursday,,,,
+EXPERIENCED_ON, Thursday,,,,
+EXPERIENCED_OUTCOME, Weight_Loss,,,,
+EXPERIENCED_OUTCOME, Weight_Loss,,,,
+EXPERIENCED_REBOUND, Weight Loss,,,,
+EXPERIENCED_REBOUND, Weight Loss,,,,
+EXPERIENCED_SIDE_EFFECTS, Ozempic,,,,
+EXPERIENCED_SIDE_EFFECTS, Ozempic,,,,
+EXPERIENCED_WEIGHT_LOSS, Ozempic,,,,
+EXPERIENCED_WEIGHT_LOSS, Ozempic,,,,
+EXPERIENCES, Weight Loss,,,,
+EXPERIENCES, Side Effects,,,,
+EXPERIENCES, Nausea,,,,
+EXPERIENCES, Abdominal Pain,,,,
+EXPERIENCES, Diarrhea,,,,
+EXPERIENCES, Vomiting,,,,
+EXPERIENCES, Sideeffects,,,,
+EXPERIENCES, Hunger,,,,
+EXPERIENCES, Burping,,,,
+EXPERIENCES, Satiation_Issue,,,,
+EXPERIENCES, Sideeffects,,,,
+EXPERIENCES, Hypoglycemia,,,,
+EXPERIENCES, Distendedstomach,,,,
+EXPERIENCES, Dehydration,,,,
+EXPERIENCES, Weightloss,,,,
+EXPERIENCES, Fear Of Injecting,,,,
+EXPERIENCES, Symptoms,,,,
+EXPERIENCES, Tiredness,,,,
+EXPERIENCES, Anxiety Episodes,,,,
+EXPERIENCES, Stress,,,,
+EXPERIENCES, Medication,,,,
+EXPERIENCES, Tachycardic_Episode,,,,
+EXPERIENCES, Nightmares,,,,
+EXPERIENCES, Extreme Fatigue,,,,
+EXPERIENCES, Dizziness,,,,
+EXPERIENCES, Weight Loss,,,,
+EXPERIENCES, Nausea,,,,
+EXPERIENCES, Diarrhea,,,,
+EXPERIENCES, Side Effects,,,,
+EXPERIENCES, Numbness,,,,
+EXPERIENCES, Itchiness,,,,
+EXPERIENCES, Tingling,,,,
+EXPERIENCES, Insecurity,,,,
+EXPERIENCES, Stomach Pains,,,,
+EXPERIENCES, Slow Transit Constipation,,,,
+EXPERIENCES, Weight Loss,,,,
+EXPERIENCES, Side Effects,,,,
+EXPERIENCES, Nausea,,,,
+EXPERIENCES, Abdominal Pain,,,,
+EXPERIENCES, Diarrhea,,,,
+EXPERIENCES, Vomiting,,,,
+EXPERIENCES, Sideeffects,,,,
+EXPERIENCES, Hunger,,,,
+INCREASED_TO, Ozempic 0.5Mg,,,,
+EXPERIENCES, Burping,,,,
+EXPERIENCES, Satiation_Issue,,,,
+EXPERIENCES, Sideeffects,,,,
+EXPERIENCES, Hypoglycemia,,,,
+EXPERIENCES, Distendedstomach,,,,
+EXPERIENCES, Dehydration,,,,
+EXPERIENCES, Weightloss,,,,
+EXPERIENCES, Fear Of Injecting,,,,
+EXPERIENCES, Symptoms,,,,
+EXPERIENCES, Tiredness,,,,
+EXPERIENCES, Anxiety Episodes,,,,
+EXPERIENCES, Stress,,,,
+EXPERIENCES, Medication,,,,
+EXPERIENCES, Tachycardic_Episode,,,,
+EXPERIENCES, Nightmares,,,,
+EXPERIENCES, Extreme Fatigue,,,,
+EXPERIENCES, Dizziness,,,,
+EXPERIENCES, Weight Loss,,,,
+EXPERIENCES, Nausea,,,,
+EXPERIENCES, Diarrhea,,,,
+EXPERIENCES, Side Effects,,,,
+EXPERIENCES, Numbness,,,,
+EXPERIENCES, Itchiness,,,,
+EXPERIENCES, Tingling,,,,
+EXPERIENCES, Insecurity,,,,
+EXPERIENCES, Stomach Pains,,,,
+EXPERIENCES, Slow Transit Constipation,,,,
+EXPERIENCES_CONDITION, Lethargy,,,,
+EXPERIENCES_CONDITION, Lack Of Energy,,,,
+EXPERIENCES_CONDITION, Lethargy,,,,
+EXPERIENCES_CONDITION, Lack Of Energy,,,,
+EXPERIENCING, Weight Loss,,,,
+EXPERIENCING, Side Effects,,,,
+EXPERIENCING, Pain,,,,
+EXPERIENCING, Gas,,,,
+EXPERIENCING, Fatigue,,,,
+EXPERIENCING, Insurance Issue,,,,
+EXPERIENCING, Hunger,,,,
+EXPERIENCING, Acid Reflux,,,,
+EXPERIENCING, Bloating,,,,
+EXPERIENCING, Burping,,,,
+EXPERIENCING, Hair Loss,,,,
+EXPERIENCING, Back Pain,,,,
+EXPERIENCING, Diet Change,,,,
+EXPERIENCING, Divorce,,,,
+EXPERIENCING, Anxiety,,,,
+EXPERIENCING, Depression,,,,
+EXPERIENCING, Weight_Loss,,,,
+EXPERIENCING, Side Effects,,,,
+EXPERIENCING, Brain Fog,,,,
+EXPERIENCING, Weight Loss,,,,
+EXPERIENCING, Side Effects,,,,
+EXPERIENCING, Pain,,,,
+EXPERIENCING, Gas,,,,
+EXPERIENCING, Fatigue,,,,
+EXPERIENCING, Insurance Issue,,,,
+EXPERIENCING, Hunger,,,,
+EXPERIENCING, Acid Reflux,,,,
+EXPERIENCING, Bloating,,,,
+EXPERIENCING, Burping,,,,
+EXPERIENCING, Hair Loss,,,,
+EXPERIENCING, Back Pain,,,,
+EXPERIENCING, Diet Change,,,,
+EXPERIENCING, Divorce,,,,
+EXPERIENCING, Anxiety,,,,
+EXPERIENCING, Depression,,,,
+EXPERIENCING, Weight_Loss,,,,
+EXPERIENCING, Side Effects,,,,
+EXPERIENCING, Brain Fog,,,,
+EXPERIENCING_ISSUES_WITH, Adhd,,,,
+EXPERIENCING_ISSUES_WITH, Adhd,,,,
+EXPOSED_TO, Pep,,,,
+EXPOSED_TO, Pep,,,,
+FAT_LOSS, 2 Lbs,,,,
+FAT_LOSS, 2 Lbs,,,,
+FEAR_OF, Side Effects,,,,
+FEAR_OF, Side Effects,,,,
+FEARS, Weight Gain,,,,
+FEARS, Weight Gain,,,,
+FEARS, Weight Gain,,,,
+FEARS, Weight Gain,,,,
+FEELING_BETTER, Me,,,,
+FEELING_BETTER, Me,,,,
+FEELS, Insanity,,,,
+FEELS, Discouragement,,,,
+FEELS, Insanity,,,,
+FEELS, Discouragement,,,,
+FILLED, Ozempic,,,,
+FILLED, Ozempic,,,,
+FILLED_FOR, Ozempic,,,,
+FILLED_FOR, Ozempic,,,,
+FILLED_IN, Canada,,,,
+FILLED_IN, Canada,,,,
+FIRST_DOSE, Oz,,,,
+FIRST_DOSE, Ozempic,,,,
+FIRST_DOSE, Oz,,,,
+FIRST_DOSE, Ozempic,,,,
+FIXED, Sleep,,,,
+FIXED, Sleep,,,,
+FOCUSES_ON, Nutrition & Health,,,,
+FOCUSES_ON, Nutrition & Health,,,,
+FOLLOWED_BY, Recovery,,,,
+FOLLOWED_BY, 0.5 Mg Dose,,,,
+FOLLOWED_BY, Recovery,,,,
+FOLLOWED_BY, 0.5 Mg Dose,,,,
+FOLLOWING, Macros,,,,
+FOLLOWING, Macros,,,,
+FOLLOWS, Keto Diet,,,,
+FOLLOWS, Calibrate,,,,
+FOLLOWS, High Protein,,,,
+FOLLOWS, Keto Diet,,,,
+FOLLOWS, Calibrate,,,,
+FOLLOWS, High Protein,,,,
+FOLLOWS_UP_WITH, Endocrinologist,,,,
+FOLLOWS_UP_WITH, Endocrinologist,,,,
+FOR, Ozempic,,,,
+FOR, Ozempic,,,,
+FOUND_SLUDGE, Gallbladder,,,,
+FOUND_SLUDGE, Gallbladder,,,,
+FROM,227,,,,
+FROM,227,,,,
+FULL_ROTATION_FOR, 1_Mg_Dose,,,,
+FULL_ROTATION_FOR, 1_Mg_Dose,,,,
+GAINED, Weightloss,,,,
+GAINED, Weightloss,,,,
+GAVE_BIRTH_TO, First Child,,,,
+GAVE_BIRTH_TO, First Child,,,,
+GIVES_ADVICE, Portion Sizes,,,,
+GIVES_ADVICE, Portion Sizes,,,,
+GOAL,10,,,,
+GOAL, 125 Lbs,,,,
+GOAL,10,,,,
+GOAL, 125 Lbs,,,,
+GOAL_WEIGHT, Goal Weight,,,,
+GOAL_WEIGHT, 295Lbs,,,,
+GOAL_WEIGHT, Goal Weight,,,,
+GOAL_WEIGHT, 295Lbs,,,,
+GOING_OFF, 1.5 Months,,,,
+GOING_OFF, 1.5 Months,,,,
+HAD, Labs,,,,
+HAD, Ct Scan,,,,
+HAD, Labs,,,,
+HAD, Ct Scan,,,,
+HAD_RELATIONSHIP_WITH, Pharmacist,,,,
+HAD_RELATIONSHIP_WITH, Pharmacist,,,,
+HAS, Side Effects,,,,
+HAS, Side_Effects,,,,
+HAS, Prescription,,,,
+HAS, Diabetes,,,,
+HAS, Fatigue,,,,
+HAS, Depression,,,,
+HAS, Fridge,,,,
+HAS, Boxes,,,,
+HAS, Age,,,,
+HAS, Insurance,,,,
+HAS, Pcos,,,,
+HAS, Obesity,,,,
+HAS, Phobia Of Throwing Up,,,,
+HAS, Energy,,,,
+HAS, Sedentary Job,,,,
+HAS, Bmi 33,,,,
+HAS, 5'10,,,,
+HAS, Weight 230Lbs,,,,
+HAS, Low Testosterone,,,,
+HAS, Bitchy Mood,,,,
+HAS, 3 Or 4 Pounds Lost,,,,
+HAS, Testosterone 164,,,,
+HAS, Disordered_Eating,,,,
+HAS, 2 Kids,,,,
+HAS, Mechanism Of Action,,,,
+HAS, Diabetes,,,,
+HAS, Weight Gain,,,,
+HAS, Insulin Resistance,,,,
+HAS, 5’7,,,,
+HAS, Anxiety,,,,
+HAS, Bmi 29,,,,
+HAS, Occupation,,,,
+HAS, Nurse,,,,
+HAS, 180 Lbs,,,,
+HAS, 150 Lbs,,,,
+HAS, Insulin_Resistance,,,,
+HAS, Side Effects,,,,
+HAS, Side_Effects,,,,
+HAS, Prescription,,,,
+HAS, Diabetes,,,,
+HAS, Fatigue,,,,
+HAS, Depression,,,,
+HAS, Fridge,,,,
+HAS, Boxes,,,,
+HAS, Age,,,,
+HAS, Insurance,,,,
+HAS, Pcos,,,,
+HAS, Obesity,,,,
+HAS, Phobia Of Throwing Up,,,,
+HAS, Energy,,,,
+HAS, Sedentary Job,,,,
+HAS, Bmi 33,,,,
+HAS, 5'10,,,,
+HAS, Weight 230Lbs,,,,
+HAS, Low Testosterone,,,,
+HAS, Bitchy Mood,,,,
+HAS, 3 Or 4 Pounds Lost,,,,
+HAS, Testosterone 164,,,,
+HAS, Disordered_Eating,,,,
+HAS, 2 Kids,,,,
+HAS, Mechanism Of Action,,,,
+HAS, Diabetes,,,,
+HAS, Weight Gain,,,,
+HAS, Insulin Resistance,,,,
+HAS, 5’7,,,,
+HAS, Anxiety,,,,
+HAS, Bmi 29,,,,
+HAS, Occupation,,,,
+HAS, Nurse,,,,
+HAS, 180 Lbs,,,,
+HAS, 150 Lbs,,,,
+HAS, Insulin_Resistance,,,,
+HAS_AGE, 28 Years Old,,,,
+HAS_AGE, 29 Years Old,,,,
+HAS_AGE, 28 Years Old,,,,
+HAS_AGE, 29 Years Old,,,,
+HAS_AMOUNT, 41.3 Kg,,,,
+HAS_AMOUNT, 91 Pounds,,,,
+HAS_AMOUNT, 41.3 Kg,,,,
+HAS_AMOUNT, 91 Pounds,,,,
+HAS_BACK_ORDER, Ozempic,,,,
+HAS_BACK_ORDER, Ozempic,,,,
+HAS_BREAK, 5 Week Break,,,,
+HAS_BREAK, 5 Week Break,,,,
+HAS_CAUSE, Shortage,,,,
+HAS_CAUSE, Shortage,,,,
+HAS_COMORBIDITY, Comorbidity,,,,
+HAS_COMORBIDITY, Comorbidity,,,,
+HAS_CONCEPT, 5'6,,,,
+HAS_CONCEPT, Fat,,,,
+HAS_CONCEPT, Body Weight,,,,
+HAS_CONCEPT, Muscle Base,,,,
+HAS_CONCEPT, Size 16,,,,
+HAS_CONCEPT, 240 Lbs,,,,
+HAS_CONCEPT, 5'6,,,,
+HAS_CONCEPT, Fat,,,,
+HAS_CONCEPT, Body Weight,,,,
+HAS_CONCEPT, Muscle Base,,,,
+HAS_CONCEPT, Size 16,,,,
+HAS_CONCEPT, 240 Lbs,,,,
+HAS_CONDITION, Non Diabetic,,,,
+HAS_CONDITION, High Male Hormones,,,,
+HAS_CONDITION, Insulin Resistant,,,,
+HAS_CONDITION, Perimenopause,,,,
+HAS_CONDITION, T2 Diabetes,,,,
+HAS_CONDITION, Adhd,,,,
+HAS_CONDITION, Autism,,,,
+HAS_CONDITION, Arfid,,,,
+HAS_CONDITION, T1D,,,,
+HAS_CONDITION, Colitis,,,,
+HAS_CONDITION, Pregnancy,,,,
+HAS_CONDITION, Diabetes,,,,
+HAS_CONDITION, Type 2 Diabetes,,,,
+HAS_CONDITION, Overweight,,,,
+HAS_CONDITION, Insurance Issues,,,,
+HAS_CONDITION, Clinical Depression,,,,
+HAS_CONDITION, General Anxiety Disorder,,,,
+HAS_CONDITION, Gestational Diabetes,,,,
+HAS_CONDITION, Post,,,,
+HAS_CONDITION, Tachy_Arrhythmia,,,,
+HAS_CONDITION, Vt,,,,
+HAS_CONDITION, Covid,,,,
+HAS_CONDITION, Pcos W/ Insulin Resistance,,,,
+HAS_CONDITION, Pcos,,,,
+HAS_CONDITION, Insulin_Resistance,,,,
+HAS_CONDITION, Weight_Issues,,,,
+HAS_CONDITION, Arthritis,,,,
+HAS_CONDITION, Ankle_Issue,,,,
+HAS_CONDITION, Slow_Metabolism,,,,
+HAS_CONDITION, Hypo_Thyroid,,,,
+HAS_CONDITION, Type 2 Diabetes,,,,
+HAS_CONDITION, Pcos,,,,
+HAS_CONDITION, Asthma,,,,
+HAS_CONDITION, Anxiety,,,,
+HAS_CONDITION, Hashimoto'S,,,,
+HAS_CONDITION, Depressive Episodes,,,,
+HAS_CONDITION, Peri_Menopausal,,,,
+HAS_CONDITION, Type 2 Diabetes,,,,
+HAS_CONDITION, Pre,,,,
+HAS_CONDITION, Dehydration,,,,
+HAS_CONDITION, Pcos,,,,
+HAS_CONDITION, Knee Injury,,,,
+HAS_CONDITION, Chronic Pain,,,,
+HAS_CONDITION, Non Diabetic,,,,
+HAS_CONDITION, High Male Hormones,,,,
+HAS_CONDITION, Insulin Resistant,,,,
+HAS_CONDITION, Perimenopause,,,,
+HAS_CONDITION, T2 Diabetes,,,,
+HAS_CONDITION, Adhd,,,,
+HAS_CONDITION, Autism,,,,
+HAS_CONDITION, Arfid,,,,
+HAS_CONDITION, T1D,,,,
+HAS_CONDITION, Colitis,,,,
+HAS_CONDITION, Pregnancy,,,,
+HAS_CONDITION, Diabetes,,,,
+HAS_CONDITION, Type 2 Diabetes,,,,
+HAS_CONDITION, Overweight,,,,
+HAS_CONDITION, Insurance Issues,,,,
+HAS_CONDITION, Clinical Depression,,,,
+HAS_CONDITION, General Anxiety Disorder,,,,
+HAS_CONDITION, Gestational Diabetes,,,,
+HAS_CONDITION, Post,,,,
+HAS_CONDITION, Tachy_Arrhythmia,,,,
+HAS_CONDITION, Vt,,,,
+HAS_CONDITION, Covid,,,,
+HAS_CONDITION, Pcos W/ Insulin Resistance,,,,
+HAS_CONDITION, Pcos,,,,
+HAS_CONDITION, Insulin_Resistance,,,,
+HAS_CONDITION, Weight_Issues,,,,
+HAS_CONDITION, Arthritis,,,,
+HAS_CONDITION, Ankle_Issue,,,,
+HAS_CONDITION, Slow_Metabolism,,,,
+HAS_CONDITION, Hypo_Thyroid,,,,
+HAS_CONDITION, Type 2 Diabetes,,,,
+HAS_CONDITION, Pcos,,,,
+HAS_CONDITION, Asthma,,,,
+HAS_CONDITION, Anxiety,,,,
+HAS_CONDITION, Hashimoto'S,,,,
+HAS_CONDITION, Depressive Episodes,,,,
+HAS_CONDITION, Peri_Menopausal,,,,
+HAS_CONDITION, Type 2 Diabetes,,,,
+HAS_CONDITION, Pre,,,,
+HAS_CONDITION, Dehydration,,,,
+HAS_CONDITION, Pcos,,,,
+HAS_CONDITION, Knee Injury,,,,
+HAS_CONDITION, Chronic Pain,,,,
+HAS_CURRENT_WEIGHT, Currentweight,,,,
+HAS_CURRENT_WEIGHT, Currentweight,,,,
+HAS_DIET, Caloric Intake,,,,
+HAS_DIET, Caloric Intake,,,,
+HAS_DOCTOR, Pcp,,,,
+HAS_DOCTOR, Endocrinologist,,,,
+HAS_DOCTOR, Pcp,,,,
+HAS_DOCTOR, Endocrinologist,,,,
+HAS_DOSAGE, 1Mg,,,,
+HAS_DOSAGE, 0.5Mg,,,,
+HAS_DOSAGE, 1Mg Dosage,,,,
+HAS_DOSAGE,0.25,,,,
+HAS_DOSAGE,1,,,,
+HAS_DOSAGE,0.5,,,,
+HAS_DOSAGE, 1Mg Ozempic,,,,
+HAS_DOSAGE, 0.25Mg Ozempic,,,,
+HAS_DOSAGE, 0.5Mg Ozempic,,,,
+HAS_DOSAGE, .50 Dosage,,,,
+HAS_DOSAGE, .25 Dosage,,,,
+HAS_DOSAGE, Dose,,,,
+HAS_DOSAGE, .50 Mg,,,,
+HAS_DOSAGE, 0.25 Mg,,,,
+HAS_DOSAGE, 1.0 Mg,,,,
+HAS_DOSAGE, 2 Mg,,,,
+HAS_DOSAGE, .50Mg,,,,
+HAS_DOSAGE, 1.5Mg,,,,
+HAS_DOSAGE,2,,,,
+HAS_DOSAGE, 2Mg,,,,
+HAS_DOSAGE, 0.5 Mg,,,,
+HAS_DOSAGE, 2 Mg Dose,,,,
+HAS_DOSAGE, 1 Mg/Week,,,,
+HAS_DOSAGE, 0.25 Mg,,,,
+HAS_DOSAGE, Injection,,,,
+HAS_DOSAGE, Medication,,,,
+HAS_DOSAGE, 1 Mg,,,,
+HAS_DOSAGE, 0.75 Mg,,,,
+HAS_DOSAGE, 0.5 Mg,,,,
+HAS_DOSAGE, 1Mg,,,,
+HAS_DOSAGE, 0.5Mg,,,,
+HAS_DOSAGE, 1Mg Dosage,,,,
+HAS_DOSAGE,0.25,,,,
+HAS_DOSAGE,1,,,,
+HAS_DOSAGE,0.5,,,,
+HAS_DOSAGE, 1Mg Ozempic,,,,
+HAS_DOSAGE, 0.25Mg Ozempic,,,,
+HAS_DOSAGE, 0.5Mg Ozempic,,,,
+HAS_DOSAGE, .50 Dosage,,,,
+HAS_DOSAGE, .25 Dosage,,,,
+HAS_DOSAGE, Dose,,,,
+HAS_DOSAGE, .50 Mg,,,,
+HAS_DOSAGE, 0.25 Mg,,,,
+HAS_DOSAGE, 1.0 Mg,,,,
+HAS_DOSAGE, 2 Mg,,,,
+HAS_DOSAGE, .50Mg,,,,
+HAS_DOSAGE, 1.5Mg,,,,
+HAS_DOSAGE,2,,,,
+HAS_DOSAGE, 2Mg,,,,
+HAS_DOSAGE, 0.5 Mg,,,,
+HAS_DOSAGE, 2 Mg Dose,,,,
+HAS_DOSAGE, 1 Mg/Week,,,,
+HAS_DOSAGE, 0.25 Mg,,,,
+HAS_DOSAGE, Injection,,,,
+HAS_DOSAGE, Medication,,,,
+HAS_DOSAGE, 1 Mg,,,,
+HAS_DOSAGE, 0.75 Mg,,,,
+HAS_DOSAGE, 0.5 Mg,,,,
+HAS_DOSE, 0.5_Dose,,,,
+HAS_DOSE, 1Mg Dose,,,,
+HAS_DOSE, Larger Pen,,,,
+HAS_DOSE, Smaller Dose,,,,
+HAS_DOSE, 0.25Mg,,,,
+HAS_DOSE, 0.07Mg,,,,
+HAS_DOSE, 0.14Mg,,,,
+HAS_DOSE, 2Mg Dose,,,,
+HAS_DOSE, 1Mg,,,,
+HAS_DOSE, 0.5Mg,,,,
+HAS_DOSE, 0.25Mg,,,,
+HAS_DOSE, 0.25Mg,,,,
+HAS_DOSE, 0.25Mg,,,,
+HAS_DOSE, 0.25Mg,,,,
+HAS_DOSE, 0.50Mg,,,,
+HAS_DOSE, 0.50Mg,,,,
+HAS_DOSE, 0.50Mg,,,,
+HAS_DOSE, 0.50Mg,,,,
+HAS_DOSE, 0.50Mg,,,,
+HAS_DOSE, 0.50Mg,,,,
+HAS_DOSE, 0.75Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 0.5_Dose,,,,
+HAS_DOSE, 1Mg Dose,,,,
+HAS_DOSE, Larger Pen,,,,
+HAS_DOSE, Smaller Dose,,,,
+HAS_DOSE, 0.25Mg,,,,
+HAS_DOSE, 0.07Mg,,,,
+HAS_DOSE, 0.14Mg,,,,
+HAS_DOSE, 2Mg Dose,,,,
+HAS_DOSE, 1Mg,,,,
+HAS_DOSE, 0.5Mg,,,,
+HAS_DOSE, 0.25Mg,,,,
+HAS_DOSE, 0.25Mg,,,,
+HAS_DOSE, 0.25Mg,,,,
+HAS_DOSE, 0.25Mg,,,,
+HAS_DOSE, 0.50Mg,,,,
+HAS_DOSE, 0.50Mg,,,,
+HAS_DOSE, 0.50Mg,,,,
+HAS_DOSE, 0.50Mg,,,,
+HAS_DOSE, 0.50Mg,,,,
+HAS_DOSE, 0.50Mg,,,,
+HAS_DOSE, 0.75Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DOSE, 1.00Mg,,,,
+HAS_DURATION, Two Months,,,,
+HAS_DURATION, Weeks,,,,
+HAS_DURATION, 6 Weeks,,,,
+HAS_DURATION, 2 Weeks,,,,
+HAS_DURATION, 7 Weeks,,,,
+HAS_DURATION, Nausea,,,,
+HAS_DURATION, Vomiting,,,,
+HAS_DURATION, 2Mg_Per_Week,,,,
+HAS_DURATION, Two Months,,,,
+HAS_DURATION, Weeks,,,,
+HAS_DURATION, 6 Weeks,,,,
+HAS_DURATION, 2 Weeks,,,,
+HAS_DURATION, 7 Weeks,,,,
+HAS_DURATION, Nausea,,,,
+HAS_DURATION, Vomiting,,,,
+HAS_DURATION, 2Mg_Per_Week,,,,
+HAS_EFFECT, Weight Loss,,,,
+HAS_EFFECT, Sickness,,,,
+HAS_EFFECT, Weightloss,,,,
+HAS_EFFECT, Blood Sugar Control,,,,
+HAS_EFFECT, Side_Effects,,,,
+HAS_EFFECT, Stress,,,,
+HAS_EFFECT, Rebounding Hunger,,,,
+HAS_EFFECT, Appetite Suppression,,,,
+HAS_EFFECT, Inflammation,,,,
+HAS_EFFECT, Ozempic,,,,
+HAS_EFFECT, Side Effects,,,,
+HAS_EFFECT, Weight_Loss,,,,
+HAS_EFFECT, Weight Loss,,,,
+HAS_EFFECT, Sickness,,,,
+HAS_EFFECT, Weightloss,,,,
+HAS_EFFECT, Blood Sugar Control,,,,
+HAS_EFFECT, Side_Effects,,,,
+HAS_EFFECT, Stress,,,,
+HAS_EFFECT, Rebounding Hunger,,,,
+HAS_EFFECT, Appetite Suppression,,,,
+HAS_EFFECT, Inflammation,,,,
+HAS_EFFECT, Ozempic,,,,
+HAS_EFFECT, Side Effects,,,,
+HAS_EFFECT, Weight_Loss,,,,
+HAS_EMPTY_SPACE, 10 Inches Of Empty Shirt,,,,
+HAS_EMPTY_SPACE, 10 Inches Of Empty Shirt,,,,
+HAS_EVENT, Shortage,,,,
+HAS_EVENT, Shortage,,,,
+HAS_FAREWELL, Farewell,,,,
+HAS_FAREWELL, Farewell,,,,
+HAS_FREQUENCY, Twice A Day,,,,
+INCREASED_TO, Weight Of 199,,,,
+HAS_FREQUENCY, Twice A Day,,,,
+HAS_GENDER, Female,,,,
+HAS_GENDER, Female,,,,
+HAS_GLUCOSE_LEVEL,123,,,,
+HAS_GLUCOSE_LEVEL,123,,,,
+HAS_GOAL, 2_Stone,,,,
+HAS_GOAL, Need To Lose More Weight,,,,
+HAS_GOAL, Go Back To The Gym,,,,
+HAS_GOAL, 2_Stone,,,,
+HAS_GOAL, Need To Lose More Weight,,,,
+HAS_GOAL, Go Back To The Gym,,,,
+HAS_GOAL_WEIGHT, Goalweight,,,,
+HAS_GOAL_WEIGHT, Goalweight,,,,
+HAS_HEALTH_CONDITION, High Cholesterol,,,,
+HAS_HEALTH_CONDITION, Hypertensive,,,,
+HAS_HEALTH_CONDITION, High Cholesterol,,,,
+HAS_HEALTH_CONDITION, Hypertensive,,,,
+HAS_HEIGHT, 5'6,,,,
+HAS_HEIGHT, Height,,,,
+HAS_HEIGHT, 177Cm,,,,
+HAS_HEIGHT," 5""4",,,,
+HAS_HEIGHT," 6'3""",,,,
+HAS_HEIGHT, 5'6,,,,
+HAS_HEIGHT, Height,,,,
+HAS_HEIGHT, 177Cm,,,,
+HAS_HEIGHT," 5""4",,,,
+HAS_HEIGHT," 6'3""",,,,
+HAS_HEMOGLOBIN_A1C,5.90%,,,,
+HAS_HEMOGLOBIN_A1C,5.90%,,,,
+HAS_HISTORY, Bed,,,,
+HAS_HISTORY, Bed,,,,
+HAS_INSULIN_LEVEL,56.1,,,,
+HAS_INSULIN_LEVEL,56.1,,,,
+HAS_INSURANCE_WITH, Insurancecompany,,,,
+HAS_INSURANCE_WITH, Insurancecompany,,,,
+HAS_ISSUE, Shortages,,,,
+HAS_ISSUE, Shortages,,,,
+HAS_JOURNEY, Weightlossjourney,,,,
+HAS_JOURNEY, Weightlossjourney,,,,
+HAS_LINK, Https://Flic.Kr/P/2Oicfvm,,,,
+HAS_LINK, Https://Flic.Kr/P/2Oicfvm,,,,
+HAS_MEDICATION, 1St Dose 0.25Mg,,,,
+HAS_MEDICATION, 2Nd Dose 0.25Mg,,,,
+HAS_MEDICATION, 3Rd Dose 0.25Mg,,,,
+HAS_MEDICATION, 4Th Dose 0.25Mg,,,,
+HAS_MEDICATION, 5Th Dose 0.50Mg,,,,
+HAS_MEDICATION, 6Th Dose 0.50Mg,,,,
+HAS_MEDICATION, 7Th Dose 0.50Mg,,,,
+HAS_MEDICATION, 8Th Dose 0.50Mg,,,,
+HAS_MEDICATION, 9Th Dose 0.50Mg,,,,
+HAS_MEDICATION, 10Th Dose 0.50Mg,,,,
+HAS_MEDICATION, 11Th Dose 0.75Mg,,,,
+HAS_MEDICATION, 12Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 13Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 14Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 15Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 16Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 17Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 18Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 19Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 20Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 21St Dose 1.00Mg,,,,
+HAS_MEDICATION, 22Nd Dose 1.00Mg,,,,
+HAS_MEDICATION, 23Rd Dose 1.00Mg,,,,
+HAS_MEDICATION, 24Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 25Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 26Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 27Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 28Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 29Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 30Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 1St Dose 0.25Mg,,,,
+HAS_MEDICATION, 2Nd Dose 0.25Mg,,,,
+HAS_MEDICATION, 3Rd Dose 0.25Mg,,,,
+HAS_MEDICATION, 4Th Dose 0.25Mg,,,,
+HAS_MEDICATION, 5Th Dose 0.50Mg,,,,
+HAS_MEDICATION, 6Th Dose 0.50Mg,,,,
+HAS_MEDICATION, 7Th Dose 0.50Mg,,,,
+HAS_MEDICATION, 8Th Dose 0.50Mg,,,,
+HAS_MEDICATION, 9Th Dose 0.50Mg,,,,
+HAS_MEDICATION, 10Th Dose 0.50Mg,,,,
+HAS_MEDICATION, 11Th Dose 0.75Mg,,,,
+HAS_MEDICATION, 12Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 13Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 14Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 15Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 16Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 17Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 18Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 19Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 20Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 21St Dose 1.00Mg,,,,
+HAS_MEDICATION, 22Nd Dose 1.00Mg,,,,
+HAS_MEDICATION, 23Rd Dose 1.00Mg,,,,
+HAS_MEDICATION, 24Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 25Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 26Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 27Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 28Th Dose 1.00Mg,,,,
+STARTS_AT, 2Mg,,,,
+HAS_MEDICATION, 29Th Dose 1.00Mg,,,,
+HAS_MEDICATION, 30Th Dose 1.00Mg,,,,
+HAS_METRIC, Bmi,,,,
+HAS_METRIC, Bmi,,,,
+HAS_OBSERVATION, Slow While In A Deficit,,,,
+HAS_OBSERVATION, Slow While In A Deficit,,,,
+HAS_PARENT, Mum,,,,
+HAS_PARENT, Mum,,,,
+HAS_PLAN, Dosage Options,,,,
+HAS_PLAN, Dosage Options,,,,
+HAS_PROPERTY, Slow,,,,
+HAS_PROPERTY, Increasing,,,,
+HAS_PROPERTY, High Fat Content,,,,
+HAS_PROPERTY, Slow,,,,
+HAS_PROPERTY, Increasing,,,,
+HAS_PROPERTY, High Fat Content,,,,
+HAS_PROVIDER, Pcp,,,,
+HAS_PROVIDER, Np,,,,
+HAS_PROVIDER, Pcp,,,,
+HAS_PROVIDER, Np,,,,
+HAS_RANGE,130,,,,
+HAS_RANGE,130,,,,
+HAS_SIDE_EFFECT, Nausea,,,,
+INCREASED_TO,0.5,,,,
+HAS_SIDE_EFFECT, Diarrhea,,,,
+HAS_SIDE_EFFECT, Vomiting,,,,
+HAS_SIDE_EFFECT, Burping_Problem,,,,
+HAS_SIDE_EFFECT, Burps,,,,
+HAS_SIDE_EFFECT, Reflux,,,,
+HAS_SIDE_EFFECT, Nausea,,,,
+HAS_SIDE_EFFECT, Gas,,,,
+HAS_SIDE_EFFECT, Headaches,,,,
+HAS_SIDE_EFFECT, Fatigue,,,,
+HAS_SIDE_EFFECT, Diarrhea,,,,
+HAS_SIDE_EFFECT, Extreme Fatigue,,,,
+HAS_SIDE_EFFECT, Dizziness,,,,
+HAS_SIDE_EFFECT, Wonky Feeling In Head,,,,
+HAS_SIDE_EFFECT, Nausea,,,,
+HAS_SIDE_EFFECT, Diarrhea,,,,
+HAS_SIDE_EFFECT, Vomiting,,,,
+HAS_SIDE_EFFECT, Burping_Problem,,,,
+HAS_SIDE_EFFECT, Burps,,,,
+HAS_SIDE_EFFECT, Reflux,,,,
+HAS_SIDE_EFFECT, Nausea,,,,
+HAS_SIDE_EFFECT, Gas,,,,
+HAS_SIDE_EFFECT, Headaches,,,,
+HAS_SIDE_EFFECT, Fatigue,,,,
+USED_IN, Gym,,,,
+HAS_SIDE_EFFECT, Diarrhea,,,,
+HAS_SIDE_EFFECT, Extreme Fatigue,,,,
+HAS_SIDE_EFFECT, Dizziness,,,,
+HAS_SIDE_EFFECT, Wonky Feeling In Head,,,,
+HAS_SIDE_EFFECTS, Side Effects,,,,
+HAS_SIDE_EFFECTS, Horrific Side Effects,,,,
+HAS_SIDE_EFFECTS, Side Effects,,,,
+HAS_SIDE_EFFECTS, Horrific Side Effects,,,,
+HAS_SIZE, Stomach,,,,
+HAS_SIZE, Stomach,,,,
+HAS_STARTING_WEIGHT, Startingweight,,,,
+HAS_STARTING_WEIGHT, Starting Weight,,,,
+HAS_STARTING_WEIGHT, Startingweight,,,,
+HAS_STARTING_WEIGHT, Starting Weight,,,,
+HAS_STOCK, Ozempic,,,,
+HAS_STOCK, Ozempic,,,,
+HAS_SYMPTOM, Abdominal Pain,,,,
+HAS_SYMPTOM, Stomach Problems,,,,
+HAS_SYMPTOM, 0.25 Dosage,,,,
+HAS_SYMPTOM, Itchy Skin,,,,
+HAS_SYMPTOM, Flaky Skin,,,,
+HAS_SYMPTOM, Dry Skin,,,,
+HAS_SYMPTOM, Irritated Skin,,,,
+HAS_SYMPTOM, Nausea,,,,
+HAS_SYMPTOM, Fatigue,,,,
+HAS_SYMPTOM, Severe Headache,,,,
+HAS_SYMPTOM, Nausea,,,,
+HAS_SYMPTOM, Vomiting,,,,
+HAS_SYMPTOM, Stomach_Pain,,,,
+HAS_SYMPTOM, 0.25 Dosage,,,,
+HAS_SYMPTOM, Thanksgiving,,,,
+HAS_SYMPTOM, Diarrhea,,,,
+HAS_SYMPTOM, Vomiting,,,,
+HAS_SYMPTOM, Abdominal Pain,,,,
+HAS_SYMPTOM, Stomach Problems,,,,
+HAS_SYMPTOM, 0.25 Dosage,,,,
+HAS_SYMPTOM, Itchy Skin,,,,
+HAS_SYMPTOM, Flaky Skin,,,,
+HAS_SYMPTOM, Dry Skin,,,,
+HAS_SYMPTOM, Irritated Skin,,,,
+HAS_SYMPTOM, Nausea,,,,
+HAS_SYMPTOM, Fatigue,,,,
+HAS_SYMPTOM, Severe Headache,,,,
+HAS_SYMPTOM, Nausea,,,,
+HAS_SYMPTOM, Vomiting,,,,
+HAS_SYMPTOM, Stomach_Pain,,,,
+HAS_SYMPTOM, 0.25 Dosage,,,,
+HAS_SYMPTOM, Thanksgiving,,,,
+HAS_SYMPTOM, Diarrhea,,,,
+HAS_SYMPTOM, Vomiting,,,,
+HAS_TYPE, Projectile Vomiting,,,,
+HAS_TYPE, Broken Blood Vessels,,,,
+HAS_TYPE, Projectile Vomiting,,,,
+HAS_TYPE, Broken Blood Vessels,,,,
+HAS_VALUE,11.7,,,,
+HAS_VALUE,5.3,,,,
+HAS_VALUE, 144.4 Kg,,,,
+HAS_VALUE,29,,,,
+HAS_VALUE, 52.9 Kg,,,,
+HAS_VALUE, 116.5 Pounds,,,,
+HAS_VALUE,1900,,,,
+HAS_VALUE, 108.5 Kg,,,,
+HAS_VALUE, 108.4 Kg,,,,
+HAS_VALUE, 106.6 Kg,,,,
+HAS_VALUE, 105.2 Kg,,,,
+HAS_VALUE, 104.5 Kg,,,,
+HAS_VALUE, 103.1 Kg,,,,
+HAS_VALUE, 102.2 Kg,,,,
+HAS_VALUE, 102.0 Kg,,,,
+HAS_VALUE, 101.1 Kg,,,,
+HAS_VALUE, 99.2 Kg,,,,
+HAS_VALUE, 98.2 Kg,,,,
+HAS_VALUE, 98.1 Kg,,,,
+HAS_VALUE, 97.5 Kg,,,,
+HAS_VALUE, 96.3 Kg,,,,
+HAS_VALUE, 95.6 Kg,,,,
+HAS_VALUE, 95.3 Kg,,,,
+HAS_VALUE, 94.7 Kg,,,,
+HAS_VALUE, 93.9 Kg,,,,
+HAS_VALUE, 93.1 Kg,,,,
+HAS_VALUE, 92.7 Kg,,,,
+HAS_VALUE, 92.2 Kg,,,,
+HAS_VALUE, 92.0 Kg,,,,
+HAS_VALUE, 91.5 Kg,,,,
+HAS_VALUE,11.7,,,,
+HAS_VALUE,5.3,,,,
+HAS_VALUE, 144.4 Kg,,,,
+HAS_VALUE,29,,,,
+HAS_VALUE, 52.9 Kg,,,,
+HAS_VALUE, 116.5 Pounds,,,,
+HAS_VALUE,1900,,,,
+HAS_VALUE, 108.5 Kg,,,,
+HAS_VALUE, 108.4 Kg,,,,
+HAS_VALUE, 106.6 Kg,,,,
+HAS_VALUE, 105.2 Kg,,,,
+HAS_VALUE, 104.5 Kg,,,,
+HAS_VALUE, 103.1 Kg,,,,
+HAS_VALUE, 102.2 Kg,,,,
+HAS_VALUE, 102.0 Kg,,,,
+HAS_VALUE, 101.1 Kg,,,,
+HAS_VALUE, 99.2 Kg,,,,
+HAS_VALUE, 98.2 Kg,,,,
+HAS_VALUE, 98.1 Kg,,,,
+HAS_VALUE, 97.5 Kg,,,,
+HAS_VALUE, 96.3 Kg,,,,
+HAS_VALUE, 95.6 Kg,,,,
+HAS_VALUE, 95.3 Kg,,,,
+HAS_VALUE, 94.7 Kg,,,,
+HAS_VALUE, 93.9 Kg,,,,
+HAS_VALUE, 93.1 Kg,,,,
+HAS_VALUE, 92.7 Kg,,,,
+HAS_VALUE, 92.2 Kg,,,,
+HAS_VALUE, 92.0 Kg,,,,
+HAS_VALUE, 91.5 Kg,,,,
+HAS_VITAL_SIGN, Hr,,,,
+HAS_VITAL_SIGN, Bp,,,,
+HAS_VITAL_SIGN, Hr,,,,
+HAS_VITAL_SIGN, Bp,,,,
+HAS_WEBSITE, Novocare.Com,,,,
+HAS_WEBSITE, Novocare.Com,,,,
+HAS_WEIGHT, Weight_Initial,,,,
+HAS_WEIGHT, Weight_Second,,,,
+HAS_WEIGHT, 144.4 Kg,,,,
+HAS_WEIGHT, 144.4 Kg,,,,
+HAS_WEIGHT, 144.0 Kg,,,,
+HAS_WEIGHT, 142.2 Kg,,,,
+HAS_WEIGHT, 140.2 Kg,,,,
+HAS_WEIGHT, 139.8 Kg,,,,
+HAS_WEIGHT, 138.4 Kg,,,,
+HAS_WEIGHT, 137.4 Kg,,,,
+HAS_WEIGHT, 135.4 Kg,,,,
+HAS_WEIGHT, 133.1 Kg,,,,
+HAS_WEIGHT, 131.9 Kg,,,,
+HAS_WEIGHT, 131.8 Kg,,,,
+HAS_WEIGHT, 130.7 Kg,,,,
+HAS_WEIGHT, 129.3 Kg,,,,
+HAS_WEIGHT, 127.8 Kg,,,,
+HAS_WEIGHT, 125.1 Kg,,,,
+HAS_WEIGHT, 124.3 Kg,,,,
+HAS_WEIGHT, 123.9 Kg,,,,
+HAS_WEIGHT, 121.5 Kg,,,,
+HAS_WEIGHT, 121.3 Kg,,,,
+HAS_WEIGHT, 120.4 Kg,,,,
+HAS_WEIGHT, 118.7 Kg,,,,
+HAS_WEIGHT, 117.8 Kg,,,,
+HAS_WEIGHT, 117.0 Kg,,,,
+HAS_WEIGHT, 115.6 Kg,,,,
+HAS_WEIGHT, 115.2 Kg,,,,
+HAS_WEIGHT, 113.7 Kg,,,,
+HAS_WEIGHT, 112.7 Kg,,,,
+HAS_WEIGHT, 112.4 Kg,,,,
+HAS_WEIGHT, 110.8 Kg,,,,
+HAS_WEIGHT, 110.1 Kg,,,,
+HAS_WEIGHT, Weight After Stopping Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, 108.5 Kg,,,,
+HAS_WEIGHT, 108.4 Kg,,,,
+HAS_WEIGHT, 106.6 Kg,,,,
+HAS_WEIGHT, 105.2 Kg,,,,
+HAS_WEIGHT, 104.5 Kg,,,,
+HAS_WEIGHT, 103.1 Kg,,,,
+HAS_WEIGHT, Weight After Stopping Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Stopping Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Stopping Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Stopping Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Stopping Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, 198.9Lbs,,,,
+HAS_WEIGHT, Weight_Initial,,,,
+HAS_WEIGHT, Weight_Second,,,,
+HAS_WEIGHT, 144.4 Kg,,,,
+HAS_WEIGHT, 144.4 Kg,,,,
+HAS_WEIGHT, 144.0 Kg,,,,
+HAS_WEIGHT, 142.2 Kg,,,,
+HAS_WEIGHT, 140.2 Kg,,,,
+HAS_WEIGHT, 139.8 Kg,,,,
+HAS_WEIGHT, 138.4 Kg,,,,
+HAS_WEIGHT, 137.4 Kg,,,,
+HAS_WEIGHT, 135.4 Kg,,,,
+HAS_WEIGHT, 133.1 Kg,,,,
+HAS_WEIGHT, 131.9 Kg,,,,
+HAS_WEIGHT, 131.8 Kg,,,,
+HAS_WEIGHT, 130.7 Kg,,,,
+HAS_WEIGHT, 129.3 Kg,,,,
+HAS_WEIGHT, 127.8 Kg,,,,
+HAS_WEIGHT, 125.1 Kg,,,,
+HAS_WEIGHT, 124.3 Kg,,,,
+HAS_WEIGHT, 123.9 Kg,,,,
+HAS_WEIGHT, 121.5 Kg,,,,
+HAS_WEIGHT, 121.3 Kg,,,,
+HAS_WEIGHT, 120.4 Kg,,,,
+HAS_WEIGHT, 118.7 Kg,,,,
+HAS_WEIGHT, 117.8 Kg,,,,
+HAS_WEIGHT, 117.0 Kg,,,,
+HAS_WEIGHT, 115.6 Kg,,,,
+HAS_WEIGHT, 115.2 Kg,,,,
+HAS_WEIGHT, 113.7 Kg,,,,
+HAS_WEIGHT, 112.7 Kg,,,,
+HAS_WEIGHT, 112.4 Kg,,,,
+HAS_WEIGHT, 110.8 Kg,,,,
+INCREASED_TO,0.5,,,,
+INCREASED_TO,1,,,,
+STARTS_AT,0.25,,,,
+STARTS_AT, 144.4 Kg,,,,
+STABLE, A1C,,,,
+HAS_WEIGHT, 110.1 Kg,,,,
+HAS_WEIGHT, Weight After Stopping Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, 108.5 Kg,,,,
+HAS_WEIGHT, 108.4 Kg,,,,
+HAS_WEIGHT, 106.6 Kg,,,,
+HAS_WEIGHT, 105.2 Kg,,,,
+HAS_WEIGHT, 104.5 Kg,,,,
+HAS_WEIGHT, 103.1 Kg,,,,
+HAS_WEIGHT, Weight After Stopping Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Stopping Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Stopping Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Stopping Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Stopping Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+USED_IN,2020,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, Weight After Ozempic,,,,
+HAS_WEIGHT, 198.9Lbs,,,,
+HAS_WEIGHT_GOAL, 20 Pounds,,,,
+HAS_WEIGHT_GOAL, 20 Pounds,,,,
+HAS_WEIGHT_LOSS, 31.7 Kg,,,,
+HAS_WEIGHT_LOSS, 70 Pounds,,,,
+HAS_WEIGHT_LOSS, 60 Lb Weight Loss,,,,
+HAS_WEIGHT_LOSS, 31.7 Kg,,,,
+HAS_WEIGHT_LOSS, 70 Pounds,,,,
+HAS_WEIGHT_LOSS, 60 Lb Weight Loss,,,,
+UPPED_TO, 1 Mg,,,,
+UPPED_TO,0.5,,,,
+HAVING, Insulin Resistance,,,,
+HAVING, Insulin Resistance,,,,
+HEALTH_IMPROVEMENT, Pre Diabetic,,,,
+HEALTH_IMPROVEMENT, High Cholesterol,,,,
+HEALTH_IMPROVEMENT, Triglycerides,,,,
+HEALTH_IMPROVEMENT, Hypertension,,,,
+HEALTH_IMPROVEMENT, Pre Diabetic,,,,
+HEALTH_IMPROVEMENT, High Cholesterol,,,,
+HEALTH_IMPROVEMENT, Triglycerides,,,,
+HEALTH_IMPROVEMENT, Hypertension,,,,
+HEALTH_STATUS, Health Condition,,,,
+HEALTH_STATUS, Health Condition,,,,
+HEIGHT_AT, 180Cm,,,,
+HEIGHT_AT, 180Cm,,,,
+HELPED, Anxiety Attacks,,,,
+HELPED, Pcos Symptoms,,,,
+HELPED, Anxiety Attacks,,,,
+HELPED, Pcos Symptoms,,,,
+HELPED_WITH, Symptoms,,,,
+HELPED_WITH, Symptoms,,,,
+HELPED_WITH, Symptoms,,,,
+HELPED_WITH, Symptoms,,,,
+HELPS, Weight Loss,,,,
+HELPS, Blood Sugars,,,,
+HELPS, Weight Loss,,,,
+HELPS, Blood Sugars,,,,
+HELPS_ENTER, Glucose,,,,
+HELPS_ENTER, Glucose,,,,
+HELPS_WITH, Food,,,,
+HELPS_WITH, Overeating Ed,,,,
+HELPS_WITH, Hunger Pangs,,,,
+HELPS_WITH, Exercise,,,,
+HELPS_WITH, Laxatives,,,,
+HELPS_WITH, Food,,,,
+HELPS_WITH, Overeating Ed,,,,
+HELPS_WITH, Hunger Pangs,,,,
+HELPS_WITH, Exercise,,,,
+HELPS_WITH, Laxatives,,,,
+HIGHEST_DOSE, Ozempic,,,,
+HIGHEST_DOSE, Ozempic,,,,
+HISTORY_OF, Depression,,,,
+HISTORY_OF, Depression,,,,
+HOPES_TO_RESOLVE, Optimal Weight,,,,
+HOPES_TO_RESOLVE, Optimal Weight,,,,
+HOPING_FOR, Binge_Eating,,,,
+HOPING_FOR, Holidays,,,,
+HOPING_FOR, Binge_Eating,,,,
+HOPING_FOR, Holidays,,,,
+HUSBAND_EXERCISE_COMPARISON, 5% More Exercise,,,,
+HUSBAND_EXERCISE_COMPARISON, 5% More Exercise,,,,
+HUSBAND_WEIGHT_LOSS, Husband,,,,
+HUSBAND_WEIGHT_LOSS, Husband,,,,
+IMPACT, Weight Loss,,,,
+IMPACT, Weight Loss,,,,
+IMPACTED, A1C Results,,,,
+IMPACTED, Family,,,,
+IMPACTED, A1C Results,,,,
+IMPACTED, Family,,,,
+IMPACTED_BY, Pandemic,,,,
+IMPACTED_BY, Pandemic,,,,
+IMPACTS, Healthy_Stool,,,,
+IMPACTS, Health_Results,,,,
+IMPACTS, Physical_Results,,,,
+IMPACTS, Celiac,,,,
+IMPACTS, Healthy_Stool,,,,
+IMPACTS, Health_Results,,,,
+IMPACTS, Physical_Results,,,,
+IMPACTS, Celiac,,,,
+IMPROVED, High Cholesterol,,,,
+IMPROVED, High Cholesterol,,,,
+IMPROVED_TO, Normal Bp And Heart Rate,,,,
+IMPROVED_TO, Improved Anxiety And Shortness Of Breath,,,,
+IMPROVED_TO, Normal Bp And Heart Rate,,,,
+IMPROVED_TO, Improved Anxiety And Shortness Of Breath,,,,
+IMPROVES, A1C,,,,
+IMPROVES, Body Weight,,,,
+IMPROVES, Blood Sugars,,,,
+IMPROVES, Normal Bowel Function,,,,
+IMPROVES, Health,,,,
+IMPROVES, Ozempic,,,,
+IMPROVES, Normal Bowel Function,,,,
+IMPROVES, Normal Bowel Function,,,,
+IMPROVES, Normal Bowel Function,,,,
+IMPROVES, Normal Bowel Function,,,,
+IMPROVES, Health,,,,
+IMPROVES, A1C,,,,
+IMPROVES, Body Weight,,,,
+IMPROVES, Blood Sugars,,,,
+IMPROVES, Normal Bowel Function,,,,
+IMPROVES, Health,,,,
+IMPROVES, Ozempic,,,,
+IMPROVES, Normal Bowel Function,,,,
+IMPROVES, Normal Bowel Function,,,,
+IMPROVES, Normal Bowel Function,,,,
+IMPROVES, Normal Bowel Function,,,,
+IMPROVES, Health,,,,
+In Clinic,PRESCRIBED,,,,
+In Clinic,PRESCRIBED,,,,
+IN_RELATIONSHIP, Significant_Other,,,,
+IN_RELATIONSHIP, Significant_Other,,,,
+IN_VOLUNTARY_ACTION, 1_Mg_Dose,,,,
+IN_VOLUNTARY_ACTION, 1_Mg_Dose,,,,
+INCLUDES, Nausea,,,,
+INCLUDES, Vomiting,,,,
+INCLUDES, Constipation,,,,
+INCLUDES, Extreme Fatigue,,,,
+INCLUDES, Dizziness,,,,
+INCLUDES, Brain Fog,,,,
+INCLUDES, Passing Out,,,,
+INCLUDES, Tummy Gurgle,,,,
+INCLUDES, Diet And Exercise,,,,
+INCLUDES, Ultrasound,,,,
+INCLUDES, Blood_Work,,,,
+INCLUDES, Camera Scope,,,,
+INCLUDES, Bile Drainage,,,,
+INCLUDES, Nausea,,,,
+INCLUDES, Vomiting,,,,
+INCLUDES, Bloat,,,,
+INCLUDES, Burping,,,,
+INCLUDES, Truvada,,,,
+INCLUDES, Raltegravir,,,,
+INCLUDES, Dizziness,,,,
+INCLUDES, Anxiety,,,,
+INCLUDES, Bloating,,,,
+INCLUDES, Burping,,,,
+INCLUDES, Tachycardia,,,,
+INCLUDES, Lower Back Pain,,,,
+INCLUDES, Dystonia,,,,
+INCLUDES, Shortness Of Breath,,,,
+INCLUDES, Face And Neck Tingling/Numbness,,,,
+INCLUDES, High Blood Pressure,,,,
+INCLUDES, Glucose Ser/Plasma Interface External,,,,
+INCLUDES, Program,,,,
+INCLUDES, Ham&Cheese Sandwich,,,,
+INCLUDES, Stew,,,,
+INCLUDES, Ct_Scan,,,,
+INCLUDES, Tests,,,,
+INCLUDES, Working_Out,,,,
+INCLUDES, Proper_Nutrition,,,,
+INCLUDES, Relationship_With_Food,,,,
+INCLUDES, Nausea,,,,
+INCLUDES, Vomiting,,,,
+INCLUDES, Constipation,,,,
+INCLUDES, Extreme Fatigue,,,,
+INCLUDES, Dizziness,,,,
+INCLUDES, Brain Fog,,,,
+INCLUDES, Passing Out,,,,
+INCLUDES, Tummy Gurgle,,,,
+INCLUDES, Diet And Exercise,,,,
+INCLUDES, Ultrasound,,,,
+INCLUDES, Blood_Work,,,,
+INCLUDES, Camera Scope,,,,
+INCLUDES, Bile Drainage,,,,
+INCLUDES, Nausea,,,,
+INCLUDES, Vomiting,,,,
+INCLUDES, Bloat,,,,
+INCLUDES, Burping,,,,
+INCLUDES, Truvada,,,,
+INCLUDES, Raltegravir,,,,
+INCLUDES, Dizziness,,,,
+INCLUDES, Anxiety,,,,
+INCLUDES, Bloating,,,,
+INCLUDES, Burping,,,,
+INCLUDES, Tachycardia,,,,
+INCLUDES, Lower Back Pain,,,,
+INCLUDES, Dystonia,,,,
+INCLUDES, Shortness Of Breath,,,,
+INCLUDES, Face And Neck Tingling/Numbness,,,,
+INCLUDES, High Blood Pressure,,,,
+INCLUDES, Glucose Ser/Plasma Interface External,,,,
+INCLUDES, Program,,,,
+INCLUDES, Ham&Cheese Sandwich,,,,
+INCLUDES, Stew,,,,
+INCLUDES, Ct_Scan,,,,
+INCLUDES, Tests,,,,
+INCLUDES, Working_Out,,,,
+INCLUDES, Proper_Nutrition,,,,
+INCLUDES, Relationship_With_Food,,,,
+INCLUDES_FOOD, Green Bean Casserole,,,,
+INCLUDES_FOOD, Sweet Potatoes,,,,
+INCLUDES_FOOD, Stuffing,,,,
+INCLUDES_FOOD, Gravy,,,,
+INCLUDES_FOOD, Pumpkin Pie,,,,
+INCLUDES_FOOD, Cranberry Sauce,,,,
+INCLUDES_FOOD, Rolls,,,,
+INCLUDES_FOOD, Green Bean Casserole,,,,
+INCLUDES_FOOD, Sweet Potatoes,,,,
+INCLUDES_FOOD, Stuffing,,,,
+INCLUDES_FOOD, Gravy,,,,
+INCLUDES_FOOD, Pumpkin Pie,,,,
+INCLUDES_FOOD, Cranberry Sauce,,,,
+INCLUDES_FOOD, Rolls,,,,
+INCREASE, Hunger,,,,
+INCREASE, Hunger,,,,
+INCREASED_DOSE, January,,,,
+INCREASED_DOSE, January,,,,
+INCREASED_EXERCISE_FREQUENCY,6,,,,
+INCREASED_EXERCISE_FREQUENCY,6,,,,
+INCREASED_FROM,0.25,,,,
+INCREASED_FROM,0.25,,,,
+INCREASED_MUSCLE_LOSS,November 2022,,,,
+INCREASED_MUSCLE_LOSS,November 2022,,,,
+INCREASES, Confidence,,,,
+INCREASES, Physical Ability,,,,
+INCREASES, Fatigue,,,,
+INCREASES, Dose,,,,
+INCREASES, Confidence,,,,
+INCREASES, Physical Ability,,,,
+INCREASES, Fatigue,,,,
+INCREASES, Dose,,,,
+INCREASES_TO, Dosage_0.50,,,,
+INCREASES_TO, Dosage_1Mg,,,,
+INCREASES_TO, Dosage_1.7Mg,,,,
+INCREASES_TO, Dosage_0.50,,,,
+INCREASES_TO, Dosage_1Mg,,,,
+INCREASES_TO, Dosage_1.7Mg,,,,
+INDICATES, Obesity,,,,
+INDICATES, Type 2 Diabetes,,,,
+INDICATES, Weightloss,,,,
+INDICATES, Hypoglycemia,,,,
+INDICATES, Hypothyroidism,,,,
+INDICATES, Obesity,,,,
+INDICATES, Type 2 Diabetes,,,,
+INDICATES, Weightloss,,,,
+INDICATES, Hypoglycemia,,,,
+INDICATES, Hypothyroidism,,,,
+INFLUENCES, Food_Aversion,,,,
+INFLUENCES, Conceiving,,,,
+INFLUENCES, Snacking,,,,
+INFLUENCES, Weight Gain,,,,
+INFLUENCES, Better_Habits,,,,
+INFLUENCES, Food,,,,
+INFLUENCES, Weight_Loss,,,,
+INFLUENCES, Food_Aversion,,,,
+INFLUENCES, Conceiving,,,,
+INFLUENCES, Snacking,,,,
+INFLUENCES, Weight Gain,,,,
+INFLUENCES, Better_Habits,,,,
+INFLUENCES, Food,,,,
+INFLUENCES, Weight_Loss,,,,
+INFORMS, Ozempic,,,,
+INFORMS, Ozempic,,,,
+INFORMS_ABOUT, Ozempic,,,,
+INFORMS_ABOUT, Ozempic,,,,
+INITIAL_DOSAGE,0.25,,,,
+INITIAL_DOSAGE,0.25,,,,
+INITIAL_EXERCISE_FREQUENCY,2,,,,
+INITIAL_EXERCISE_FREQUENCY,2,,,,
+INITIATED, July,,,,
+INITIATED, July,,,,
+INJECTED_IN, Thigh,,,,
+INJECTED_IN, Left Thigh,,,,
+INJECTED_IN, Thigh,,,,
+INJECTED_IN, Left Thigh,,,,
+INJECTION, Victoza,,,,
+INJECTION, Victoza,,,,
+INJECTS, Ozempic,,,,
+INJECTS, Ozempic,,,,
+INQUIRES_ABOUT, Fatigue,,,,
+INQUIRES_ABOUT, Depression,,,,
+INQUIRES_ABOUT, Fatigue,,,,
+INQUIRES_ABOUT, Depression,,,,
+INTERACTION, Adhd,,,,
+INTERACTION, Ozempic,,,,
+INTERACTION, Adhd,,,,
+INTERACTION, Ozempic,,,,
+INTERRUPTED_BY, Shortages,,,,
+INTERRUPTED_BY, Shortages,,,,
+INVOLVED, Amazon Pharmacy,,,,
+INVOLVED, Optumrx,,,,
+INVOLVED, Amazon Pharmacy,,,,
+INVOLVED, Optumrx,,,,
+INVOLVED_IN, Surgery,,,,
+INVOLVED_IN, Surgery,,,,
+INVOLVED_IN, Surgery,,,,
+INVOLVED_IN, Surgery,,,,
+IS, Illness,,,,
+IS, Height,,,,
+IS, Age,,,,
+IS, Md,,,,
+IS, 1Mg,,,,
+IS, Ozempic,,,,
+IS, Qmhp,,,,
+IS, Illness,,,,
+IS, Height,,,,
+IS, Age,,,,
+IS, Md,,,,
+IS, 1Mg,,,,
+IS, Ozempic,,,,
+IS, Qmhp,,,,
+IS_A, Weight Loss,,,,
+IS_A, Weight Loss,,,,
+IS_ACTIVE_INGREDIENT, Wegovy,,,,
+IS_ACTIVE_INGREDIENT, Wegovy,,,,
+IS_AFFECTED_BY, 0.5_Dose,,,,
+IS_AFFECTED_BY, 0.5_Dose,,,,
+IS_AFTER, 2_Week_Break,,,,
+IS_AFTER, 2_Week_Break,,,,
+IS_DESIRED_BEFORE, Vegas_Trip,,,,
+IS_DESIRED_BEFORE, Vegas_Trip,,,,
+IS_FORMULATION_OF, Liraglutide,,,,
+IS_FORMULATION_OF, Liraglutide,,,,
+IS_HELPFUL, Helpfulness,,,,
+IS_HELPFUL, Helpfulness,,,,
+IS_IN_WEEK, Ozempic,,,,
+IS_IN_WEEK, Ozempic,,,,
+IS_TYPE_OF, Inflatable Balloon,,,,
+IS_TYPE_OF, Inflatable Balloon,,,,
+JOINS, Marines,,,,
+JOINS, Marines,,,,
+JUMPS_TO,0.25,,,,
+JUMPS_TO,0.25,,,,
+LAST_DAY, 7Th Day After Surgery,,,,
+LAST_DAY, 7Th Day After Surgery,,,,
+LAST_DAY, 7Th Day After Surgery,,,,
+LAST_DAY, 7Th Day After Surgery,,,,
+LAST_DOSE, 2_Weeks,,,,
+LAST_DOSE, O,,,,
+LAST_DOSE, 10 Weeks,,,,
+LAST_DOSE, 2_Weeks,,,,
+LAST_DOSE, O,,,,
+LAST_DOSE, 10 Weeks,,,,
+LAST_DOSE_OF, Ozempic,,,,
+LAST_DOSE_OF, Ozempic,,,,
+LAST_LOST_WEIGHT,2014,,,,
+LAST_LOST_WEIGHT,2014,,,,
+LAST_MEASUREMENT,December 12,,,,
+LAST_MEASUREMENT,December 12,,,,
+LAST_SEEN,2020,,,,
+LAST_SEEN,2020,,,,
+LAST_SHOT, July 26Th,,,,
+LAST_SHOT, July 26Th,,,,
+LAST_SHOT_TAKEN_ON, Wednesday,,,,
+LAST_SHOT_TAKEN_ON, Wednesday,,,,
+LASTS, Numbness,,,,
+LASTS, Itchiness,,,,
+LASTS, Tingling,,,,
+LASTS, Numbness,,,,
+LASTS, Itchiness,,,,
+LASTS, Tingling,,,,
+LEAD_TO, Er,,,,
+LEAD_TO, Er,,,,
+LEADS_TO, Memory Improvement,,,,
+LEADS_TO, Mood Improvement,,,,
+LEADS_TO, Urgent Care,,,,
+LEADS_TO, Portion Sizes,,,,
+LEADS_TO, Diet,,,,
+LEADS_TO, Urgent Care,,,,
+LEADS_TO, Regrowth,,,,
+LEADS_TO, Memory Improvement,,,,
+LEADS_TO, Mood Improvement,,,,
+LEADS_TO, Urgent Care,,,,
+LEADS_TO, Portion Sizes,,,,
+LEADS_TO, Diet,,,,
+LEADS_TO, Urgent Care,,,,
+LEADS_TO, Regrowth,,,,
+LEANING_TOWARDS, Ozempic,,,,
+LEANING_TOWARDS, Qysmia,,,,
+LEANING_TOWARDS, Ozempic,,,,
+LEANING_TOWARDS, Qysmia,,,,
+LEARNED_FROM, Portion_Control,,,,
+LEARNED_FROM, Portion_Control,,,,
+LED_TO, Er_Visit,,,,
+LED_TO, Er_Visit,,,,
+LED_TO_VISIT, Er,,,,
+LED_TO_VISIT, Er,,,,
+LEFT, Obese Category,,,,
+LEFT, Obese Category,,,,
+LIFE_CONCERN, Life Or Death,,,,
+LIFE_CONCERN, Life Or Death,,,,
+LIMITATION, 6_Weeks,,,,
+LIMITATION, 6_Weeks,,,,
+LIMITED, 38 Pounds,,,,
+LIMITED, 38 Pounds,,,,
+LIMITED_BY, Financial_Constraints,,,,
+LIMITED_BY, Financial_Constraints,,,,
+LIMITED_CONSUMPTION, Chocolate,,,,
+LIMITED_CONSUMPTION, Chocolate,,,,
+LIMITS, Meal,,,,
+LIMITS, Meal,,,,
+LINKED_TO, Water,,,,
+LINKED_TO, Water,,,,
+LINKED_TO, Water,,,,
+LINKED_TO, Toe Cramps,,,,
+LINKED_TO, Foot Cramps,,,,
+LINKED_TO, Calf Cramps,,,,
+LINKED_TO, Water,,,,
+LINKED_TO, Water,,,,
+LINKED_TO, Water,,,,
+LINKED_TO, Toe Cramps,,,,
+LINKED_TO, Foot Cramps,,,,
+LINKED_TO, Calf Cramps,,,,
+LINKS_TO, Appendicitis,,,,
+LINKS_TO, Appendicitis,,,,
+LIVES_IN, 27F,,,,
+LIVES_IN, 27F,,,,
+LIVES_WITH, Partner,,,,
+LIVES_WITH, Partner,,,,
+LOCATED_IN, Sunlife Insurance,,,,
+LOCATED_IN, Netherlands,,,,
+LOCATED_IN, Umbilical Region,,,,
+LOCATED_IN, Epigastric Region,,,,
+LOCATED_IN, Inner Elbow,,,,
+LOCATED_IN, Fort Myers,,,,
+LOCATED_IN, Sunlife Insurance,,,,
+LOCATED_IN, Netherlands,,,,
+LOCATED_IN, Umbilical Region,,,,
+LOCATED_IN, Epigastric Region,,,,
+LOCATED_IN, Inner Elbow,,,,
+LOCATED_IN, Fort Myers,,,,
+LOCATED_NEAR, Toilet,,,,
+LOCATED_NEAR, Toilet,,,,
+LOCATION, Weight Maintenance,,,,
+LOCATION, Weight Maintenance,,,,
+LOOKING_FORWARD_TO, Trip To California,,,,
+LOOKING_FORWARD_TO, Trip To California,,,,
+LOSS, Weight,,,,
+LOSS, 60Lbs,,,,
+LOSS, Weight,,,,
+LOSS, 60Lbs,,,,
+LOST, Weightloss,,,,
+LOST, 47Lbs,,,,
+LOST, 100 Pounds,,,,
+LOST, Weightloss,,,,
+LOST, 47Lbs,,,,
+LOST, 100 Pounds,,,,
+LOST_AFTER, 10 Pounds,,,,
+LOST_AFTER, 10 Pounds,,,,
+LOST_IN, 10 Months,,,,
+LOST_IN, 10 Months,,,,
+LOWERED_DOSE,1,,,,
+LOWERED_DOSE,1,,,,
+LOWERED_MEDICATION, Blood Pressure,,,,
+LOWERED_MEDICATION, Blood Pressure,,,,
+LOWERED_TO,0.5,,,,
+LOWERED_TO,1,,,,
+LOWERED_TO,2,,,,
+LOWERED_TO,1.5,,,,
+LOWERED_TO,0.5,,,,
+LOWERED_TO,1,,,,
+LOWERED_TO,2,,,,
+LOWERED_TO,1.5,,,,
+LOWEST_WEIGHT,192,,,,
+LOWEST_WEIGHT,174,,,,
+LOWEST_WEIGHT,192,,,,
+LOWEST_WEIGHT,174,,,,
+MAINTAINED, Weightloss,,,,
+MAINTAINED, Weightloss,,,,
+MAINTAINED_FOR, 8 Years,,,,
+MAINTAINED_FOR, 8 Years,,,,
+MANAGED, Binge Eating,,,,
+MANAGED, T2 Diabetes,,,,
+MANAGED, Blood Pressure,,,,
+MANAGED, High Cholesterol,,,,
+MANAGED, Binge Eating,,,,
+MANAGED, T2 Diabetes,,,,
+MANAGED, Blood Pressure,,,,
+MANAGED, High Cholesterol,,,,
+MANAGES, Pcos,,,,
+MANAGES, Insulin Resistance,,,,
+MANAGES, Disordered_Eating,,,,
+MANAGES, Anxiety,,,,
+MANAGES, Heartburn,,,,
+MANAGES, Pcos,,,,
+MANAGES, Insulin Resistance,,,,
+MANAGES, Disordered_Eating,,,,
+MANAGES, Anxiety,,,,
+MANAGES, Heartburn,,,,
+MANAGING, Insulin Resistance,,,,
+MANAGING, Insulin Resistance,,,,
+MANIFESTS_AS, Mucus,,,,
+MANIFESTS_AS, Bloody Mucus,,,,
+MANIFESTS_AS, Mucus,,,,
+MANIFESTS_AS, Bloody Mucus,,,,
+MARRIED_TO, Husband,,,,
+MARRIED_TO, Husband,,,,
+MAX_DOSE, 0.75 Mg,,,,
+MAX_DOSE, 0.75 Mg,,,,
+MAY_HELP_WITH, Leptin Resistance,,,,
+MAY_HELP_WITH, Leptin Resistance,,,,
+MAY_QUIT_AFTER,0.5,,,,
+MAY_QUIT_AFTER,0.5,,,,
+MEASURED, A1C,,,,
+MEASURED, Blood Pressure,,,,
+MEASURED, Fasting Glucose,,,,
+MEASURED,2020,,,,
+MEASURED, A1C,,,,
+MEASURED, Blood Pressure,,,,
+MEASURED, Fasting Glucose,,,,
+MEASURED,2020,,,,
+MEASURED_AS, 7 Lbs,,,,
+MEASURED_AS,8.7,,,,
+MEASURED_AS,5.7,,,,
+MEASURED_AS, 7 Lbs,,,,
+MEASURED_AS,8.7,,,,
+MEASURED_AS,5.7,,,,
+MEASURED_BY,8,,,,
+MEASURED_BY,8,,,,
+MEASURED_IN, Blood Sugar,,,,
+MEASURED_IN, Blood Sugar,,,,
+MEETING, Doctor,,,,
+MEETING, Doctor,,,,
+METHOD, Weight Loss,,,,
+METHOD, Diet And Exercise,,,,
+METHOD, Weight Loss,,,,
+METHOD, Diet And Exercise,,,,
+METHOD_FOR, Weight Loss,,,,
+METHOD_FOR, Weight Loss,,,,
+MISSED_DUE_TO, Vacation,,,,
+MISSED_DUE_TO, Vacation,,,,
+MODIFICATION, Ozempic,,,,
+MODIFICATION, Ozempic,,,,
+MODIFIES, Medication,,,,
+MODIFIES, Medication,,,,
+MONITOR, Egfr,,,,
+MONITOR, Egfr,,,,
+MONITORED, A1C,,,,
+MONITORED, Testosterone Production,,,,
+MONITORED, Tlkr Surgery,,,,
+MONITORED, Blood Sugar,,,,
+MONITORED, Blood Pressure,,,,
+MONITORED, Hypoglycemic Incident,,,,
+MONITORED, A1C,,,,
+STABLE_WITH, Ozempic,,,,
+MONITORED, Testosterone Production,,,,
+MONITORED, Tlkr Surgery,,,,
+MONITORED, Blood Sugar,,,,
+MONITORED, Blood Pressure,,,,
+MONITORED, Hypoglycemic Incident,,,,
+MONITORED_BY, Ecg Results,,,,
+MONITORED_BY, Ecg Results,,,,
+MONITORED_FOR, Anxiety,,,,
+MONITORED_FOR, Anxiety,,,,
+MONITORING, Appetite,,,,
+MONITORING, Appetite,,,,
+MONITORS, Pancreas,,,,
+MONITORS, Labs,,,,
+MONITORS, Hypoglycemia,,,,
+MONITORS, Blood Sugar,,,,
+MONITORS, A1C,,,,
+MONITORS, Body Weight,,,,
+MONITORS, Pancreas,,,,
+MONITORS, Labs,,,,
+MONITORS, Hypoglycemia,,,,
+MONITORS, Blood Sugar,,,,
+MONITORS, A1C,,,,
+MONITORS, Body Weight,,,,
+MOTIVATES, Weight Loss Goal,,,,
+MOTIVATES, Weight Loss Goal,,,,
+MOTIVATION_FOR, Weight Loss,,,,
+MOTIVATION_FOR, Weight Loss,,,,
+MUSCLE_GAIN, 7 Lbs,,,,
+MUSCLE_GAIN, 7 Lbs,,,,
+MUSCLE_GAINED, 6Kg,,,,
+MUSCLE_GAINED, 6Kg,,,,
+NEAR, Goal_Weight,,,,
+NEAR, Weslaco,,,,
+NEAR, Mcallen,,,,
+NEAR, Supermarket,,,,
+NEAR, Goal_Weight,,,,
+NEAR, Weslaco,,,,
+NEAR, Mcallen,,,,
+NEAR, Supermarket,,,,
+NEED, Anxiety,,,,
+NEED, Anxiety,,,,
+NEEDED_FOR, Ozempic,,,,
+NEEDED_FOR, Weight Loss,,,,
+NEEDED_FOR, Ozempic,,,,
+NEEDED_FOR, Weight Loss,,,,
+NEEDS, Pre,,,,
+NEEDS, Advice,,,,
+NEEDS, Support_Group,,,,
+NEEDS, Pre,,,,
+NEEDS, Advice,,,,
+NEEDS, Support_Group,,,,
+NEEDS_FOR, Maintenance,,,,
+NEEDS_FOR, Maintenance,,,,
+NEEDS_HELP_FROM, Licensed Dietitian,,,,
+NEEDS_HELP_FROM, Licensed Dietitian,,,,
+NEEDS_MONITORING, 0.25 Dosage,,,,
+NEEDS_MONITORING, 0.25 Dosage,,,,
+NEEDS_TO_LOSE,30,,,,
+NEEDS_TO_LOSE,30,,,,
+NEGATIVE_EFFECT, Sugar Craving,,,,
+NEGATIVE_EFFECT, Sugar Craving,,,,
+NEGATIVE_IMPACT, Life Worth Living,,,,
+NEGATIVE_IMPACT, Life Worth Living,,,,
+NEXT_APPOINTMENT, Doctor,,,,
+NEXT_APPOINTMENT, Doctor,,,,
+NEXT_GOAL,270,,,,
+NEXT_GOAL,270,,,,
+NEXT_GOAL_WEIGHT, 275Lbs,,,,
+NEXT_GOAL_WEIGHT, 275Lbs,,,,
+NO_OPENINGS_UNTIL, February,,,,
+NO_OPENINGS_UNTIL, February,,,,
+NOT, Diabetic,,,,
+NOT, Diabetic,,,,
+NOT_APPEALING, Insurance,,,,
+NOT_APPEALING, Insurance,,,,
+NOT_AS_KEEN_ON_ADVOCACY, Ozempic,,,,
+NOT_AS_KEEN_ON_ADVOCACY, Ozempic,,,,
+NOT_AVAILABLE, Ozempic,,,,
+NOT_AVAILABLE, Ozempic,,,,
+NOT_AVAILABLE_IN, Australia,,,,
+NOT_AVAILABLE_IN, Australia,,,,
+NOT_CAUSING, Hypoglycemia,,,,
+NOT_CAUSING, Hypoglycemia,,,,
+NOT_CONTRIBUTED_TO, Weight_Loss,,,,
+NOT_CONTRIBUTED_TO, Weight_Loss,,,,
+NOT_COVERED_BY_INSURANCE, Wegovy,,,,
+NOT_COVERED_BY_INSURANCE, Wegovy,,,,
+NOT_COVERING, Ozempic,,,,
+NOT_COVERING, Ozempic,,,,
+NOT_ESCALATED_TO, 1Mg Ozempic,,,,
+NOT_ESCALATED_TO, 1Mg Ozempic,,,,
+NOT_EXPERIENCED, Nausea,,,,
+NOT_EXPERIENCED, Obesity,,,,
+NOT_EXPERIENCED, Nausea,,,,
+NOT_EXPERIENCED, Obesity,,,,
+NOT_HELPFUL_FOR, Adhd,,,,
+NOT_HELPFUL_FOR, Adhd,,,,
+NOT_INDICATED_FOR, Ozempic,,,,
+NOT_INDICATED_FOR, Ozempic,,,,
+NOT_LACKING, Ozempic,,,,
+NOT_LACKING, Ozempic,,,,
+NOT_LACKING, Ozempic,,,,
+NOT_LACKING, Ozempic,,,,
+NOT_REACTING, Saxenda,,,,
+NOT_REACTING, Saxenda,,,,
+NOT_REASON_FOR_TREATMENT, Ozempic,,,,
+NOT_REASON_FOR_TREATMENT, Ozempic,,,,
+NOT_SEEN_UNTIL, March,,,,
+NOT_SEEN_UNTIL, March,,,,
+NOT_TAKEN, Month And A Half,,,,
+NOT_TAKEN, Month And A Half,,,,
+NOT_TAKING, Ozempic,,,,
+NOT_TAKING, Ozempic,,,,
+NOT_WELL_VERSED_ON, Ozempic,,,,
+NOT_WELL_VERSED_ON, Ozempic,,,,
+NOT_WORKING, Appetite_Suppression,,,,
+NOT_WORKING, Appetite_Suppression,,,,
+NOTIFIED, Endocrinologist,,,,
+NOTIFIED, Endocrinologist,,,,
+OCCURRED_AT, Home,,,,
+OCCURRED_AT, Home,,,,
+OCCURRED_DURING, Bloodpressure,,,,
+OCCURRED_DURING, Swollenfeet,,,,
+OCCURRED_DURING, Bloodpressure,,,,
+OCCURRED_DURING, Swollenfeet,,,,
+OCCURRED_IN, March,,,,
+OCCURRED_IN, 3 Weeks,,,,
+OCCURRED_IN, March,,,,
+OCCURRED_IN, 3 Weeks,,,,
+OCCURRED_ON, Injection,,,,
+OCCURRED_ON,6:30 AM,,,,
+OCCURRED_ON, Weight_Loss,,,,
+OCCURRED_ON, Injection,,,,
+OCCURRED_ON,6:30 AM,,,,
+OCCURRED_ON, Weight_Loss,,,,
+OCCURRED_OVER, 10 Weeks,,,,
+OCCURRED_OVER, 9 Months,,,,
+OCCURRED_OVER, 3 Weeks,,,,
+OCCURRED_OVER, 10 Weeks,,,,
+OCCURRED_OVER, 9 Months,,,,
+OCCURRED_OVER, 3 Weeks,,,,
+OCCURRING_IN, 3 Weeks,,,,
+OCCURRING_IN, 3 Weeks,,,,
+OCCURS_IN, Country,,,,
+OCCURS_IN, Country,,,,
+OFF, Ozempic,,,,
+OFF, Ozempic,,,,
+OFF, Oz,,,,
+OFF, Ozempic,,,,
+OFF, Ozempic,,,,
+OFF, Oz,,,,
+OFF_PERIOD, Oz,,,,
+OFF_PERIOD, Oz,,,,
+OFFERS, Nausea_Meds,,,,
+OFFERS, Nausea_Meds,,,,
+OPENED_BEFORE, Surgery,,,,
+OPENED_BEFORE, Surgery,,,,
+OPENING, Clinic,,,,
+OPENING, Clinic,,,,
+OPTION, Diet And Exercise,,,,
+OPTION, Ozempic,,,,
+OPTION, Diet And Exercise,,,,
+OPTION, Ozempic,,,,
+ORDERED, Oz,,,,
+ORDERED, Blood Work,,,,
+ORDERED, Stool Tests,,,,
+ORDERED, Scope,,,,
+ORDERED, Oz,,,,
+ORDERED, Blood Work,,,,
+ORDERED, Stool Tests,,,,
+ORDERED, Scope,,,,
+ORDERED_FOR, Ozempic,,,,
+ORDERED_FOR, Ozempic,,,,
+OUT_UNTIL, February,,,,
+OUT_UNTIL, February,,,,
+OVER_TIME, 4 Months,,,,
+OVER_TIME, 4 Months,,,,
+PARENT_OF, Children,,,,
+PARENT_OF, Children,,,,
+PART_OF, Family,,,,
+PART_OF, Day 1,,,,
+PART_OF, University,,,,
+PART_OF, Holiday,,,,
+PART_OF, Amazon,,,,
+PART_OF, Canada,,,,
+PART_OF, Family,,,,
+PART_OF, Day 1,,,,
+PART_OF, University,,,,
+PART_OF, Holiday,,,,
+PART_OF, Amazon,,,,
+PART_OF, Canada,,,,
+PARTICIPATED_IN, Vacation,,,,
+PARTICIPATED_IN, Travel,,,,
+PARTICIPATED_IN, Nile Cruise,,,,
+PARTICIPATED_IN, Trials,,,,
+PARTICIPATED_IN, Holidays,,,,
+PARTICIPATED_IN, Figure Competitions,,,,
+PARTICIPATED_IN, Er Visit,,,,
+PARTICIPATED_IN, Vacation,,,,
+PARTICIPATED_IN, Travel,,,,
+PARTICIPATED_IN, Nile Cruise,,,,
+PARTICIPATED_IN, Trials,,,,
+PARTICIPATED_IN, Holidays,,,,
+PARTICIPATED_IN, Figure Competitions,,,,
+PARTICIPATED_IN, Er Visit,,,,
+PARTICIPATES, Husband,,,,
+PARTICIPATES, Husband,,,,
+PARTICIPATES, Son,,,,
+PARTICIPATES, Cruise,,,,
+PARTICIPATES, Husband,,,,
+PARTICIPATES, Husband,,,,
+PARTICIPATES, Son,,,,
+PARTICIPATES, Cruise,,,,
+PARTICIPATES_IN, Alcohol Consumption,,,,
+PARTICIPATES_IN, Kickboard Swimming,,,,
+PARTICIPATES_IN, Couch To 5K Program,,,,
+PARTICIPATES_IN, Wedding,,,,
+PARTICIPATES_IN, Journey,,,,
+PARTICIPATES_IN, Grocery_Shopping,,,,
+PARTICIPATES_IN, Meal_Preparation,,,,
+PARTICIPATES_IN, Wedding,,,,
+PARTICIPATES_IN, Weight Loss Program,,,,
+PARTICIPATES_IN, Alcohol Consumption,,,,
+PARTICIPATES_IN, Kickboard Swimming,,,,
+PARTICIPATES_IN, Couch To 5K Program,,,,
+PARTICIPATES_IN, Wedding,,,,
+PARTICIPATES_IN, Journey,,,,
+PARTICIPATES_IN, Grocery_Shopping,,,,
+PARTICIPATES_IN, Meal_Preparation,,,,
+PARTICIPATES_IN, Wedding,,,,
+PARTICIPATES_IN, Weight Loss Program,,,,
+PAST_SYMPTOM, Medication,,,,
+PAST_SYMPTOM, Medication,,,,
+PAUSED, Produce,,,,
+PAUSED, Oz,,,,
+PAUSED, Produce,,,,
+PAUSED, Oz,,,,
+PENDING_JOIN, Gym,,,,
+PENDING_JOIN, Gym,,,,
+PERFORMED, Glycemie Check,,,,
+PERFORMED, Glycemie Check,,,,
+PERFORMS_ACTIVITY, Lifting Weights,,,,
+PERFORMS_ACTIVITY, Lifting Weights,,,,
+PHYSICAL_CONDITION, Physical Disability,,,,
+PHYSICAL_CONDITION, Physical Disability,,,,
+PLANNED_FOR, Break,,,,
+PLANNED_FOR, 3 Months,,,,
+PLANNED_FOR, Break,,,,
+PLANNED_FOR, 3 Months,,,,
+PLANNED_INCREASE,0.5,,,,
+PLANNED_INCREASE,0.5,,,,
+PLANNED_MEASUREMENTS, 14 From 365 To 265,,,,
+PLANNED_MEASUREMENTS, 14 From 365 To 265,,,,
+PLANNEDAFTER, Breastfeeding,,,,
+PLANNEDAFTER, Breastfeeding,,,,
+PLANNING, Europe_Trip,,,,
+PLANNING, Europe_Trip,,,,
+PLANS_TO_APPEAL, Appealprocess,,,,
+PLANS_TO_APPEAL, Appealprocess,,,,
+POINTS_OUT, Husband,,,,
+POINTS_OUT, Husband,,,,
+POSITIVE_EFFECT, Oz,,,,
+POSITIVE_EFFECT, Oz,,,,
+POSITIVE_EFFECT, Oz,,,,
+POSITIVE_EFFECT, Oz,,,,
+POSSIBLE, Insulin_Resistance,,,,
+POSSIBLE, Insulin_Resistance,,,,
+POSSIBLE_CAUSE, Stomach_Pains,,,,
+POSSIBLE_CAUSE, Stomach_Pains,,,,
+POSSIBLE_SIDE_EFFECT, Ozempic,,,,
+POSSIBLE_SIDE_EFFECT, Ozempic,,,,
+POSSIBLE_SIDE_EFFECT, Ozempic,,,,
+POSSIBLE_SIDE_EFFECT, Ozempic,,,,
+POSSIBLY_CAUSED, Diarrhea,,,,
+POSSIBLY_CAUSED, Diarrhea,,,,
+POTENTIAL_CAUSE, Appendicitis,,,,
+POTENTIAL_CAUSE, Appendicitis,,,,
+POTENTIAL_DOSAGE,0.4,,,,
+POTENTIAL_DOSAGE,0.4,,,,
+POTENTIALLY_CAUSES, Hypoglycemia,,,,
+POTENTIALLY_CAUSES, Heart Palpitations,,,,
+POTENTIALLY_CAUSES, Anxiety,,,,
+POTENTIALLY_CAUSES, Hypoglycemia,,,,
+POTENTIALLY_CAUSES, Hypoglycemia,,,,
+POTENTIALLY_CAUSES, Hypoglycemia,,,,
+POTENTIALLY_CAUSES, Heart Palpitations,,,,
+POTENTIALLY_CAUSES, Anxiety,,,,
+POTENTIALLY_CAUSES, Hypoglycemia,,,,
+POTENTIALLY_CAUSES, Hypoglycemia,,,,
+Pound Baby,COMPARISON,,,,
+Pound Baby,COMPARISON,,,,
+PRACTICED, Intermittent Fasting,,,,
+PRACTICED, Portion Control,,,,
+PRACTICED, Intermittent Fasting,,,,
+PRACTICED, Portion Control,,,,
+PRACTICES, Weightlifting,,,,
+PRACTICES, Running,,,,
+PRACTICES, Weightlifting,,,,
+PRACTICES, Running,,,,
+PRACTICING, Diet Mindfulness,,,,
+PRACTICING, Diet Mindfulness,,,,
+PREDICTED_END, August,,,,
+PREDICTED_END, August,,,,
+PREPARATION_FOR, Surgery,,,,
+PREPARATION_FOR, Surgery,,,,
+PRESCRIBED, Weightloss,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Mounjaro,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Medication,,,,
+PRESCRIBED, Rybelsus,,,,
+PRESCRIBED, Daughter,,,,
+PRESCRIBED, 0.25 Dosage,,,,
+PRESCRIBED, Wl,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Metformin,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Week 2,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Lexapro,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Ozempic 0.25Mg,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Saxenda,,,,
+PRESCRIBED, Metamucil,,,,
+PRESCRIBED, Oz,,,,
+PRESCRIBED, Stomach Medication,,,,
+PRESCRIBED, Prescription,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Metformin,,,,
+PRESCRIBED, Insulin,,,,
+PRESCRIBED, Bloodpressuremedicine,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Zoloft,,,,
+PRESCRIBED, Weightloss,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Mounjaro,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Medication,,,,
+PRESCRIBED, Rybelsus,,,,
+PRESCRIBED, Daughter,,,,
+PRESCRIBED, 0.25 Dosage,,,,
+PRESCRIBED, Wl,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Metformin,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Week 2,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Lexapro,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Ozempic 0.25Mg,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Saxenda,,,,
+PRESCRIBED, Metamucil,,,,
+PRESCRIBED, Oz,,,,
+PRESCRIBED, Stomach Medication,,,,
+PRESCRIBED, Prescription,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Metformin,,,,
+PRESCRIBED, Insulin,,,,
+PRESCRIBED, Bloodpressuremedicine,,,,
+PRESCRIBED, Ozempic,,,,
+PRESCRIBED, Zoloft,,,,
+PRESCRIBED_AT_HIGHER_DOSES_THAN, Wegovy,,,,
+PRESCRIBED_AT_HIGHER_DOSES_THAN, Wegovy,,,,
+PRESCRIBED_BY, Endocrinologist,,,,
+PRESCRIBED_BY, Doctor,,,,
+PRESCRIBED_BY, Cardiologist,,,,
+PRESCRIBED_BY, Doctors,,,,
+PRESCRIBED_BY, Pnp,,,,
+PRESCRIBED_BY, Endocrinologist,,,,
+PRESCRIBED_BY, Doctor,,,,
+PRESCRIBED_BY, Cardiologist,,,,
+PRESCRIBED_BY, Doctors,,,,
+PRESCRIBED_BY, Pnp,,,,
+PRESCRIBED_FOR, Weight Loss,,,,
+PRESCRIBED_FOR, Bmi 33,,,,
+PRESCRIBED_FOR, Weight Loss,,,,
+PRESCRIBED_FOR, Bmi 33,,,,
+PRESCRIBED_MEDICATION, Ozempic,,,,
+PRESCRIBED_MEDICATION, Munjaro,,,,
+PRESCRIBED_MEDICATION, Ozempic,,,,
+PRESCRIBED_MEDICATION, Munjaro,,,,
+PRESCRIBED_ON,1/4/23,,,,
+PRESCRIBED_ON,1/4/23,,,,
+PRESCRIBES, Ozempic,,,,
+PRESCRIBES, Victoza,,,,
+PRESCRIBES, Tresiba,,,,
+PRESCRIBES, Humalog,,,,
+PRESCRIBES, Ozempic,,,,
+PRESCRIBES, Medication,,,,
+PRESCRIBES, Medications,,,,
+PRESCRIBES, Ozempic Pap,,,,
+PRESCRIBES, Zofran,,,,
+PRESCRIBES, Ozempic,,,,
+PRESCRIBES, Victoza,,,,
+PRESCRIBES, Tresiba,,,,
+PRESCRIBES, Humalog,,,,
+PRESCRIBES, Ozempic,,,,
+PRESCRIBES, Medication,,,,
+PRESCRIBES, Medications,,,,
+PRESCRIBES, Ozempic Pap,,,,
+PRESCRIBES, Zofran,,,,
+PRESCRIBING, Ozempic,,,,
+PRESCRIBING, Ozempic,,,,
+PREVENTS_ABSORPTION, Other Meds,,,,
+PREVENTS_ABSORPTION, Other Meds,,,,
+PREVIOUS_BODY_FAT,February 2022,,,,
+PREVIOUS_BODY_FAT,February 2022,,,,
+PREVIOUS_INJECTION_SITE, Stomach,,,,
+PREVIOUS_INJECTION_SITE, Stomach,,,,
+PREVIOUS_WEIGHT,203,,,,
+PREVIOUS_WEIGHT,203,,,,
+PREVIOUSLY_TAKEN, Saxenda,,,,
+PREVIOUSLY_TAKEN, Saxenda,,,,
+PREVIOUSLY_TAKING, Rybelsus,,,,
+PREVIOUSLY_TAKING, Rybelsus,,,,
+PRIORITIZES, Nutrition,,,,
+PRIORITIZES, Self,,,,
+PRIORITIZES, Nutrition,,,,
+PRIORITIZES, Self,,,,
+PRODUCED, Weight Loss,,,,
+PRODUCED, Side_Effects,,,,
+PRODUCED, Weight Loss,,,,
+PRODUCED, Side_Effects,,,,
+PRODUCES, Hunger Reduction,,,,
+PRODUCES, Hunger Reduction,,,,
+PROGRESS_TO,189,,,,
+PROGRESS_TO,189,,,,
+PROGRESSES_TO, Pre,,,,
+PROGRESSES_TO, Pre,,,,
+PROMOTES, Positivity,,,,
+PROMOTES, Positivity,,,,
+PROVIDES, Iv,,,,
+PROVIDES, Nausea_Meds,,,,
+PROVIDES, Samples,,,,
+PROVIDES, Medications,,,,
+PROVIDES, Ozempic,,,,
+PROVIDES, Weight_Loss,,,,
+PROVIDES, Support,,,,
+PROVIDES, Insurance,,,,
+PROVIDES, Ozempic,,,,
+PROVIDES, Iv,,,,
+PROVIDES, Nausea_Meds,,,,
+PROVIDES, Samples,,,,
+PROVIDES, Medications,,,,
+PROVIDES, Ozempic,,,,
+PROVIDES, Weight_Loss,,,,
+PROVIDES, Support,,,,
+PROVIDES, Insurance,,,,
+PROVIDES, Ozempic,,,,
+PROVIDES_ACCESS_TO, Doctor,,,,
+PROVIDES_ACCESS_TO, Customer_Support_Agent,,,,
+PROVIDES_ACCESS_TO, Doctor,,,,
+PROVIDES_ACCESS_TO, Customer_Support_Agent,,,,
+PROVIDES_INFO, Ozempic,,,,
+PROVIDES_INFO, Ozempic,,,,
+PROVIDES_INFORMATION, Ozempic Pap,,,,
+PROVIDES_INFORMATION, Ozempic Pap,,,,
+PROVIDES_PRICING, Ozempic,,,,
+PROVIDES_PRICING, Ozempic,,,,
+PURCHASED_FROM, Canada,,,,
+PURCHASED_FROM, Canada,,,,
+PURCHASED_IN, Ozempic,,,,
+PURCHASED_IN, Ozempic,,,,
+PURCHASES, Canadian_Pharmacy,,,,
+PURCHASES, Canadian_Pharmacy,,,,
+PURPOSE_OF_PRESCRIPTION, Weight Loss,,,,
+PURPOSE_OF_PRESCRIPTION, Weight Loss,,,,
+PURSUED, Weight Loss,,,,
+PURSUED, Weight Loss,,,,
+PURSUING, Weight Loss,,,,
+PURSUING, Weight_Loss,,,,
+PURSUING, Weight_Loss,,,,
+PURSUING, Weight Loss,,,,
+PURSUING, Foundation Year Undergraduate Degree,,,,
+PURSUING, Health Journey,,,,
+PURSUING, Weight Loss,,,,
+PURSUING, Weight_Loss,,,,
+PURSUING, Weight_Loss,,,,
+PURSUING, Weight Loss,,,,
+PURSUING, Foundation Year Undergraduate Degree,,,,
+PURSUING, Health Journey,,,,
+QUALIFIES_FOR, Ozempic Pap,,,,
+QUALIFIES_FOR, Ozempic Pap,,,,
+QUERY,1.5,,,,
+QUERY,1.5,,,,
+QUITS, Phentermine,,,,
+QUITS, Farxiga,,,,
+QUITS, Topiramate,,,,
+QUITS, Caffeine,,,,
+QUITS, Nicotine,,,,
+QUITS, Phentermine,,,,
+QUITS, Farxiga,,,,
+QUITS, Topiramate,,,,
+QUITS, Caffeine,,,,
+QUITS, Nicotine,,,,
+QUITTED, Mounjaro,,,,
+QUITTED, Mounjaro,,,,
+REASON_FOR_USE, Ozempic,,,,
+REASON_FOR_USE, Ozempic,,,,
+RECEIVED, Ozempic,,,,
+RECEIVED, Prescription,,,,
+RECEIVED, Ozempic,,,,
+RECEIVED, Zofran,,,,
+RECEIVED, Fluids,,,,
+RECEIVED, Recommendations,,,,
+RECEIVED, Ozempic,,,,
+RECEIVED, Prescription,,,,
+RECEIVED, Ozempic,,,,
+RECEIVED, Zofran,,,,
+RECEIVED, Fluids,,,,
+RECEIVED, Recommendations,,,,
+RECEIVES, Zofran,,,,
+RECEIVES, Iv Fluids,,,,
+RECEIVES, Zofran,,,,
+RECEIVES, Iv Fluids,,,,
+RECOMMENDED, Ozempic,,,,
+RECOMMENDED, Metformin,,,,
+RECOMMENDED, Zofran,,,,
+RECOMMENDED, Weight Loss Of 30 Pounds,,,,
+RECOMMENDED, Ozempic,,,,
+RECOMMENDED, D3,,,,
+RECOMMENDED, B,,,,
+RECOMMENDED, 0.5Ml Dose,,,,
+RECOMMENDED, Ozempic,,,,
+INCREASED_TO,0.36,,,,
+RECOMMENDED, Miralax,,,,
+RECOMMENDED, Acid Reducers,,,,
+RECOMMENDED, Ozempic,,,,
+RECOMMENDED, Ozempic,,,,
+RECOMMENDED, Metformin,,,,
+RECOMMENDED, Zofran,,,,
+RECOMMENDED, Weight Loss Of 30 Pounds,,,,
+RECOMMENDED, Ozempic,,,,
+RECOMMENDED, D3,,,,
+RECOMMENDED, B,,,,
+RECOMMENDED, 0.5Ml Dose,,,,
+RECOMMENDED, Ozempic,,,,
+RECOMMENDED, Miralax,,,,
+RECOMMENDED, Acid Reducers,,,,
+RECOMMENDED, Ozempic,,,,
+RECOMMENDED_BY, Doctor,,,,
+RECOMMENDED_BY, Doctor,,,,
+RECOMMENDED_DOSAGE, 1Mg,,,,
+RECOMMENDED_DOSAGE, 1Mg,,,,
+RECOMMENDED_STOP, Oz,,,,
+RECOMMENDED_STOP, Oz,,,,
+RECOMMENDS, Ozempic,,,,
+RECOMMENDS, Weight Loss Goal,,,,
+RECOMMENDS, Ozempic,,,,
+RECOMMENDS, Medication,,,,
+RECOMMENDS, Break,,,,
+RECOMMENDS,0.25,,,,
+RECOMMENDS, Surgery,,,,
+RECOMMENDS, Ozempic,,,,
+RECOMMENDS, Weight Loss Goal,,,,
+RECOMMENDS, Ozempic,,,,
+RECOMMENDS, Medication,,,,
+RECOMMENDS, Break,,,,
+RECOMMENDS,0.25,,,,
+RECOMMENDS, Surgery,,,,
+RECOMMENDS_CHANGE, 1 Mg,,,,
+RECOMMENDS_CHANGE, 1 Mg,,,,
+RECOMMENDS_CHANGE_TO,0.5,,,,
+RECOMMENDS_CHANGE_TO, 2 .5 Doses,,,,
+RECOMMENDS_CHANGE_TO, Stopping Altogether,,,,
+RECOMMENDS_CHANGE_TO,0.5,,,,
+RECOMMENDS_CHANGE_TO, 2 .5 Doses,,,,
+RECOMMENDS_CHANGE_TO, Stopping Altogether,,,,
+RECOMMENDS_HIGER_DOSE, Ozempic,,,,
+RECOMMENDS_HIGER_DOSE, Ozempic,,,,
+RECOMMENDS_STOP, Ozempic,,,,
+RECOMMENDS_STOP, Ozempic,,,,
+RECOMMENDS_STOP, Ozempic,,,,
+RECOMMENDS_STOP, Ozempic,,,,
+RECOMMENDS_STOP, Ozempic,,,,
+RECOMMENDS_STOP, Ozempic,,,,
+RECORDED_WEIGHT, Weight,,,,
+RECORDED_WEIGHT, Weight,,,,
+RECORDED_WEIGHT, Weight,,,,
+RECORDED_WEIGHT, Weight,,,,
+REDUCED, Exercise,,,,
+REDUCED, Exercise,,,,
+REDUCES, Type 2 Diabetes,,,,
+REDUCES, Insulin,,,,
+REDUCES, Medication,,,,
+REDUCES, Hunger,,,,
+REDUCES, Cravings,,,,
+REDUCES, Weight Gain,,,,
+REDUCES, Type 2 Diabetes,,,,
+REDUCES, Insulin,,,,
+REDUCES, Medication,,,,
+REDUCES, Hunger,,,,
+REDUCES, Cravings,,,,
+REDUCES, Weight Gain,,,,
+REFERRED_TO, Pharmacy,,,,
+INCREASED_TO,0.5,,,,
+REFERRED_TO, Gi,,,,
+REFERRED_TO, Weight Loss Specialist,,,,
+INCREASED_TO,1.75,,,,
+REFERRED_TO, Pharmacy,,,,
+REFERRED_TO, Gi,,,,
+REFERRED_TO, Weight Loss Specialist,,,,
+REFERS_TO, Physical_Therapy,,,,
+REFERS_TO, Physical_Therapy,,,,
+REFILLED, Ozempic,,,,
+REFILLED, Ozempic,,,,
+INCREASED_TO,0.25,,,,
+REFUSED_COVERAGE, Mounjaro,,,,
+REFUSED_COVERAGE, Mounjaro,,,,
+REFUSES, Ozempic,,,,
+REFUSES, 1 Mg,,,,
+REFUSES, Ozempic,,,,
+STARTS_AT, Dosage_0.25,,,,
+REFUSES, 1 Mg,,,,
+REGRET, User,,,,
+REGRET, User,,,,
+REGULATED_BY, Fda,,,,
+REGULATED_BY, Fda,,,,
+REGULATES, A1C,,,,
+REGULATES, Ozempic,,,,
+REGULATES, Weight Loss Drugs,,,,
+REGULATES, A1C,,,,
+REGULATES, Ozempic,,,,
+REGULATES, Weight Loss Drugs,,,,
+REGULATIONS_LAX, Ozempic,,,,
+REGULATIONS_LAX, Ozempic,,,,
+RELATED_EVENT, Hospitalization,,,,
+RELATED_EVENT, Hospitalization,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Injection,,,,
+RELATED_TO, Pregnancy,,,,
+RELATED_TO, Weight_Loss,,,,
+RELATED_TO, Weight Gain,,,,
+RELATED_TO, Fatigue,,,,
+RELATED_TO, Trulicity,,,,
+RELATED_TO, Hair_Loss,,,,
+RELATED_TO, T2,,,,
+RELATED_TO, Numbness In Hands,,,,
+RELATED_TO, Fetal Issues,,,,
+RELATED_TO, Weight Management,,,,
+RELATED_TO, Bleeding,,,,
+RELATED_TO,0.5,,,,
+RELATED_TO, Ibs,,,,
+RELATED_TO, Gerd,,,,
+RELATED_TO, Hiatal Hernia,,,,
+RELATED_TO, Eating,,,,
+RELATED_TO, Lightheadedness,,,,
+RELATED_TO, Type Ii Diabetes,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Insulin Resistance,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Bed,,,,
+RELATED_TO, Weight_Gain,,,,
+RELATED_TO, Stomach Flu,,,,
+RELATED_TO, Food Poisoning,,,,
+RELATED_TO, Vegetables,,,,
+RELATED_TO, Stomach Flu,,,,
+RELATED_TO, Stomach Bug,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Carbs,,,,
+RELATED_TO, Greasy Food,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Pre_Diabetes,,,,
+RELATED_TO, Vomit Burps,,,,
+RELATED_TO, Upset Stomach,,,,
+RELATED_TO, Loose Bowels,,,,
+RELATED_TO, 10 Pounds Gone,,,,
+RELATED_TO, Hair,,,,
+RELATED_TO, Pcos,,,,
+RELATED_TO, Sinus Arrhythmia,,,,
+RELATED_TO, Experience,,,,
+RELATED_TO, Hypoglycemia,,,,
+RELATED_TO, Hashimoto’S,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Trying To Conceive,,,,
+RELATED_TO, Ir,,,,
+RELATED_TO, Type 2 Diabetes,,,,
+RELATED_TO, Blood Sugar,,,,
+RELATED_TO, Endo Appointment,,,,
+RELATED_TO, Stomach Flu,,,,
+RELATED_TO, Children,,,,
+RELATED_TO, Injection,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Weight Maintenance,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Hunger,,,,
+RELATED_TO, Stomach Flu,,,,
+RELATED_TO, Stomach Flu,,,,
+RELATED_TO, Fatigue,,,,
+RELATED_TO, Gerd,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Leptin Resistance,,,,
+RELATED_TO, Ibs,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Type 2 Diabetes,,,,
+RELATED_TO, Side Effects,,,,
+RELATED_TO, Ivf Transfer,,,,
+RELATED_TO, Hair_Loss,,,,
+RELATED_TO, Hair_Loss,,,,
+RELATED_TO, Type Ii Diabetes,,,,
+RELATED_TO, Sw 238,,,,
+RELATED_TO, Ce 227,,,,
+RELATED_TO, Obesity,,,,
+RELATED_TO, Therapy,,,,
+RELATED_TO, Obesity,,,,
+RELATED_TO, Long Flight,,,,
+RELATED_TO, Urge To Eat More Before Period,,,,
+RELATED_TO, Weight Plateau,,,,
+RELATED_TO, Lifestyle Changes,,,,
+RELATED_TO, Insurance Coverage,,,,
+RELATED_TO, Success Stories,,,,
+RELATED_TO, .25_Volume,,,,
+RELATED_TO, .5_Volume,,,,
+RELATED_TO, A1C,,,,
+RELATED_TO, Nausea,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Proprioception Issues,,,,
+RELATED_TO, Nausea,,,,
+RELATED_TO, Exhaustion,,,,
+RELATED_TO, Discomfort,,,,
+RELATED_TO, Feverish,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Indulging,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Side Effects,,,,
+RELATED_TO, Elevated Liver Enzyme,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Weight Management,,,,
+RELATED_TO, Old Habits,,,,
+RELATED_TO, Bingeing,,,,
+RELATED_TO, Wl,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Hypoglycemic Incident,,,,
+RELATED_TO, Antibiotic,,,,
+RELATED_TO, Calories Counting,,,,
+RELATED_TO, Eating,,,,
+RELATED_TO, Defeat,,,,
+RELATED_TO, American Health Care,,,,
+RELATED_TO, Pregnancy,,,,
+RELATED_TO, Children,,,,
+RELATED_TO, Hypoglycemia,,,,
+RELATED_TO, Bed,,,,
+RELATED_TO, Nausea,,,,
+RELATED_TO, Death_Thoughts,,,,
+RELATED_TO, Exhaustion,,,,
+RELATED_TO, Vomit,,,,
+RELATED_TO, Liquid_Bms,,,,
+RELATED_TO, Type Ii Diabetes,,,,
+RELATED_TO, Type Ii Diabetes,,,,
+RELATED_TO, Vomiting,,,,
+RELATED_TO, Spinal Stenosis,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Injection,,,,
+RELATED_TO, Pregnancy,,,,
+RELATED_TO, Weight_Loss,,,,
+RELATED_TO, Weight Gain,,,,
+RELATED_TO, Fatigue,,,,
+RELATED_TO, Trulicity,,,,
+STARTS_AT, 0.25 Dosage,,,,
+STARTS_AT, 0.50 Dosage,,,,
+RELATED_TO, Hair_Loss,,,,
+RELATED_TO, T2,,,,
+RELATED_TO, Numbness In Hands,,,,
+RELATED_TO, Fetal Issues,,,,
+RELATED_TO, Weight Management,,,,
+RELATED_TO, Bleeding,,,,
+RELATED_TO,0.5,,,,
+RELATED_TO, Ibs,,,,
+RELATED_TO, Gerd,,,,
+RELATED_TO, Hiatal Hernia,,,,
+RELATED_TO, Eating,,,,
+RELATED_TO, Lightheadedness,,,,
+RELATED_TO, Type Ii Diabetes,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Insulin Resistance,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Bed,,,,
+RELATED_TO, Weight_Gain,,,,
+RELATED_TO, Stomach Flu,,,,
+RELATED_TO, Food Poisoning,,,,
+RELATED_TO, Vegetables,,,,
+RELATED_TO, Stomach Flu,,,,
+RELATED_TO, Stomach Bug,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Carbs,,,,
+RELATED_TO, Greasy Food,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Pre_Diabetes,,,,
+RELATED_TO, Vomit Burps,,,,
+RELATED_TO, Upset Stomach,,,,
+RELATED_TO, Loose Bowels,,,,
+RELATED_TO, 10 Pounds Gone,,,,
+RELATED_TO, Hair,,,,
+RELATED_TO, Pcos,,,,
+RELATED_TO, Sinus Arrhythmia,,,,
+RELATED_TO, Experience,,,,
+RELATED_TO, Hypoglycemia,,,,
+RELATED_TO, Hashimoto’S,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Trying To Conceive,,,,
+RELATED_TO, Ir,,,,
+RELATED_TO, Type 2 Diabetes,,,,
+RELATED_TO, Blood Sugar,,,,
+RELATED_TO, Endo Appointment,,,,
+RELATED_TO, Stomach Flu,,,,
+RELATED_TO, Children,,,,
+RELATED_TO, Injection,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Weight Maintenance,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Hunger,,,,
+RELATED_TO, Stomach Flu,,,,
+RELATED_TO, Stomach Flu,,,,
+RELATED_TO, Fatigue,,,,
+RELATED_TO, Gerd,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Leptin Resistance,,,,
+RELATED_TO, Ibs,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Type 2 Diabetes,,,,
+RELATED_TO, Side Effects,,,,
+RELATED_TO, Ivf Transfer,,,,
+RELATED_TO, Hair_Loss,,,,
+RELATED_TO, Hair_Loss,,,,
+RELATED_TO, Type Ii Diabetes,,,,
+RELATED_TO, Sw 238,,,,
+RELATED_TO, Ce 227,,,,
+RELATED_TO, Obesity,,,,
+RELATED_TO, Therapy,,,,
+RELATED_TO, Obesity,,,,
+RELATED_TO, Long Flight,,,,
+RELATED_TO, Urge To Eat More Before Period,,,,
+RELATED_TO, Weight Plateau,,,,
+RELATED_TO, Lifestyle Changes,,,,
+RELATED_TO, Insurance Coverage,,,,
+RELATED_TO, Success Stories,,,,
+RELATED_TO, .25_Volume,,,,
+RELATED_TO, .5_Volume,,,,
+RELATED_TO, A1C,,,,
+RELATED_TO, Nausea,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Proprioception Issues,,,,
+RELATED_TO, Nausea,,,,
+RELATED_TO, Exhaustion,,,,
+RELATED_TO, Discomfort,,,,
+RELATED_TO, Feverish,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Indulging,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Side Effects,,,,
+RELATED_TO, Elevated Liver Enzyme,,,,
+RELATED_TO, Ozempic,,,,
+RELATED_TO, Weight Management,,,,
+RELATED_TO, Old Habits,,,,
+RELATED_TO, Bingeing,,,,
+RELATED_TO, Wl,,,,
+RELATED_TO, Weight Loss,,,,
+RELATED_TO, Hypoglycemic Incident,,,,
+RELATED_TO, Antibiotic,,,,
+RELATED_TO, Calories Counting,,,,
+RELATED_TO, Eating,,,,
+RELATED_TO, Defeat,,,,
+RELATED_TO, American Health Care,,,,
+RELATED_TO, Pregnancy,,,,
+RELATED_TO, Children,,,,
+RELATED_TO, Hypoglycemia,,,,
+RELATED_TO, Bed,,,,
+RELATED_TO, Nausea,,,,
+RELATED_TO, Death_Thoughts,,,,
+RELATED_TO, Exhaustion,,,,
+RELATED_TO, Vomit,,,,
+RELATED_TO, Liquid_Bms,,,,
+RELATED_TO, Type Ii Diabetes,,,,
+RELATED_TO, Type Ii Diabetes,,,,
+RELATED_TO, Vomiting,,,,
+RELATED_TO, Spinal Stenosis,,,,
+RELATIONSHIP, Food,,,,
+RELATIONSHIP, Side Effects,,,,
+RELATIONSHIP, Food,,,,
+RELATIONSHIP, Side Effects,,,,
+RELEASES, Insulin,,,,
+RELEASES, Insulin,,,,
+RELEVANT_TO, Australia,,,,
+RELEVANT_TO, Australia,,,,
+RELEVANT_TO, Australia,,,,
+RELEVANT_TO, Australia,,,,
+RELIEVED, Constipation,,,,
+RELIEVED, Constipation,,,,
+RELIEVED_BY, Stomach_Pains,,,,
+RELIEVED_BY, Ozempic,,,,
+RELIEVED_BY, Stomach_Pains,,,,
+RELIEVED_BY, Ozempic,,,,
+RELIEVES, Numbness,,,,
+RELIEVES, Itchiness,,,,
+RELIEVES, Tingling,,,,
+RELIEVES, Numbness,,,,
+RELIEVES, Itchiness,,,,
+RELIEVES, Tingling,,,,
+REMAINING, Ozempic,,,,
+REMAINING, Ozempic,,,,
+REMOVED, Gallbladder,,,,
+REMOVED, Gallbladder,,,,
+REPLACED_BY, Ozempic,,,,
+REPLACED_BY, Tylenol,,,,
+REPLACED_BY, Gabapentin,,,,
+REPLACED_BY, Tramadol,,,,
+REPLACED_BY, Ozempic,,,,
+REPLACED_BY, Ozempic,,,,
+REPLACED_BY, Tylenol,,,,
+REPLACED_BY, Gabapentin,,,,
+REPLACED_BY, Tramadol,,,,
+REPLACED_BY, Ozempic,,,,
+REPLACEMENT_FOR, Meds,,,,
+REPLACEMENT_FOR, Meds,,,,
+REPLACEMENT_FOR, Meds,,,,
+REPLACEMENT_FOR, Meds,,,,
+REPORTS_ON, Experiences,,,,
+REPORTS_ON, Experiences,,,,
+REPORTS_ON, Experiences,,,,
+REPORTS_ON, Experiences,,,,
+REQUIRED_FOR, Antibiotics,,,,
+REQUIRED_FOR, Express Scripts,,,,
+REQUIRED_FOR, Oz,,,,
+REQUIRED_FOR, Antibiotics,,,,
+REQUIRED_FOR, Express Scripts,,,,
+REQUIRED_FOR, Oz,,,,
+REQUIRED_MEDICATION, Zofran,,,,
+REQUIRED_MEDICATION, Reglan,,,,
+REQUIRED_MEDICATION, Zofran,,,,
+REQUIRED_MEDICATION, Reglan,,,,
+REQUIRED_TEST, Ekg,,,,
+REQUIRED_TEST, Ekg,,,,
+REQUIRED_VISIT, Hospital,,,,
+REQUIRED_VISIT, Emergency_Room,,,,
+REQUIRED_VISIT, Emergency_Room,,,,
+REQUIRED_VISIT, Hospital,,,,
+REQUIRED_VISIT, Emergency_Room,,,,
+REQUIRED_VISIT, Emergency_Room,,,,
+REQUIRES, Type 2 Diabetes,,,,
+REQUIRES, Medication,,,,
+REQUIRES, Ozempic,,,,
+REQUIRES, Dosage,,,,
+REQUIRES, Metformin,,,,
+REQUIRES, Type 2 Diabetes,,,,
+REQUIRES, Medication,,,,
+REQUIRES, Ozempic,,,,
+REQUIRES, Dosage,,,,
+REQUIRES, Metformin,,,,
+REQUIRES_STARTUP_PERIOD, 4 Weeks,,,,
+REQUIRES_STARTUP_PERIOD, 4 Weeks,,,,
+USED_IN, Ireland,,,,
+RESEARCHING, O,,,,
+RESEARCHING, O,,,,
+RESEARCHING, O,,,,
+RESEARCHING, O,,,,
+RESOLVED, E.Coli,,,,
+RESOLVED, E.Coli,,,,
+RESTARTED, Ozempic,,,,
+RESTARTED, Metformin,,,,
+RESTARTED, Ozempic,,,,
+RESTARTED, Metformin,,,,
+RESTRICTED_FOR, T2 Diabetes,,,,
+RESTRICTED_FOR, T2 Diabetes,,,,
+RESTRICTS_PURCHASE, Ozempic,,,,
+RESTRICTS_PURCHASE, Ozempic,,,,
+RESULT, 30 Lbs,,,,
+RESULT, 62 Lbs,,,,
+RESULT, A1C,,,,
+RESULT,5.7,,,,
+RESULT, 30 Lbs,,,,
+RESULT, 62 Lbs,,,,
+RESULT, A1C,,,,
+RESULT,5.7,,,,
+RESULT_OF, Ozempic,,,,
+RESULT_OF, Ivf Transfer,,,,
+RESULT_OF, Ozempic,,,,
+RESULT_OF, Ozempic,,,,
+RESULT_OF, Ivf Transfer,,,,
+RESULT_OF, Ozempic,,,,
+RESULTED_FROM, Shot_0.25,,,,
+RESULTED_FROM, Weight_Loss,,,,
+RESULTED_FROM, Shot_0.25,,,,
+RESULTED_FROM, Weight_Loss,,,,
+RESULTED_IN, Weight Loss,,,,
+RESULTED_IN, 13_Pounds,,,,
+RESULTED_IN, 40 Lbs,,,,
+RESULTED_IN, 0.25 Mg Injection,,,,
+RESULTED_IN, Weight_Gain,,,,
+RESULTED_IN, 30Kg Weight Loss,,,,
+RESULTED_IN, Success,,,,
+RESULTED_IN, Cancerous Tumor,,,,
+RESULTED_IN, Perfect Blood Sugar,,,,
+RESULTED_IN, Weight Loss,,,,
+RESULTED_IN, 13_Pounds,,,,
+RESULTED_IN, 40 Lbs,,,,
+RESULTED_IN, 0.25 Mg Injection,,,,
+RESULTED_IN, Weight_Gain,,,,
+RESULTED_IN, 30Kg Weight Loss,,,,
+RESULTED_IN, Success,,,,
+RESULTED_IN, Cancerous Tumor,,,,
+RESULTED_IN, Perfect Blood Sugar,,,,
+RESULTS, 30 Pounds,,,,
+RESULTS, 35 Pounds,,,,
+RESULTS, Weight_Loss,,,,
+RESULTS, 30 Pounds,,,,
+RESULTS, 35 Pounds,,,,
+RESULTS, Weight_Loss,,,,
+RESULTS_FROM, Weight_Loss_Shot,,,,
+RESULTS_FROM, Weight_Loss_Shot,,,,
+RESULTS_IN, Weight Loss,,,,
+RESULTS_IN, Weight_Loss,,,,
+RESULTS_IN, 15 Lbs,,,,
+RESULTS_IN, Weightloss,,,,
+RESULTS_IN, 30 Pounds,,,,
+RESULTS_IN, 10 Lbs,,,,
+RESULTS_IN, Symptoms,,,,
+RESULTS_IN, 40Lbs Weight Loss,,,,
+RESULTS_IN, 17 Pounds,,,,
+RESULTS_IN, 15 Pounds,,,,
+RESULTS_IN, 15 Lbs,,,,
+RESULTS_IN, 20Kg,,,,
+RESULTS_IN, Misery,,,,
+RESULTS_IN, 30 Lbs,,,,
+RESULTS_IN, 20Lbs,,,,
+RESULTS_IN, 8 Lbs,,,,
+RESULTS_IN, 40 Pounds,,,,
+RESULTS_IN, 90Kg,,,,
+RESULTS_IN, 15Kg,,,,
+RESULTS_IN, Weight Loss,,,,
+RESULTS_IN, 27 Pounds,,,,
+RESULTS_IN, 10Kg,,,,
+RESULTS_IN, 270Lbs,,,,
+RESULTS_IN, Weight_Loss,,,,
+RESULTS_IN, Illness,,,,
+RESULTS_IN, 4 Lbs,,,,
+RESULTS_IN, Weight Gain 53Lbs,,,,
+RESULTS_IN, Weight Loss,,,,
+RESULTS_IN, 30Lbs,,,,
+RESULTS_IN, A1C Results,,,,
+RESULTS_IN, Icu,,,,
+RESULTS_IN, 144.4 Kg,,,,
+RESULTS_IN, 144.0 Kg,,,,
+RESULTS_IN, 142.2 Kg,,,,
+RESULTS_IN, 140.2 Kg,,,,
+RESULTS_IN, 139.8 Kg,,,,
+RESULTS_IN, 138.4 Kg,,,,
+RESULTS_IN, 137.4 Kg,,,,
+RESULTS_IN, 135.4 Kg,,,,
+RESULTS_IN, 133.1 Kg,,,,
+RESULTS_IN, 131.9 Kg,,,,
+RESULTS_IN, 131.8 Kg,,,,
+RESULTS_IN, 130.7 Kg,,,,
+USED_IN, Walking,,,,
+RESULTS_IN, 129.3 Kg,,,,
+RESULTS_IN, 127.8 Kg,,,,
+RESULTS_IN, 125.1 Kg,,,,
+RESULTS_IN, 124.3 Kg,,,,
+RESULTS_IN, 123.9 Kg,,,,
+RESULTS_IN, 121.5 Kg,,,,
+RESULTS_IN, 121.3 Kg,,,,
+RESULTS_IN, 120.4 Kg,,,,
+RESULTS_IN, 118.7 Kg,,,,
+RESULTS_IN, 117.8 Kg,,,,
+RESULTS_IN, 117.0 Kg,,,,
+RESULTS_IN, 115.6 Kg,,,,
+RESULTS_IN, 115.2 Kg,,,,
+RESULTS_IN, 113.7 Kg,,,,
+RESULTS_IN, 112.7 Kg,,,,
+RESULTS_IN, 112.4 Kg,,,,
+RESULTS_IN, 110.8 Kg,,,,
+RESULTS_IN, 110.1 Kg,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, 108.5 Kg,,,,
+RESULTS_IN, 108.4 Kg,,,,
+RESULTS_IN, 106.6 Kg,,,,
+RESULTS_IN, 105.2 Kg,,,,
+RESULTS_IN, 104.5 Kg,,,,
+RESULTS_IN, 103.1 Kg,,,,
+RESULTS_IN, 102.2 Kg,,,,
+RESULTS_IN, 102.0 Kg,,,,
+RESULTS_IN, 101.1 Kg,,,,
+RESULTS_IN, 99.2 Kg,,,,
+RESULTS_IN, 98.2 Kg,,,,
+RESULTS_IN, 98.1 Kg,,,,
+RESULTS_IN, 97.5 Kg,,,,
+RESULTS_IN, 96.3 Kg,,,,
+RESULTS_IN, 95.6 Kg,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, 48.8 Kg,,,,
+RESULTS_IN, 107.5 Pounds,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight_Loss,,,,
+RESULTS_IN, Medical Insurance,,,,
+RESULTS_IN, Health Insurance Loss,,,,
+RESULTS_IN, Weight Loss,,,,
+RESULTS_IN, 30 Pounds,,,,
+RESULTS_IN, Weight Loss,,,,
+RESULTS_IN, Weight_Loss,,,,
+RESULTS_IN, 15 Lbs,,,,
+RESULTS_IN, Weightloss,,,,
+RESULTS_IN, 30 Pounds,,,,
+RESULTS_IN, 10 Lbs,,,,
+RESULTS_IN, Symptoms,,,,
+RESULTS_IN, 40Lbs Weight Loss,,,,
+RESULTS_IN, 17 Pounds,,,,
+RESULTS_IN, 15 Pounds,,,,
+RESULTS_IN, 15 Lbs,,,,
+RESULTS_IN, 20Kg,,,,
+RESULTS_IN, Misery,,,,
+RESULTS_IN, 30 Lbs,,,,
+RESULTS_IN, 20Lbs,,,,
+RESULTS_IN, 8 Lbs,,,,
+RESULTS_IN, 40 Pounds,,,,
+RESULTS_IN, 90Kg,,,,
+RESULTS_IN, 15Kg,,,,
+RESULTS_IN, Weight Loss,,,,
+RESULTS_IN, 27 Pounds,,,,
+RESULTS_IN, 10Kg,,,,
+RESULTS_IN, 270Lbs,,,,
+RESULTS_IN, Weight_Loss,,,,
+RESULTS_IN, Illness,,,,
+RESULTS_IN, 4 Lbs,,,,
+RESULTS_IN, Weight Gain 53Lbs,,,,
+RESULTS_IN, Weight Loss,,,,
+RESULTS_IN, 30Lbs,,,,
+RESULTS_IN, A1C Results,,,,
+RESULTS_IN, Icu,,,,
+RESULTS_IN, 144.4 Kg,,,,
+RESULTS_IN, 144.0 Kg,,,,
+RESULTS_IN, 142.2 Kg,,,,
+RESULTS_IN, 140.2 Kg,,,,
+RESULTS_IN, 139.8 Kg,,,,
+RESULTS_IN, 138.4 Kg,,,,
+RESULTS_IN, 137.4 Kg,,,,
+RESULTS_IN, 135.4 Kg,,,,
+RESULTS_IN, 133.1 Kg,,,,
+RESULTS_IN, 131.9 Kg,,,,
+RESULTS_IN, 131.8 Kg,,,,
+RESULTS_IN, 130.7 Kg,,,,
+RESULTS_IN, 129.3 Kg,,,,
+RESULTS_IN, 127.8 Kg,,,,
+RESULTS_IN, 125.1 Kg,,,,
+RESULTS_IN, 124.3 Kg,,,,
+RESULTS_IN, 123.9 Kg,,,,
+RESULTS_IN, 121.5 Kg,,,,
+RESULTS_IN, 121.3 Kg,,,,
+RESULTS_IN, 120.4 Kg,,,,
+RESULTS_IN, 118.7 Kg,,,,
+RESULTS_IN, 117.8 Kg,,,,
+RESULTS_IN, 117.0 Kg,,,,
+RESULTS_IN, 115.6 Kg,,,,
+RESULTS_IN, 115.2 Kg,,,,
+RESULTS_IN, 113.7 Kg,,,,
+RESULTS_IN, 112.7 Kg,,,,
+RESULTS_IN, 112.4 Kg,,,,
+RESULTS_IN, 110.8 Kg,,,,
+RESULTS_IN, 110.1 Kg,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, 108.5 Kg,,,,
+RESULTS_IN, 108.4 Kg,,,,
+RESULTS_IN, 106.6 Kg,,,,
+RESULTS_IN, 105.2 Kg,,,,
+RESULTS_IN, 104.5 Kg,,,,
+RESULTS_IN, 103.1 Kg,,,,
+RESULTS_IN, 102.2 Kg,,,,
+RESULTS_IN, 102.0 Kg,,,,
+RESULTS_IN, 101.1 Kg,,,,
+RESULTS_IN, 99.2 Kg,,,,
+RESULTS_IN, 98.2 Kg,,,,
+RESULTS_IN, 98.1 Kg,,,,
+RESULTS_IN, 97.5 Kg,,,,
+RESULTS_IN, 96.3 Kg,,,,
+RESULTS_IN, 95.6 Kg,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, 48.8 Kg,,,,
+RESULTS_IN, 107.5 Pounds,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight After Stopping Ozempic,,,,
+RESULTS_IN, Weight_Loss,,,,
+RESULTS_IN, Medical Insurance,,,,
+RESULTS_IN, Health Insurance Loss,,,,
+RESULTS_IN, Weight Loss,,,,
+RESULTS_IN, 30 Pounds,,,,
+RETURN, Oz,,,,
+RETURN, Oz,,,,
+RETURN_TO, Doctor,,,,
+RETURN_TO, Doctor,,,,
+RETURNED_TO, Ozempic,,,,
+RETURNED_TO, Ozempic,,,,
+REVEALED,0.1,,,,
+REVEALED,0.1,,,,
+REVERSED_BY, Weight Gain,,,,
+REVERSED_BY, Weight Gain,,,,
+REVERSES, Weight Gain,,,,
+REVERSES, Weight Gain,,,,
+REVISED_END, December,,,,
+REVISED_END, December,,,,
+RISK_FACTOR, Covid,,,,
+RISK_FACTOR, Covid,,,,
+RISK_FACTOR, Covid,,,,
+RISK_FACTOR, Covid,,,,
+SAVES_LIVES, People,,,,
+SAVES_LIVES, People,,,,
+SCHEDULED_VISIT, July,,,,
+SCHEDULED_VISIT, July,,,,
+SECOND_OPINION, Medications,,,,
+SECOND_OPINION, Medications,,,,
+SEE, Update,,,,
+SEE, Endo,,,,
+SEE, Update,,,,
+SEE, Endo,,,,
+SEEING, Primary Care Physician,,,,
+SEEING, Primary Care Physician,,,,
+SEEKING, Success Stories,,,,
+SEEKING, Advice,,,,
+SEEKING, Success Stories,,,,
+SEEKING, Advice,,,,
+SEEKING_ADVICE_FROM, Doctor,,,,
+SEEKING_ADVICE_FROM, Doctor,,,,
+SEEKS, Advice,,,,
+SEEKS, Advice,,,,
+SELLS, Ozempic,,,,
+SELLS, Ozempic,,,,
+SELLS, Ozempic,,,,
+SELLS, Ozempic,,,,
+SEQUENCE, Transatlantic Flight,,,,
+SEQUENCE, Transatlantic Flight,,,,
+SHARED, Experience,,,,
+SHARED, Experience,,,,
+SHARED_INFO, Weight Loss,,,,
+SHARED_INFO, Weight Loss,,,,
+SHIPPED_ON,1/4/23,,,,
+SHIPPED_ON,1/4/23,,,,
+SHORT_TERM_USE, Baby Planning,,,,
+SHORT_TERM_USE, Baby Planning,,,,
+SIDE_EFFECT, Fatigue,,,,
+SIDE_EFFECT, Ozempic,,,,
+SIDE_EFFECT, Ozempic,,,,
+SIDE_EFFECT, Ozempic,,,,
+SIDE_EFFECT, Ozempic,,,,
+SIDE_EFFECT, Oz,,,,
+SIDE_EFFECT, Nausea,,,,
+SIDE_EFFECT, Vomiting,,,,
+SIDE_EFFECT, Ozempic,,,,
+SIDE_EFFECT, Ozempic,,,,
+SIDE_EFFECT, Ozempic,,,,
+SIDE_EFFECT, Oz,,,,
+SIDE_EFFECT, Fatigue,,,,
+SIDE_EFFECT, Ozempic,,,,
+SIDE_EFFECT, Ozempic,,,,
+SIDE_EFFECT, Ozempic,,,,
+SIDE_EFFECT, Ozempic,,,,
+SIDE_EFFECT, Oz,,,,
+SIDE_EFFECT, Nausea,,,,
+SIDE_EFFECT, Vomiting,,,,
+SIDE_EFFECT, Ozempic,,,,
+SIDE_EFFECT, Ozempic,,,,
+SIDE_EFFECT, Ozempic,,,,
+SIDE_EFFECT, Oz,,,,
+SIGNED_DENIAL, Pharmacist,,,,
+SIGNED_DENIAL, Pharmacist,,,,
+SIMILAR_TO, Vertigo,,,,
+SIMILAR_TO, Medication,,,,
+SIMILAR_TO, Gallbladder Attack,,,,
+SIMILAR_TO, Vertigo,,,,
+SIMILAR_TO, Medication,,,,
+SIMILAR_TO, Gallbladder Attack,,,,
+SKIPPED, 0.25Mg,,,,
+SKIPPED, Update,,,,
+SKIPPED, 0.25Mg,,,,
+SKIPPED, Update,,,,
+SOOTHES, Nausea,,,,
+SOOTHES, Nausea,,,,
+SOOTHES, Nausea,,,,
+SOOTHES, Nausea,,,,
+SOURCED_FROM, Ozempic,,,,
+SOURCED_FROM, Ozempic,,,,
+START_AGAIN, Ozempic,,,,
+START_AGAIN, Ozempic,,,,
+START_DATE, June,,,,
+START_DATE,November 21,,,,
+START_DATE, June,,,,
+START_DATE,November 21,,,,
+START_OVER, O,,,,
+START_OVER, Progress,,,,
+START_OVER, O,,,,
+START_OVER, Progress,,,,
+START_WEIGHT, 161 Pounds,,,,
+START_WEIGHT, 400 Pounds,,,,
+START_WEIGHT,212,,,,
+START_WEIGHT, 161 Pounds,,,,
+START_WEIGHT, 400 Pounds,,,,
+START_WEIGHT,212,,,,
+STARTED, November,,,,
+STARTED, February,,,,
+STARTED,September 2021,,,,
+STARTED,February 2022,,,,
+STARTED,June 2022,,,,
+STARTED,July 2022,,,,
+STARTED, Ozempic,,,,
+17 Lbs,USED_FOR,,,,
+STARTED, New_Job,,,,
+STARTED, Wellbutrin,,,,
+STARTED, Ozempic,,,,
+STARTED, Diarrhea,,,,
+STARTED, Ozempic,,,,
+STARTED, Ozempic,,,,
+STARTED, Ozempic 0.25Mg,,,,
+STARTED, Ozempic,,,,
+STARTED, 0.25 Dosage,,,,
+STARTED, Ozempic,,,,
+STARTED, November,,,,
+STARTED, February,,,,
+STARTED,September 2021,,,,
+STARTED,February 2022,,,,
+STARTED,June 2022,,,,
+STARTED,July 2022,,,,
+STARTED, Ozempic,,,,
+STARTED, New_Job,,,,
+STARTED, Wellbutrin,,,,
+STARTED, Ozempic,,,,
+STARTED, Diarrhea,,,,
+STARTED, Ozempic,,,,
+STARTED, Ozempic,,,,
+STARTED, Ozempic 0.25Mg,,,,
+STARTED, Ozempic,,,,
+STARTED, 0.25 Dosage,,,,
+STARTED, Ozempic,,,,
+STARTED_ACTIVITY, Resistance Training Program,,,,
+STARTED_ACTIVITY, Resistance Training Program,,,,
+STARTED_AFTER, First Child,,,,
+STARTED_AFTER, First Child,,,,
+STARTED_AT,204,,,,
+STARTED_AT,19,,,,
+STARTED_AT, Ozempic,,,,
+STARTED_AT, 5'4/221 Lbs,,,,
+STARTED_AT,204,,,,
+STARTED_AT,19,,,,
+STARTED_AT, Ozempic,,,,
+STARTED_AT, 5'4/221 Lbs,,,,
+STARTED_DIET, Keto,,,,
+STARTED_DIET, Keto,,,,
+STARTED_EATING_MORE,November 2022,,,,
+STARTED_EATING_MORE,November 2022,,,,
+STARTED_IN, April/May,,,,
+STARTED_IN, April/May,,,,
+STARTED_ON,0.25,,,,
+STARTED_ON,October 21,,,,
+STARTED_ON, August_7,,,,
+STARTED_ON, November 29Th 2021,,,,
+STARTED_ON, August 24Th,,,,
+STARTED_ON,0.25,,,,
+STARTED_ON,October 21,,,,
+STARTED_ON, August_7,,,,
+STARTED_ON, November 29Th 2021,,,,
+STARTED_ON, August 24Th,,,,
+INCREASED_TO, Ozempic 0.5Mg,,,,
+STARTED_TAKING, Ozempic,,,,
+STARTED_TAKING, Ozempic,,,,
+STARTED_TREATMENT, Ozempic,,,,
+STARTED_TREATMENT, Ozempic,,,,
+STARTED_WITH, 0.25Ml Dose,,,,
+STARTED_WITH, Metformin,,,,
+STARTED_WITH, 0.5Ml Dose,,,,
+STARTED_WITH, 0.25Ml Dose,,,,
+STARTED_WITH, Metformin,,,,
+STARTED_WITH, 0.5Ml Dose,,,,
+STARTED_WORKING_AND_SCHOOL,2018,,,,
+STARTED_WORKING_AND_SCHOOL,2018,,,,
+STARTING_DOSE, .5 Dose,,,,
+STARTING_DOSE, .5 Dose,,,,
+STARTING_WEIGHT, 188 Pounds,,,,
+STARTING_WEIGHT, Starting Wt 212,,,,
+STARTING_WEIGHT, Starting Weight,,,,
+STARTING_WEIGHT, 158 Lbs,,,,
+STARTING_WEIGHT,230,,,,
+STARTING_WEIGHT, 188 Pounds,,,,
+STARTING_WEIGHT, Starting Wt 212,,,,
+STARTING_WEIGHT, Starting Weight,,,,
+STARTING_WEIGHT, 158 Lbs,,,,
+STARTING_WEIGHT,230,,,,
+STARTING_WEIGHT_LOSS, 34Lbs,,,,
+STARTING_WEIGHT_LOSS, 34Lbs,,,,
+STARTS_WITH, 1Mg,,,,
+STARTS_WITH, 1Mg,,,,
+STATUS, Sold Out,,,,
+STATUS, Sold Out,,,,
+STILL_PRESENT, Numbness And Dizziness,,,,
+STILL_PRESENT, Numbness And Dizziness,,,,
+STIMULATES, Pancreas,,,,
+STIMULATES, Pancreas,,,,
+STOCK_DELAY, Unknown Period,,,,
+STOCK_DELAY, Unknown Period,,,,
+STOCK_IN, Brisbane,,,,
+STOCK_IN, Brisbane,,,,
+STOCK_IN, Brisbane,,,,
+STOCK_IN, Brisbane,,,,
+STOCK_OF, 1_Mg_Dose,,,,
+STOCK_OF, 1_Mg_Dose,,,,
+STOCKS, Ozempic,,,,
+STOCKS, Ozempic,,,,
+STOP_DATE, June,,,,
+STOP_DATE, June,,,,
+STOP_TAKING, Children,,,,
+STOP_TAKING, Children,,,,
+STOP_TAKING_IN, April,,,,
+STOP_TAKING_IN, April,,,,
+STOPPED,December 12,,,,
+STOPPED, January 26Th,,,,
+STOPPED,December 12,,,,
+STOPPED, January 26Th,,,,
+STOPPED_AND_MAINTAINED, Weightloss,,,,
+STOPPED_AND_MAINTAINED, Weightloss,,,,
+STOPPED_CAUSING, Walking_Normal,,,,
+STOPPED_CAUSING, Walking_Normal,,,,
+STOPPED_CONSUMING, Sweetened Drinks,,,,
+STOPPED_CONSUMING, Sweetened Drinks,,,,
+STOPPED_FOR, Ozempic,,,,
+STOPPED_FOR, Oz,,,,
+STOPPED_FOR, Issues,,,,
+STOPPED_FOR, Ozempic,,,,
+STOPPED_FOR, Oz,,,,
+STOPPED_FOR, Issues,,,,
+STOPPED_IN, June,,,,
+STOPPED_IN, June,,,,
+STOPPED_TAKING, Oz 1Mg,,,,
+STOPPED_TAKING, Ozempic,,,,
+STOPPED_TAKING, Oz,,,,
+STOPPED_TAKING, Oz 1Mg,,,,
+STOPPED_TAKING, Ozempic,,,,
+STOPPED_TAKING, Oz,,,,
+STOPPED_USE, Ozempic,,,,
+STOPPED_USE, Ozempic,,,,
+STOPPED_USING, Ozempic,,,,
+STOPPED_USING, Ozempic,,,,
+STOPS_FOR, Health Reason,,,,
+STOPS_FOR, Health Reason,,,,
+STRUGGLES_WITH, Caloricdeficit,,,,
+STRUGGLES_WITH, Caloricdeficit,,,,
+STRUGGLING_WITH, Weight Loss,,,,
+STRUGGLING_WITH, Weight Loss,,,,
+SUBSTITUTE, Ozempic,,,,
+SUBSTITUTE, Ozempic,,,,
+SUBSTITUTED_BY, Rybelsus,,,,
+SUBSTITUTED_BY, Rybelsus,,,,
+SUBSTITUTES, Weight Loss,,,,
+SUBSTITUTES, Weight Loss,,,,
+SUFFERED, Constipation,,,,
+SUFFERED, Constipation,,,,
+SUFFERS_FROM, Anxiety,,,,
+SUFFERS_FROM, Bloating,,,,
+SUFFERS_FROM, Anxiety,,,,
+SUFFERS_FROM, Bloating,,,,
+SUGGESTED, Diet And Exercise,,,,
+SUGGESTED, Diet And Exercise,,,,
+SUGGESTED_ACTION, Rest,,,,
+SUGGESTED_ACTION, Rest,,,,
+SUGGESTED_BY, Doctor,,,,
+SUGGESTED_BY, Doctor,,,,
+SUGGESTED_CAUSE, Hernia,,,,
+SUGGESTED_CAUSE, Hernia,,,,
+SUGGESTS, Ozempic,,,,
+SUGGESTS, Ozempic,,,,
+SUGGESTS, Licensed Dietitian,,,,
+SUGGESTS, Ozempic,,,,
+SUGGESTS, Ozempic,,,,
+SUGGESTS, Licensed Dietitian,,,,
+SUPPLIES, Ozempic,,,,
+SUPPLIES, Ozempic,,,,
+SUPPLIES, Ozempic,,,,
+SUPPLIES, Ozempic,,,,
+SUPPLY_ISSUE, Ozempic,,,,
+SUPPLY_ISSUE, Oz,,,,
+SUPPLY_ISSUE, Ozempic,,,,
+SUPPLY_ISSUE, Oz,,,,
+SUPPORTS, Normal Bowel Function,,,,
+SUPPORTS, Unsupportive Partner,,,,
+SUPPORTS, Normal Bowel Function,,,,
+SUPPORTS, Unsupportive Partner,,,,
+SUPPOSED_TO_STOP, Ozempic,,,,
+SUPPOSED_TO_STOP, Ozempic,,,,
+SUSPENDED, Surgery,,,,
+SUSPENDED, Surgery,,,,
+SWITCH, O,,,,
+SWITCH, O,,,,
+SWITCH_TO, Ozempic,,,,
+SWITCH_TO, Ozempic,,,,
+SWITCHED_TO, Saxenda,,,,
+SWITCHED_TO, Trulicity,,,,
+SWITCHED_TO, Rybelsus,,,,
+SWITCHED_TO, Ozempic,,,,
+SWITCHED_TO, Rybelsus,,,,
+SWITCHED_TO, Mounjaro,,,,
+SWITCHED_TO, Saxenda,,,,
+SWITCHED_TO, Ozempic,,,,
+SWITCHED_TO, Wegovy,,,,
+SWITCHED_TO, Saxenda,,,,
+SWITCHED_TO, Trulicity,,,,
+SWITCHED_TO, Rybelsus,,,,
+SWITCHED_TO, Ozempic,,,,
+SWITCHED_TO, Rybelsus,,,,
+SWITCHED_TO, Mounjaro,,,,
+SWITCHED_TO, Saxenda,,,,
+SWITCHED_TO, Ozempic,,,,
+SWITCHED_TO, Wegovy,,,,
+TAKEN, Ozempic,,,,
+TAKEN, Ozempic,,,,
+TAKES, Ozempic,,,,
+TAKES, Metformin,,,,
+TAKES, Medication,,,,
+TAKES, Cyclizine,,,,
+TAKES, Labetolol,,,,
+TAKES, Vyvanse,,,,
+TAKES, Ozempic,,,,
+TAKES, Medication,,,,
+TAKES, Victoza,,,,
+TAKES, Ozempic,,,,
+TAKES, Metformin,,,,
+TAKES, Ozempic,,,,
+TAKES, Ozempic,,,,
+TAKES, Ozempic,,,,
+TAKES, Ozempic,,,,
+TAKES, Metformin,,,,
+TAKES, Medication,,,,
+TAKES, Cyclizine,,,,
+TAKES, Labetolol,,,,
+TAKES, Vyvanse,,,,
+TAKES, Ozempic,,,,
+TAKES, Medication,,,,
+TAKES, Victoza,,,,
+TAKES, Ozempic,,,,
+TAKES, Metformin,,,,
+TAKES, Ozempic,,,,
+TAKES, Ozempic,,,,
+TAKES, Ozempic,,,,
+TAKES_MEDICATION, Metformin,,,,
+TAKES_MEDICATION, Metformin,,,,
+TAKING, Ozempic,,,,
+TAKING, Ozempic,,,,
+TALKED_TO, Weight,,,,
+TALKED_TO, Weight,,,,
+TAPERED_OFF, Ozempic,,,,
+TAPERED_OFF, Ozempic,,,,
+TARGET, 100 Lbs,,,,
+TARGET, 100 Lbs,,,,
+TARGET_WEIGHT,120,,,,
+TARGET_WEIGHT,120,,,,
+TARGETS, Non,,,,
+TARGETS, 900 Calories,,,,
+TARGETS, 1200 Calories,,,,
+TARGETS, Non,,,,
+TARGETS, 900 Calories,,,,
+TARGETS, 1200 Calories,,,,
+TEST_RESULT, Ozempic,,,,
+TEST_RESULT, Ozempic,,,,
+TEST_RESULT, Ozempic,,,,
+TEST_RESULT, Ozempic,,,,
+THOUGHT_TO_BE, Food Poisoning,,,,
+THOUGHT_TO_BE, Food Poisoning,,,,
+TIME_FRAME, Weight_Loss,,,,
+TIME_FRAME, Weight_Loss,,,,
+TIME_OFF, Restart,,,,
+TIME_OFF, Restart,,,,
+TIME_PERIOD, 30 Pounds,,,,
+TIME_PERIOD, December,,,,
+TIME_PERIOD, 30 Pounds,,,,
+TIME_PERIOD, December,,,,
+TIME_RELATIONSHIP, January,,,,
+TIME_RELATIONSHIP, January,,,,
+TIME_SINCE, Medications,,,,
+TIME_SINCE, Medications,,,,
+TIME_SINCE_LAST_INJECTION, 8Th Week,,,,
+TIME_SINCE_LAST_INJECTION, 8Th Week,,,,
+TIME_SINCE_LAST_WEIGHT_BELOW_300LBS, 20 Years,,,,
+TIME_SINCE_LAST_WEIGHT_BELOW_300LBS, 20 Years,,,,
+TITRATE_TO, 1.5 Dosage,,,,
+TITRATE_TO, 1.5 Dosage,,,,
+TITRATED_UP_TO,2,,,,
+TITRATED_UP_TO,2,,,,
+TO,199,,,,
+TO,199,,,,
+TO_LOSE, 19Lbs,,,,
+TO_LOSE, 19Lbs,,,,
+TOLERATE, Side Effects,,,,
+TOLERATE, Side Effects,,,,
+TOOK, Ozempic,,,,
+TOOK, Break,,,,
+TOOK, Zofran,,,,
+TOOK, Ozempic,,,,
+TOOK, Ozempic,,,,
+TOOK, Ozempic,,,,
+TOOK, Ozempic,,,,
+TOOK, Break,,,,
+TOOK, Zofran,,,,
+TOOK, Ozempic,,,,
+TOOK, Ozempic,,,,
+TOOK, Ozempic,,,,
+TOTAL_WEIGHT_LOSS, 28 Pounds,,,,
+TOTAL_WEIGHT_LOSS, 28 Pounds,,,,
+TOTAL_WEIGHT_LOST, 97Lbs,,,,
+TOTAL_WEIGHT_LOST, 97Lbs,,,,
+TRACKING, Progress,,,,
+TRACKING, Progress,,,,
+TRACKS, Bsl,,,,
+TRACKS, Heart Palpitations,,,,
+TRACKS, Bsl,,,,
+TRACKS, Heart Palpitations,,,,
+TRANSITIONED_TO, Normal,,,,
+TRANSITIONED_TO, Normal,,,,
+TRANSPORTED_TO, A & E,,,,
+TRANSPORTED_TO, A & E,,,,
+TRAVELLED_TO, Nuevo Progresso,,,,
+TRAVELLED_TO, Nuevo Progresso,,,,
+TREATED, Weight Loss,,,,
+TREATED, Insulin Resistance,,,,
+TREATED, Patient,,,,
+TREATED, Nausea,,,,
+TREATED, Nausea,,,,
+TREATED, Dehydration,,,,
+TREATED, Dehydration,,,,
+TREATED, Tsh,,,,
+TREATED, Weight Loss,,,,
+TREATED, Insulin Resistance,,,,
+TREATED, Patient,,,,
+TREATED, Nausea,,,,
+TREATED, Nausea,,,,
+TREATED, Dehydration,,,,
+TREATED, Dehydration,,,,
+TREATED, Tsh,,,,
+TREATED_AT, Nausea,,,,
+TREATED_AT, Stomach Pains,,,,
+TREATED_AT, Acid Reflux,,,,
+TREATED_AT, Nausea,,,,
+TREATED_AT, Stomach Pains,,,,
+TREATED_AT, Acid Reflux,,,,
+TREATED_BY, Type 2 Diabetes,,,,
+TREATED_BY, Nausea Meds,,,,
+TREATED_BY, Smaller Meals,,,,
+TREATED_BY, Water,,,,
+TREATED_BY, Zofran,,,,
+TREATED_BY, Metformin,,,,
+TREATED_BY, Vitamins,,,,
+TREATED_BY, Inositol,,,,
+TREATED_BY, Insulin,,,,
+TREATED_BY, Laxative,,,,
+TREATED_BY, Stoolsoftener,,,,
+TREATED_BY, Nausea,,,,
+TREATED_BY, Medication,,,,
+TREATED_BY, Type 2 Diabetes,,,,
+TREATED_BY, Nausea Meds,,,,
+TREATED_BY, Smaller Meals,,,,
+TREATED_BY, Water,,,,
+TREATED_BY, Zofran,,,,
+TREATED_BY, Metformin,,,,
+TREATED_BY, Vitamins,,,,
+TREATED_BY, Inositol,,,,
+TREATED_BY, Insulin,,,,
+TREATED_BY, Laxative,,,,
+TREATED_BY, Stoolsoftener,,,,
+TREATED_BY, Nausea,,,,
+TREATED_BY, Medication,,,,
+TREATED_FOR, Pcos,,,,
+TREATED_FOR, Insulin Resistance,,,,
+TREATED_FOR, Prediabetes,,,,
+TREATED_FOR, Stomach Cramps,,,,
+TREATED_FOR, Nausea,,,,
+TREATED_FOR, Kidney Stones,,,,
+TREATED_FOR, Weight Gain,,,,
+TREATED_FOR, Pcos,,,,
+TREATED_FOR, Insulin Resistance,,,,
+TREATED_FOR, Prediabetes,,,,
+TREATED_FOR, Stomach Cramps,,,,
+TREATED_FOR, Nausea,,,,
+TREATED_FOR, Kidney Stones,,,,
+TREATED_FOR, Weight Gain,,,,
+TREATED_WITH, Ozempic,,,,
+TREATED_WITH, Nausea Medication,,,,
+TREATED_WITH, Ozempic,,,,
+TREATED_WITH, Nausea Medication,,,,
+TREATING, Constipation,,,,
+TREATING, Constipation,,,,
+TREATMENT, Paxlovid,,,,
+TREATMENT, Constipation,,,,
+TREATMENT, Paxlovid,,,,
+TREATMENT, Constipation,,,,
+TREATMENT_FOR, Insulin Resistance,,,,
+TREATMENT_FOR, Gestational Diabetes,,,,
+TREATMENT_FOR, High Cholesterol,,,,
+TREATMENT_FOR, Pre,,,,
+TREATMENT_FOR, Pcos,,,,
+TREATMENT_FOR, Obesity,,,,
+TREATMENT_FOR, Headaches,,,,
+TREATMENT_FOR, Insulin Resistance,,,,
+TREATMENT_FOR, Gestational Diabetes,,,,
+TREATMENT_FOR, High Cholesterol,,,,
+TREATMENT_FOR, Pre,,,,
+TREATMENT_FOR, Pcos,,,,
+TREATMENT_FOR, Obesity,,,,
+TREATMENT_FOR, Headaches,,,,
+TREATS, Weight Loss,,,,
+TREATS, Pcos,,,,
+TREATS, Insulin Resistant Pcos,,,,
+TREATS, Diabetes,,,,
+TREATS, Weight_Loss,,,,
+TREATS, Metabolic Disorder,,,,
+TREATS, Type 2 Diabetes,,,,
+TREATS, Insulin Resistance,,,,
+TREATS, Binge Eating Disorder,,,,
+TREATS, Prediabetes,,,,
+TREATS, Hypothyroidism,,,,
+TREATS, High Blood Pressure,,,,
+TREATS, Diabetes,,,,
+TREATS, Nausea,,,,
+TREATS, Vomiting,,,,
+TREATS, Type Ii Diabetes,,,,
+TREATS, Gastrointestinal_System,,,,
+TREATS, Heartburn,,,,
+TREATS, Diabetes,,,,
+TREATS, Constipated Flu,,,,
+TREATS, Heavy Period,,,,
+TREATS, Weight Loss,,,,
+TREATS, Pcos,,,,
+TREATS, Insulin Resistant Pcos,,,,
+TREATS, Diabetes,,,,
+TREATS, Weight_Loss,,,,
+TREATS, Metabolic Disorder,,,,
+TREATS, Type 2 Diabetes,,,,
+TREATS, Insulin Resistance,,,,
+TREATS, Binge Eating Disorder,,,,
+TREATS, Prediabetes,,,,
+TREATS, Hypothyroidism,,,,
+TREATS, High Blood Pressure,,,,
+TREATS, Diabetes,,,,
+TREATS, Nausea,,,,
+TREATS, Vomiting,,,,
+TREATS, Type Ii Diabetes,,,,
+TREATS, Gastrointestinal_System,,,,
+TREATS, Heartburn,,,,
+TREATS, Diabetes,,,,
+TREATS, Constipated Flu,,,,
+TREATS, Heavy Period,,,,
+TRIAL, Ozempic,,,,
+TRIAL, Victoza,,,,
+TRIAL, Ozempic,,,,
+TRIAL, Victoza,,,,
+TRIED, Mounjaro,,,,
+TRIED, Ozempic,,,,
+TRIED, Milk Of Magnesia,,,,
+TRIED, Metamucil,,,,
+TRIED, Oz,,,,
+TRIED, Miralax,,,,
+TRIED, Mounjaro,,,,
+TRIED, Tums,,,,
+TRIED, Pepto,,,,
+TRIED, Pepcid,,,,
+TRIED, B12,,,,
+TRIED, Electrolytes,,,,
+TRIED, Gas X,,,,
+TRIED, Ozempic,,,,
+TRIED, Diet,,,,
+TRIED, Trulicity,,,,
+TRIED, Rebylsus,,,,
+TRIED, Ozempic,,,,
+TRIED, Mounjaro,,,,
+TRIED, Ozempic,,,,
+TRIED, Milk Of Magnesia,,,,
+TRIED, Metamucil,,,,
+TRIED, Oz,,,,
+TRIED, Miralax,,,,
+TRIED, Mounjaro,,,,
+TRIED, Tums,,,,
+TRIED, Pepto,,,,
+TRIED, Pepcid,,,,
+TRIED, B12,,,,
+TRIED, Electrolytes,,,,
+TRIED, Gas X,,,,
+TRIED, Ozempic,,,,
+TRIED, Diet,,,,
+TRIED, Trulicity,,,,
+TRIED, Rebylsus,,,,
+TRIED, Ozempic,,,,
+TRIED_FOR, 4 Weeks,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, 4 Weeks,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_FOR, Constipation,,,,
+TRIED_TO_GET_COVERAGE, Insurance,,,,
+TRIED_TO_GET_COVERAGE, Glp,,,,
+TRIED_TO_GET_COVERAGE, Insurance,,,,
+TRIED_TO_GET_COVERAGE, Glp,,,,
+TRIGGERED, Anorexia,,,,
+TRIGGERED, Anaphylactic Reaction,,,,
+TRIGGERED, Anaphylactic Reaction,,,,
+TRIGGERED, Vomiting,,,,
+TRIGGERED, Stomach Cramps,,,,
+TRIGGERED, Nausea,,,,
+TRIGGERED, Anorexia,,,,
+TRIGGERED, Anaphylactic Reaction,,,,
+TRIGGERED, Anaphylactic Reaction,,,,
+TRIGGERED, Vomiting,,,,
+TRIGGERED, Stomach Cramps,,,,
+TRIGGERED, Nausea,,,,
+TRIGGERED_BY, Tortilla,,,,
+TRIGGERED_BY, Ozempic,,,,
+TRIGGERED_BY, Vomiting,,,,
+TRIGGERED_BY, Tortilla,,,,
+TRIGGERED_BY, Ozempic,,,,
+TRIGGERED_BY, Vomiting,,,,
+TRIGGERS, Panic Attack,,,,
+TRIGGERS, Anxiety,,,,
+TRIGGERS, Side Effects,,,,
+TRIGGERS, Paranoia,,,,
+TRIGGERS, Numbness,,,,
+TRIGGERS, Itchiness,,,,
+TRIGGERS, Tingling,,,,
+TRIGGERS, Panic Attack,,,,
+TRIGGERS, Anxiety,,,,
+TRIGGERS, Side Effects,,,,
+TRIGGERS, Paranoia,,,,
+TRIGGERS, Numbness,,,,
+TRIGGERS, Itchiness,,,,
+TRIGGERS, Tingling,,,,
+TURNING_TO, Internet,,,,
+TURNING_TO, Internet,,,,
+TYPE_OF, Health Insurance,,,,
+TYPE_OF, Vsg,,,,
+TYPE_OF, Health Insurance,,,,
+TYPE_OF, Vsg,,,,
+UNABLE_TO_DIAGNOSE, Joint_Pain,,,,
+UNABLE_TO_DIAGNOSE, Joint_Pain,,,,
+UNDERGOES, Surgery,,,,
+UNDERGOES, Ivf Treatments,,,,
+UNDERGOES, Surgery,,,,
+UNDERGOES, Ivf Treatments,,,,
+UNDERGOING, Recovery,,,,
+UNDERGOING, Recovery,,,,
+UNDERGONE, Weight_Loss_Surgery,,,,
+UNDERGONE, Hormone Replacement,,,,
+UNDERGONE, Weight_Loss_Surgery,,,,
+UNDERGONE, Hormone Replacement,,,,
+UNDERWENT, Ivf Treatments,,,,
+UNDERWENT, Blood_Work_April_2021,,,,
+UNDERWENT, Blood_Work_February_2022,,,,
+UNDERWENT, Gastric Sleeve,,,,
+UNDERWENT, Blood Tests,,,,
+UNDERWENT, Stool Sample,,,,
+UNDERWENT, Ivf Treatments,,,,
+UNDERWENT, Blood_Work_April_2021,,,,
+UNDERWENT, Blood_Work_February_2022,,,,
+UNDERWENT, Gastric Sleeve,,,,
+UNDERWENT, Blood Tests,,,,
+UNDERWENT, Stool Sample,,,,
+UNUSED, Ozempic,,,,
+UNUSED, Metformin,,,,
+UNUSED, Ozempic,,,,
+UNUSED, Metformin,,,,
+USAGE, Ozempic,,,,
+USAGE, Weight_Loss,,,,
+INCREASED_TO, Weight Of 199,,,,
+USAGE, Weight_Loss,,,,
+USAGE, 0.5Mg,,,,
+USAGE, Ozempic,,,,
+USAGE, Weight_Loss,,,,
+USAGE, Weight_Loss,,,,
+USAGE, 0.5Mg,,,,
+USED, Ozempic,,,,
+USED, Medication,,,,
+USED, Zofran,,,,
+USED, Oz,,,,
+USED, Metformine,,,,
+USED, Tums,,,,
+USED, Ozempic,,,,
+USED, Wegovy,,,,
+USED, Semaglutide,,,,
+USED, Mounjaro,,,,
+USED, O,,,,
+USED, Ozempic,,,,
+USED, Phentermine,,,,
+USED, Ozempic,,,,
+USED, Metamucil,,,,
+USED, Wegovy,,,,
+USED, Oz,,,,
+USED, Ozempic,,,,
+USED, Ozempic,,,,
+USED, Otc Sleep Aid,,,,
+USED, Ozempic,,,,
+USED, Medication,,,,
+USED, Zofran,,,,
+USED, Oz,,,,
+USED, Metformine,,,,
+USED, Tums,,,,
+USED, Ozempic,,,,
+USED, Wegovy,,,,
+USED, Semaglutide,,,,
+USED, Mounjaro,,,,
+USED, O,,,,
+USED, Ozempic,,,,
+USED, Phentermine,,,,
+USED, Ozempic,,,,
+USED, Metamucil,,,,
+USED, Wegovy,,,,
+USED, Oz,,,,
+USED, Ozempic,,,,
+USED, Ozempic,,,,
+USED, Otc Sleep Aid,,,,
+USED_BY, 27F,,,,
+USED_BY, 27F,,,,
+USED_FOR, Weight Loss,,,,
+USED_FOR, Pcos,,,,
+USED_FOR, Weight_Loss,,,,
+USED_FOR, Weightloss,,,,
+USED_FOR, Blood Sugar Control,,,,
+USED_FOR, Weight,,,,
+USED_FOR, Goal Weight,,,,
+USED_FOR, Pre,,,,
+USED_FOR, Insulin Resistance,,,,
+USED_FOR, 2 Years,,,,
+USED_FOR, 4 Months,,,,
+USED_FOR, Weight Maintenance,,,,
+USED_FOR, 16 Weeks,,,,
+USED_FOR, New Knee,,,,
+USED_FOR, One Month,,,,
+USED_FOR, Pre,,,,
+USED_FOR, Wl,,,,
+USED_FOR, 6_Months,,,,
+USED_FOR, Treatment,,,,
+USED_FOR, Blood Sugar Regulation,,,,
+USED_FOR, One Year Mark On Ozempic,,,,
+USED_FOR, Initial Weight Loss,,,,
+USED_FOR, Glucose Control,,,,
+USED_FOR, Cholesterol Reduction,,,,
+USED_FOR, Ozempic,,,,
+USED_FOR, Pcos,,,,
+USED_FOR, Weight_Loss,,,,
+USED_FOR, Insulin_Resistance,,,,
+USED_FOR, 5 Months,,,,
+USED_FOR, Saxenda,,,,
+USED_FOR, Injection,,,,
+USED_FOR, Nausea,,,,
+USED_FOR, 3 Months,,,,
+USED_FOR, Ozempic,,,,
+USED_FOR, 0.5 Dose,,,,
+USED_FOR, Cravings,,,,
+USED_FOR, Saxenda,,,,
+USED_FOR, Nausea,,,,
+USED_FOR, Ozempic,,,,
+USED_FOR, Ozempic,,,,
+USED_FOR, Diabetes,,,,
+USED_FOR, Weight Loss,,,,
+USED_FOR, Weightloss,,,,
+USED_FOR, Zofran,,,,
+USED_FOR, Exercise,,,,
+USED_FOR, Ozempic,,,,
+USED_FOR, Weight Loss,,,,
+USED_FOR, 3 Months,,,,
+USED_FOR, Ozempic,,,,
+USED_FOR, Weight Loss,,,,
+USED_FOR, Pcos,,,,
+STARTS_AT, 2Mg,,,,
+USED_FOR, Weight_Loss,,,,
+USED_FOR, Weightloss,,,,
+USED_FOR, Blood Sugar Control,,,,
+USED_FOR, Weight,,,,
+USED_FOR, Goal Weight,,,,
+USED_FOR, Pre,,,,
+USED_FOR, Insulin Resistance,,,,
+USED_FOR, 2 Years,,,,
+USED_FOR, 4 Months,,,,
+USED_FOR, Weight Maintenance,,,,
+USED_FOR, 16 Weeks,,,,
+USED_FOR, New Knee,,,,
+USED_FOR, One Month,,,,
+USED_FOR, Pre,,,,
+USED_FOR, Wl,,,,
+USED_FOR, 6_Months,,,,
+USED_FOR, Treatment,,,,
+USED_FOR, Blood Sugar Regulation,,,,
+USED_FOR, One Year Mark On Ozempic,,,,
+USED_FOR, Initial Weight Loss,,,,
+USED_FOR, Glucose Control,,,,
+USED_FOR, Cholesterol Reduction,,,,
+USED_FOR, Ozempic,,,,
+INCREASED_TO,0.5,,,,
+USED_FOR, Pcos,,,,
+USED_FOR, Weight_Loss,,,,
+USED_FOR, Insulin_Resistance,,,,
+USED_FOR, 5 Months,,,,
+USED_FOR, Saxenda,,,,
+USED_FOR, Injection,,,,
+USED_FOR, Nausea,,,,
+USED_FOR, 3 Months,,,,
+USED_FOR, Ozempic,,,,
+USED_FOR, 0.5 Dose,,,,
+USED_FOR, Cravings,,,,
+USED_FOR, Saxenda,,,,
+USED_FOR, Nausea,,,,
+USED_FOR, Ozempic,,,,
+USED_FOR, Ozempic,,,,
+USED_FOR, Diabetes,,,,
+USED_FOR, Weight Loss,,,,
+USED_FOR, Weightloss,,,,
+USED_FOR, Zofran,,,,
+USED_FOR, Exercise,,,,
+USED_FOR, Ozempic,,,,
+USED_FOR, Weight Loss,,,,
+USED_FOR, 3 Months,,,,
+USED_IN, Gym,,,,
+USED_FOR, Ozempic,,,,
+USED_FROM, April,,,,
+USED_FROM, April,,,,
+USED_ON, Wednesday,,,,
+USED_ON, Wednesday,,,,
+USED_ONCE, Oz,,,,
+USED_ONCE, Oz,,,,
+USED_UNTIL, June,,,,
+USED_UNTIL, June,,,,
+USED_WITH, Full Pens,,,,
+USED_WITH, Full Pens,,,,
+USES, Ozempic,,,,
+USES, Apple Watch,,,,
+USES, Precision Xtra,,,,
+USES, Ozempic,,,,
+USES, Medication,,,,
+USES, Ozempic,,,,
+USES, Metformin,,,,
+USES, Oz,,,,
+USES, Ozempic,,,,
+USES, Ozempic,,,,
+USES, Weight Loss Drug,,,,
+USES, Cgm,,,,
+USES, Treadmill,,,,
+USES, Ozempic,,,,
+USES, Ozempic,,,,
+USES, Ozempic,,,,
+USES, Click Dosing,,,,
+USES, Miralax,,,,
+USES, Fiber Gummies,,,,
+USES, Probiotic/Prebiotic Gummy,,,,
+USES, Magnesium Glycinate,,,,
+USES, Ozempic,,,,
+USES, Apple Watch,,,,
+USES, Precision Xtra,,,,
+USES, Ozempic,,,,
+USES, Medication,,,,
+USES, Ozempic,,,,
+USES, Metformin,,,,
+USES, Oz,,,,
+USES, Ozempic,,,,
+USES, Ozempic,,,,
+USES, Weight Loss Drug,,,,
+USES, Cgm,,,,
+USES, Treadmill,,,,
+USES, Ozempic,,,,
+USES, Ozempic,,,,
+USES, Ozempic,,,,
+USES, Click Dosing,,,,
+USES, Miralax,,,,
+USES, Fiber Gummies,,,,
+USES, Probiotic/Prebiotic Gummy,,,,
+USES, Magnesium Glycinate,,,,
+USING, Ozempic,,,,
+USING, Needle,,,,
+USING, Ozempic,,,,
+USING, Ozempic,,,,
+USING, Metformin,,,,
+USING, Zoloft,,,,
+USING, Gravol,,,,
+USING, Ozempic,,,,
+USING, Myfitnesspal,,,,
+USING, Ozempic,,,,
+USING, Needle,,,,
+USING, Ozempic,,,,
+USING, Ozempic,,,,
+USING, Metformin,,,,
+USING, Zoloft,,,,
+USING, Gravol,,,,
+USING, Ozempic,,,,
+USING, Myfitnesspal,,,,
+VISITED, Egypt,,,,
+VISITED, Pharmacy,,,,
+VISITED, Doc,,,,
+VISITED, Walgreens,,,,
+VISITED, Hospital,,,,
+VISITED, Er,,,,
+VISITED, Hospital,,,,
+VISITED, Endocrinologist,,,,
+VISITED, Er,,,,
+VISITED, Urgent Care,,,,
+VISITED, Hospital,,,,
+VISITED, Egypt,,,,
+VISITED, Pharmacy,,,,
+VISITED, Doc,,,,
+VISITED, Walgreens,,,,
+VISITED, Hospital,,,,
+VISITED, Er,,,,
+VISITED, Hospital,,,,
+VISITED, Endocrinologist,,,,
+VISITED, Er,,,,
+VISITED, Urgent Care,,,,
+VISITED, Hospital,,,,
+VISITING, Endocrinologist,,,,
+VISITING, Gp,,,,
+VISITING, Endocrinologist,,,,
+VISITING, Gp,,,,
+VISITS, Brother,,,,
+VISITS, Er,,,,
+VISITS, Brother,,,,
+VISITS, Er,,,,
+VOLUME, 1 Ml,,,,
+VOLUME, 1 Ml,,,,
+VOMITS, Bile,,,,
+VOMITS, Bile,,,,
+WAITING_FOR, Meds,,,,
+WAITING_FOR, Payday,,,,
+WAITING_FOR, Meds,,,,
+WAITING_FOR, Payday,,,,
+WALKS_FOR,2,,,,
+WALKS_FOR,2,,,,
+WANTS, Pregnancy,,,,
+WANTS, Pregnancy,,,,
+WANTS_TO_ACHIEVE, Pregnancy,,,,
+WANTS_TO_ACHIEVE, Pregnancy,,,,
+WANTS_TO_CALCULATE, Basal Metabolic Rate,,,,
+WANTS_TO_CALCULATE, Basal Metabolic Rate,,,,
+WANTS_TO_CONTROL, Blood Sugars,,,,
+WANTS_TO_CONTROL, A1C,,,,
+WANTS_TO_CONTROL, Blood Sugars,,,,
+WANTS_TO_CONTROL, A1C,,,,
+WANTS_TO_MANAGE, Sugar Control,,,,
+WANTS_TO_MANAGE, Sugar Control,,,,
+WANTS_TO_TAKE, Semaglutide,,,,
+WANTS_TO_TAKE, Semaglutide,,,,
+WAS, 0.75Mg,,,,
+WAS, 0.75Mg,,,,
+WEIGHED_IN_AT, Weight,,,,
+WEIGHED_IN_AT, Weight,,,,
+WEIGHT, 413 Pounds,,,,
+WEIGHT, 413 Pounds,,,,
+WEIGHT_AT, 88Kg,,,,
+WEIGHT_AT, 88Kg,,,,
+WEIGHT_AT_MARRIAGE, 26+ Years Ago,,,,
+WEIGHT_AT_MARRIAGE, 26+ Years Ago,,,,
+WEIGHT_CHANGE,199,,,,
+WEIGHT_CHANGE, 7 Pounds,,,,
+WEIGHT_CHANGE,29,,,,
+WEIGHT_CHANGE, 108.5Kg,,,,
+WEIGHT_CHANGE,282.8,,,,
+WEIGHT_CHANGE,199,,,,
+WEIGHT_CHANGE, 7 Pounds,,,,
+WEIGHT_CHANGE,29,,,,
+WEIGHT_CHANGE, 108.5Kg,,,,
+WEIGHT_CHANGE,282.8,,,,
+WEIGHT_GAIN, 324Lbs,,,,
+WEIGHT_GAIN, 324Lbs,,,,
+WEIGHT_GAINED_TO, 105Kg,,,,
+WEIGHT_GAINED_TO, 105Kg,,,,
+WEIGHT_LOSS, 180Lbs,,,,
+WEIGHT_LOSS, 120+Lbs,,,,
+WEIGHT_LOSS, 50 Lbs,,,,
+WEIGHT_LOSS, 210Lbs,,,,
+WEIGHT_LOSS, 80Lbs,,,,
+WEIGHT_LOSS, 36.1Kg,,,,
+WEIGHT_LOSS, Cw:162 Lbs,,,,
+WEIGHT_LOSS, 107.4Kg,,,,
+WEIGHT_LOSS, 180Lbs,,,,
+WEIGHT_LOSS, 0.25 Dosage,,,,
+WEIGHT_LOSS,225,,,,
+WEIGHT_LOSS, 305Lbs,,,,
+WEIGHT_LOSS, 180Lbs,,,,
+WEIGHT_LOSS, 120+Lbs,,,,
+WEIGHT_LOSS, 50 Lbs,,,,
+WEIGHT_LOSS, 210Lbs,,,,
+WEIGHT_LOSS, 80Lbs,,,,
+WEIGHT_LOSS, 36.1Kg,,,,
+WEIGHT_LOSS, Cw:162 Lbs,,,,
+WEIGHT_LOSS, 107.4Kg,,,,
+WEIGHT_LOSS, 180Lbs,,,,
+WEIGHT_LOSS, 0.25 Dosage,,,,
+WEIGHT_LOSS,225,,,,
+WEIGHT_LOSS, 305Lbs,,,,
+WEIGHT_LOSS_AID,100,,,,
+WEIGHT_LOSS_AID,100,,,,
+WEIGHT_LOSS_GOAL, 225Lbs,,,,
+WEIGHT_LOSS_GOAL, 225Lbs,,,,
+WEIGHT_LOSS_PERIOD,January 22,,,,
+WEIGHT_LOSS_PERIOD,January 22,,,,
+WEIGHT_LOSS_SINCE, 15Lbs,,,,
+WEIGHT_LOSS_SINCE, 15Lbs,,,,
+WEIGHT_LOST, Weight Lost,,,,
+WEIGHT_LOST, 45Lbs,,,,
+WEIGHT_LOST, Weight Lost,,,,
+WEIGHT_LOST, 45Lbs,,,,
+WEIGHT_LOST_TO, 92Kg,,,,
+WEIGHT_LOST_TO, 92Kg,,,,
+WEIGHT_ON_FIRST_DOSE, 388Lbs,,,,
+WEIGHT_ON_FIRST_DOSE, 388Lbs,,,,
+WENT_DOWN_TO,194,,,,
+WENT_DOWN_TO,194,,,,
+WENT_UP_FROM,195,,,,
+WENT_UP_FROM,195,,,,
+WENT_UP_TO,198,,,,
+WENT_UP_TO,198,,,,
+WORKOUTS, 3X A Week,,,,
+WORKOUTS, 3X A Week,,,,
+WORKS_AS, Nurse,,,,
+WORKS_AS, Nurse,,,,
+WORKS_AT, Dr'S Office,,,,
+WORKS_AT, Dr'S Office,,,,
+WORRIED_ABOUT, Weight_Gain,,,,
+WORRIED_ABOUT, Weight_Gain,,,,
+WORSENED, Gerd,,,,
+WORSENED, Gerd,,,,
+WORSENS, Reactive_Hypoglycemia,,,,
+WORSENS, Neuropathy,,,,
+WORSENS, Reactive_Hypoglycemia,,,,
+WORSENS, Neuropathy,,,,
+WROTE, Prescription,,,,
+WROTE, Prescription,,,,
