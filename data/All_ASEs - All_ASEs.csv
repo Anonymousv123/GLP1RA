@@ -1,0 +1,135 @@
+ASE,Frequency,Code,Legend
+Inflammation,1376,1,All
+Hypoglycemia,1006,1,All
+Depression,981,1,All
+Diarrhea,951,1,All
+Nausea,820,1,All
+Increased Heart Rate,736,1,All
+Microalbuminuria,678,1,All
+Chills,446,1,All
+Vomiting,404,1,All
+Fatigue,390,1,All
+Constipation,333,1,All
+Anxiety,320,1,All
+Headaches,245,1,All
+Cramps,231,1,All
+Thyroid Issues,185,1,All
+Gastritis,168,1,All
+Rash,118,1,All
+Dizziness,82,1,All
+Hypertrophy,82,1,All
+Hypersensitivity,80,1,All
+Dyspepsia,79,1,All
+Swallowing Difficulty,74,1,All
+Thirst,68,1,All
+Insomnia,65,1,All
+Stress,61,1,All
+Thrombosis,44,1,All
+Otitis,35,1,All
+Jaundice,19,1,All
+Cholestasis,10,1,All
+Cholelithiasis,8,1,All
+Hidradenitis,6,1,All
+Thromboembolism,6,1,All
+Chest Tightness,5,1,All
+Hyperglycemia,5,1,All
+Polyuria,5,1,All
+Infarction,729,2,PubMed & Social
+Ulcerative Wounds,681,2,PubMed & Social
+Atherosclerosis,567,2,PubMed & Social
+Neuropathy,334,2,PubMed & Social
+Dehydration,303,2,PubMed & Social
+Hypothyroidism,122,2,PubMed & Social
+Hepatic Issues,97,2,PubMed & Social
+Trauma,90,2,PubMed & Social
+Arthritis,81,2,PubMed & Social
+Arrhythmias,77,2,PubMed & Social
+Anorexia,69,2,PubMed & Social
+Dementia,68,2,PubMed & Social
+Ketosis,66,2,PubMed & Social
+Allodynia,56,2,PubMed & Social
+Ketoacidosis,54,2,PubMed & Social
+Osteoarthritis,54,2,PubMed & Social
+Encephalopathy,46,2,PubMed & Social
+Mania,42,2,PubMed & Social
+Hypotonia,41,2,PubMed & Social
+Palpitations,41,2,PubMed & Social
+Cholangitis,40,2,PubMed & Social
+Urticaria,40,2,PubMed & Social
+Cardiomyopathy,38,2,PubMed & Social
+Acidosis,36,2,PubMed & Social
+Delusion,31,2,PubMed & Social
+Erythema,30,2,PubMed & Social
+Tachycardia,30,2,PubMed & Social
+Compulsive Behavior,25,2,PubMed & Social
+Gangrene,23,2,PubMed & Social
+Pneumonia,21,2,PubMed & Social
+Osteomyelitis,19,2,PubMed & Social
+Amnesia,16,2,PubMed & Social
+Lethargy,13,2,PubMed & Social
+Malnutrition,11,2,PubMed & Social
+Fractures,8,2,PubMed & Social
+Retching,8,2,PubMed & Social
+Bradycardia,7,2,PubMed & Social
+Fasciitis,6,2,PubMed & Social
+Glycosuria,6,2,PubMed & Social
+Hypercholesterolemia,6,2,PubMed & Social
+Neurotoxicity,6,2,PubMed & Social
+Bezoar,230,3,PubMed
+Atheroma,91,3,PubMed
+Hypoxia,68,3,PubMed
+Nephrotoxicity,67,3,PubMed
+Pruritus (Itching),67,3,PubMed
+Stiffness,42,3,PubMed
+Hyperphagia,32,3,PubMed
+Cardiotoxicity,26,3,PubMed
+Ischemia,24,3,PubMed
+Polyneuropathies,23,3,PubMed
+Paresthesia,20,3,PubMed
+Hyperplasia,18,3,PubMed
+Arteriosclerosis,8,3,PubMed
+Demyelination,8,3,PubMed
+Dyskinesia,8,3,PubMed
+Hyperemia,8,3,PubMed
+Increase in Amylase,NA,4,Manufecturers & GPT
+Serious Allergic Reaction,NA,4,Manufecturers & GPT
+Thyroid C-Cell Tumors,NA,4,Manufecturers & GPT
+Injection Site Nodule,14.5,4,Manufecturers & GPT
+Sinus Tachycardia,11.5,4,Manufecturers & GPT
+Hair Loss,6,4,Manufecturers & GPT
+First-Degree Atrioventricular (AV) Block,4.6,4,Manufecturers & GPT
+Elevated Serum Lipase,2.1,4,Manufecturers & GPT
+Dysgeusia,1.7,4,Manufecturers & GPT
+High Calcitonin,1.2,4,Manufecturers & GPT
+Breast Cancer,0.7,4,Manufecturers & GPT
+Colorectal Neoplasms,0.6,4,Manufecturers & GPT
+Papillary Thyroid Cancer,0.2,4,Manufecturers & GPT
+Elevated Serum Amylase,0.1,4,Manufecturers & GPT
+Irritability,58,5,Social only
+Burns,46,5,Social only
+Numbness,45,5,Social only
+Hypogonadism,31,5,Social only
+Cough,26,5,Social only
+Paralysis,24,5,Social only
+Anger,22,5,Social only
+Hoarseness,22,5,Social only
+Bulimia,19,5,Social only
+Suicidal,18,5,Social only
+Anhedonia,12,5,Social only
+Frustration,12,5,Social only
+Onycholysis,12,5,Social only
+Endometriosis,11,5,Social only
+Ketonemia,6,5,Social only
+Apathy,4,5,Social only
+Aura,4,5,Social only
+Hirsutism,4,5,Social only
+Infertility,4,5,Social only
+Narcolepsy,4,5,Social only
+Snoring,4,5,Social only
+Eructation,35,6,Manufecturers & Social
+Bloating,30,6,Manufecturers & Social
+Back Pain,12,6,Manufecturers & Social
+Hepatotoxicity,6,6,Manufecturers & Social
+Syncope,4.6,6,Manufecturers & Social
+Appendicitis,3,6,Manufecturers & Social
+Blurred Vision,15,7,Pubmed & manufacturers
