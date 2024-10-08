@@ -90,17 +90,6 @@ for index, row in df_filtered.iterrows():
 
 # Load existing progress if available
 graph_documents_list=[]
-start_index = 0
-
-try:
-    with open(save_path, 'rb') as f:
-        graph_documents_list = pickle.load(f)
-    start_index = len(graph_documents_list) * 50 # Start the loop where it left off based on the length of the saved data
-    print(f"Resuming from index: {start_index}")
-except FileNotFoundError:
-    print("No existing file found.", f"Starting from index: {start_index}")
-
-
 
 llm = ChatOpenAI(temperature=0,
                  model="gpt-4o-mini",
@@ -113,25 +102,7 @@ llm_transformer = LLMGraphTransformer(
     allowed_relationships=[],
     )
 
-
-for i in range(start_index, len(documents),50):
-    print(f"Processing document {i+1}/{len(documents)}")
-    try:
-        graph_documents = llm_transformer.convert_to_graph_documents(documents[i:i+50])
-    except Exception as e:
-        print(f"Error: {e}")
-        if "sending request too quickly" in str(e):
-            time.sleep(3)  # Sleep for 3 seconds before retrying
-            graph_documents = llm_transformer.convert_to_graph_documents(documents[i:i+50])
-    time.sleep(0.5)  # General throttle to avoid errors
-
-    graph_documents_list.append(graph_documents)
-
-    # Save progress after every 10 iteration
-    if (i // 5) % 10 == 0:
-      with open(save_path, 'wb') as f:
-          pickle.dump(graph_documents_list, f)
-          print(f"Progress saved after processing document {i+1}/{len(documents)} to: {os.getcwd()}")
+graph_documents = llm_transformer.convert_to_graph_documents(documents[i:i+50])
 
 print(f"Nodes:{graph_documents[0].nodes}")
 print(f"Relationships:{graph_documents[0].relationships}")
