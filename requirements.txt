@@ -23,3 +23,5 @@ collections-extended==1.0.3
 textblob==0.15.3
 seaborn==0.11.2
 biopython==1.80
+langchain_core==0.0.201
+neo4j==4.4.3
